@@ -1,0 +1,70 @@
+Tox
+
+Home
+About
+Features
+Contribute
+
+Secure messaging for the rest of us.
+With the rise of widespread government monitoring programs, Tox is an easy to use application that allows you to connect with friends and loved ones without anyone else listening in.
+
+Learn more
+Download
+
+##### DIVIDER -- DO NOT TRANSLATE
+
+About Tox
+
+Tox is built with the idea that you can keep up with friends and family without having your privacy violated.
+While other big-name services require you to pay to unlock features, Tox is free in both price, and in liberty.
+That is, you’re free to do whatever you wish with Tox.
+
+##### DIVIDER -- DO NOT TRANSLATE
+
+Some cool features
+
+Messages
+
+At your fingertips.
+You're always in the loop with instant encrypted messaging.
+
+Calls
+
+Stay in touch.
+Make free and secure Tox to Tox calls.
+
+Video
+
+Seeing is believing.
+Catch up face to face with a secure video call.
+
+##### DIVIDER -- DO NOT TRANSLATE
+
+Instant messaging, video conferencing, and more
+
+Security
+Tox takes your privacy seriously.<br/>With <span class="text bold">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.
+
+Ease of Use
+Unlike other secure messaging solutions, Tox does not require you to be a computer programmer to use it. Tox comes out-of-the-box with an <span class="text bold">easy-to-use</span> interface that allows you to focus on your conversations.
+
+Freedom
+Tox is both free for you to use, and free for you to change. You are completely free to both use and modify Tox. Furthermore, <span class="text bold">Tox will never harass you with ads, or require you to pay for features.</span>
+
+##### DIVIDER -- DO NOT TRANSLATE
+
+Contribute
+
+Want to help? We're on <span class="text normal color white">GitHub</span>.
+No coding experience is necessary.
+
+Source on GitHub
+
+Free Software
+We're cool guys from <span class="text normal">all around the world</span>.
+
+Join the team
+Help build TOX on <a href="https://github.com/irungentoo/ProjectTox-Core" class="text bold underline color theme">GitHub</a>.
+
+Need some help?
+Start your own project and ask us on <span class="text normal">GitHub</span>, or in <a href="ircs://irc.freenode.net/InsertProjectNameHere" class="text bold underline color theme">IRC</a>!
