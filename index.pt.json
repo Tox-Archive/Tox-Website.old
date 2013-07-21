@@ -12,7 +12,7 @@
     "nv_contribute": "Contribua",
     
     "sect1_slogan": "Mensagens seguras para o mundo inteiro.",
-    "sect1_description": "Com o aumento de programas de monitoramento governamentais, Tox é um programa fácil de usar que te permite conectar-se com seus amigos e entes queridos, sem que ninguém espie.",
+    "sect1_description": "Com o aumento de programas de monitoramento governamentais, Tox é um programa fácil de usar que permite sua conexão com amigos e entes queridos, sem que ninguém espie.",
     "sect1_learnmore": "Saiba mais",
     "sect1_download": "Download",
     
@@ -38,13 +38,13 @@
     "sect4_principles": "Mensagens instantâneas, videoconferência‎s e mais",
     
     "sect4_security": "Segurança",
-    "sect4_security_blurb": "Tox leva sua privacidade a sério.\n Com <span class=\"text bold\">criptografia de primeira classe</span>, você pode ficar despreocupado, sabendo que as únicas pessoas sabendo das suas mensagens são as que você deseja que saibam.",
+    "sect4_security_blurb": "Tox leva sua privacidade a sério.\n Com <span class=\"text bold\">criptografia de primeira classe</span>, você pode ficar despreocupado, sabendo que as únicas pessoas a par de suas mensagens são as que você deseja.",
     
     "sect4_easy": "Facilidade de uso",
     "sect4_easy_blurb": "Diferentemente de outras soluções de mensagens seguras, Tox não exige que você seja um mestre dos computadores para utilizá-lo. Tox vem direto com uma interface <span class=\"text bold\">fácil de usar</span> que te permite focar no que importa, as conversas.",
     
     "sect4_freedom": "Liberdade",
-    "sect4_freedom_blurb": "Tox é livre para você usar e livre para você modificar. Você tem total controle sobre ele. Além disso, <span class=\"text bold\">Tox nunca vai te perturbar com propagandas ou exigir dinheiro para desbloquear funções</span>",
+    "sect4_freedom_blurb": "Tox é livre para você usar e modificar. Você tem total controle sobre ele. Além disso, <span class=\"text bold\">Tox nunca vai te perturbar com propagandas ou exigir dinheiro para desbloquear funções</span>",
     
     
     "sect5_contribute": "Contribua",
@@ -59,5 +59,5 @@
     "sect6_joinongithub": "Ajude a construir o Tox no <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Precisa de ajuda?",
-    "sect6_githubtoirc": "Comece seu próprio projeto e nos pergunte no <span class=\"text normal\">GitHub</span>, ou no <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Comece seu próprio projeto e nos pergunte sobre ele no <span class=\"text normal\">GitHub</span>, ou no <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
