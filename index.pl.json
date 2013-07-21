@@ -1,0 +1,63 @@
+{
+    "_author": "diath",
+    "_language": "Polski",
+    "_comment": "",
+    "_ind": 3,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Główna",
+    "nv_about": "O Projekcie",
+    "nv_features": "Funkcje",
+    "nv_contribute": "Wsparcie",
+    
+    "sect1_slogan": "Bezpieczna wymiana wiadomości dla wszystkich.",
+    "sect1_description": "Wraz z rosnącym globalnym systemem inwigilacji rządu, powstał projekt Tox. Tox jest prostą aplikacją która pozwoli Ci na skontaktowanie się i wymianę wiadomości z Twoimi znajomymi i bliskimi bez obaw o to, że ktoś Cię podsłuchuje lub szpieguje.",
+    "sect1_learnmore": "Dowiedz się więcej",
+    "sect1_download": "Pobierz",
+    
+    
+    "sect2_abouttox": "O Projekcie",
+    
+    "sect2_aboutbody": "Tox został stworzony z myślą o tym, abyś mógł skontaktować się ze swoimi znajomymi i rodziną bez obawy o twoją prywatność.\n Podczas gdy wszystkie inne sławne serwisy wymagają płacenia za odblokowanie danych funkcji i opcji programu, Tox jest w 100% darmową aplikacją, za równo pod względem pieniędzy jak i prywatności.\n To oznacza, że przy pomocy Tox możesz robić cokolwiek tylko chcesz - za darmo.",
+    
+    
+    "sect3_messages": "Funkcje programu",
+    
+    "sect3_messages": "Wiadomości",
+    "sect3_messages_blurb": "Prywatne szyfrowane wiadomości dostępne na wyciągnięcie ręki!",
+    
+    "sect3_voice": "Rozmowy",
+    "sect3_voice_blurb": "Bądź w kontakcie.\n Dzwoń do znajomych używając bezpłatnej i bezpiecznej funkcji rozmów.",
+    
+    "sect3_video": "Videorozmowy",
+    "sect3_video_blurb": "Zobaczyć znaczy uwierzyć.\n Porozmawiaj twarzą w twarz ze swoimi znajomymi przy użyciu opcji bezpiecznej rozmowy video.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Błyskawiczne wiadomości, videokonferencje i dużo więcej",
+    
+    "sect4_security": "Bezpieczeństwo",
+    "sect4_security_blurb": "Tox dba o Twoją prywatność.\n Dzięki zaawansowanej technologi szyfrowania, masz pewność, że jedynymi osobami które przeczytają Twoją wiadomość będziecie Ty i Twoi odbiorcy.",
+    
+    "sect4_easy": "Łatwość w obsłudze",
+    "sect4_easy_blurb": "Przeciwstawnie do innych aplikacji, Tox nie wymaga od Ciebie bycia zaawansowanym użytkownikiem komputera. Jest on zbudowany z myślą o wszystkich użytkownikach, bazuje na prostym interfejsie skupionym na łatwości w obsłudze.",
+    
+    "sect4_freedom": "Wolność",
+    "sect4_freedom_blurb": "Tox jest darmową aplikacją do użytku i modyfikacji. Masz prawo do zarówno użytkowania go, jak i modyfikowania.\n Ponadto, <span class=\"text bold\">Tox nigdy nie będzie męczyć Cię reklamami, ani wymagać od Ciebie płatności za jakąkolwiek funkcję programu</span>.",
+    
+    
+    "sect5_contribute": "Wsparcie",
+    
+    "sect5_github": "Chcesz nam pomóc? Znajdziesz nas w sieci <span class=\"text normal color white\">GitHub</span>.\n Doświadczenie związane z programowaniem nie jest wymagane.",
+    "sect5_sourceongithub": "Kod źródłowy",
+    
+    "sect6_freesoftware": "Darmowe Oprogramowanie",
+    "sect6_developers": "Jesteśmy świetną ekipą zebraną z <span class=\"text normal\">całego świata</span>!",
+    
+    "sect6_jointheteam": "Dołącz do nas",
+    "sect6_joinongithub": "Wspomóż tworzyć Tox razem z nami w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Potrzebujesz pomocy?",
+    "sect6_githubtoirc": "Zacznij swój projekt i zadaj nam swoje pytania w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>, lub na naszym kanale <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
