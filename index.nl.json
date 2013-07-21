@@ -13,22 +13,22 @@
     
     "sect1_slogan": "Veilig chatten voor de rest van ons",
     "sect1_description": "Met het continue totalitaire surveillance door de overheid, is het mogelijk met Tox te chatten met iedereen zonder dat anderen het kunnen lezen",
-    "sect1_learnmore": "Lees door",
+    "sect1_learnmore": "Lees Meer",
     "sect1_download": "Download",
     
     
     "sect2_abouttox": "Over Tox",
     
-    "sect2_aboutbody": "Tox is gemaakt met als doel dat u met uw vrienden en familie kunt chatten zonder dat uw privacy wordt\n geschonden. Terwijl andere bekende services geld vragen voor bepaalde functies van het programma, is\n Tox gratis en compleet veilig. Dat betekent dat u vrij bent om Tox naar verlangen aan te passen.",
+    "sect2_aboutbody": "Tox is gemaakt met het doel u met uw vrienden en familie te laten chatten zonder dat uw privacy wordt\n geschonden. Terwijl andere bekende diensten geld vragen voor bepaalde functies van het programma, is\n Tox gratis en compleet veilig. Dat betekent dat u vrij bent om Tox naar verlangen aan te passen.",
     
     
-    "sect3_messages": "Andere gave eigenschappen",
+    "sect3_messages": "Andere eigenschappen",
     
     "sect3_messages": "Berichten",
-    "sect3_messages_blurb": "In de palm van uw hand.\n U kunt altijd chatten met een instant geencrypteerde connectie.",
+    "sect3_messages_blurb": "In de palm van uw hand.\n U kunt altijd chatten met een versleutelde verbinding.",
     
     "sect3_voice": "Gesprekken",
-    "sect3_voice_blurb": "Blijf in aanraking.\n Maak gratis en beveiligde  telefoongesprekken naar andere Toxgebruikers.",
+    "sect3_voice_blurb": "Blijf in contact.\n Maak gratis en beveiligde telefoongesprekken naar andere Toxgebruikers.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Zien is geloven.\n Het is met Tox ook mogelijk om videogesprekken te maken.",
@@ -38,10 +38,10 @@
     "sect4_principles": "Instant messaging, videogesprekken, en meer",
     
     "sect4_security": "Beveiliging",
-    "sect4_security_blurb": "Tox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande encryptiemethoden</span>, kunt u er zeker van zijn dat degenen die u contacteert ook de enigen zijn die die berichten kunnen lezen.",
+    "sect4_security_blurb": "Tox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande encryptiemethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die die berichten kan lezen.",
     
     "sect4_easy": "Gebruiksvriendelijkheid",
-    "sect4_easy_blurb": "Om Tox hoeft u geen professionele computerprogrammeur te zijn om het te kunnen gebruiken. Dankzij Tox's <span class=\"text bold\">gebruiksvriendelijk</span> uiterlijk kunt u zich compleet richten op de conversatie.",
+    "sect4_easy_blurb": "Om Tox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij Tox's <span class=\"text bold\">gebruiksvriendelijk</span> uiterlijk kunt u zich compleet richten op de conversatie.",
     
     "sect4_freedom": "Vrijheid",
     "sect4_freedom_blurb": "Tox is gratis qua gebruik en modificatie, u kunt Tox compleet naar verlangen aanpassen zonder extra kosten. Bovendien, <span class=\"text bold\">Tox zal u nooit advertenties tonen of extra geld vragen voor bepaalde functies.</span>",
@@ -53,11 +53,11 @@
     "sect5_sourceongithub": "Source op GitHub",
     
     "sect6_freesoftware": "Gratis Software",
-    "sect6_developers": "Wij zijn coole gasten <span class=\"text normal\">van over de hele wereld</span>.",
+    "sect6_developers": "Wij zijn Programmeurs <span class=\"text normal\">van over de hele wereld</span>.",
     
     "sect6_jointheteam": "Doe mee",
     "sect6_joinongithub": "Help Tox meebouwen op <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Hulp nodig?",
-    "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of te <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
