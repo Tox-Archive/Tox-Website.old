@@ -44,7 +44,7 @@
     "sect4_easy_blurb": "على عكس وسائل مراسلة أمنة أخري, توكس لايتطلب خبرة باستعمال الحاسوب لأستخدامه. توكس ياتي مع واجهة مستخدم <span class=\"text bold\">سهلة الأستخدام</span> وتسمح لك بالتركيز على محادثاتك.",
     
     "sect4_freedom": "الحرية",
-    "sect4_freedom_blurb": "توكس يمنحك الحرية الكاملة لتستعمله مجانا وأن تعدل فيه كما يخدم أحتياجاتك. والأكثر من ذلك, <span class="text bold">توكس لم يزعجك بالأعلانات و لن يشترط الدفع لتفعيل أي مميزات.</span>",
+    "sect4_freedom_blurb": "توكس يمنحك الحرية الكاملة لتستعمله مجانا وأن تعدل فيه كما يخدم أحتياجاتك. والأكثر من ذلك, <span class=\"text bold\">توكس لم يزعجك بالأعلانات و لن يشترط الدفع لتفعيل أي مميزات.</span>",
     
     
     "sect5_contribute": "ساهم",
@@ -56,7 +56,7 @@
     "sect6_developers": "نحن مجموعة من الأشخاص المهتمين <span class=\"text normal\">من جميع أنحاء العالم</span>.",
     
     "sect6_jointheteam": "أنضم للفريق",
-    "sect6_joinongithub": "ساعد في بناء توكس على <a href="https://github.com/irungentoo/ProjectTox-Core" class="text bold underline color theme">GitHub</a>.",
+    "sect6_joinongithub": "ساعد في بناء توكس على <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "تحتاج إلى المساعدة?",
     "sect6_githubtoirc": "إبداء مشروعك الخاص و اسئلنا على <span class=\"text normal\">GitHub</span>, أو على <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
