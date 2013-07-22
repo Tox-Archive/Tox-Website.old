@@ -1,0 +1,63 @@
+{
+    "_author": "carbon-14",
+    "_language": "Русский",
+    "_comment": "",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Начало",
+    "nv_about": "О проекте",
+    "nv_features": "О программе",
+    "nv_contribute": "Стать участником",
+    
+    "sect1_slogan": "Secure messaging for the rest of us.",
+    "sect1_description": "Правительства многих стран внедряют программы мониторинга личных сообщений. Tox - простая и удобная программа для общения с друзьями и любимыми без лишних ушей..",
+    "sect1_learnmore": "Узнать больше",
+    "sect1_download": "Загрузить",
+    
+    
+    "sect2_abouttox": "О  Tox",
+    
+    "sect2_aboutbody": "Tox создан для того, чтобы позволить вам оставаться на связи с близкими без нарушений приватности.\n Использование сервисов - лидеров рынка требует платы, тогда как Tox - свободно распространяемая и бесплатная программа.\n Это значит, вы можете делать с Tox все, что вам угодно.",
+    
+    
+    "sect3_messages": "Что умеет программа",
+    
+    "sect3_messages": "Сообщения",
+    "sect3_messages_blurb": "Всегда под рукой.\n Легкий способ всегда иметь возможность абсолютно приватной переписки.",
+    
+    "sect3_voice": "Звонки",
+    "sect3_voice_blurb": "Оставайтесь на связи.\n Звонки между пользователями Tox бесплатны и безопасны.",
+    
+    "sect3_video": "Видео",
+    "sect3_video_blurb": "Лучше один раз увидеть.\n Безопасные звонки - видеовстречи наедине.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Текстовые сообщения, видеоконференции и многое другое",
+    
+    "sect4_security": "Безопасность",
+    "sect4_security_blurb": "Tox серьёзно относится к вашей безопасности.<br/>Использование<span class=\"text bold\">максимально защищенного шифрования</span> позволяет вам быть уверенным, что сообщения может прочесть лишь их адресат.",
+    
+    "sect4_easy": "Простота использования",
+    "sect4_easy_blurb": "Большинство программ, использующих шифрование, сложны в установке и настройке. Вам не нужно быть специалистом, чтобы использовать Tox  - он работает сразу после установки и <span class=\"text bold\">лёгок</span> в использовании, не отвлекая вас от ваших разговоров.",
+    
+    "sect4_freedom": "Свобода",
+    "sect4_freedom_blurb": "Tox бесплатен и свободен. Вы можете использовать программу или модифицировать её. Более того, <span class=\"text bold\">Tox никогда не станет подвовывать вам рекламу или вымогать деньги за дополнительные возможности.</span>",
+    
+    
+    "sect5_contribute": "Стать участником",
+    
+    "sect5_github": "Хотите помочь? Наш проект на <span class=\"text normal color white\">GitHub</span>.\n Опыт в программировании не обязателен.",
+    "sect5_sourceongithub": "Исходный код на GitHub",
+    
+    "sect6_freesoftware": "Свободное программное обеспечение",
+    "sect6_developers": "В нашей классной команде - люди <span class=\"text normal\">со всех концов света</span>.",
+    
+    "sect6_jointheteam": "Присоединяйтесь!",
+    "sect6_joinongithub": "Помогайте разрабатывать TOX на <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Нужна помощь?",
+    "sect6_githubtoirc": "Начните свой проект и свяжитесь с нами на <span class=\"text normal\">GitHub</span>, или в сети <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
