@@ -22,8 +22,6 @@ def do_format_template(name, template):
         language = language.split(".")[-2]
         if not re.match(r"^[a-z0-9\-]+$", language):
             continue
-        if not os.path.isdir(os.path.join("site", language)):
-            os.mkdir(os.path.join("site", language))
         with open("{0}.{1}.json".format(basename, language), "r") as lf:
             try:
                 values = json.load(lf)
