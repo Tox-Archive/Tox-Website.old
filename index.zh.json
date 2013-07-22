@@ -3,38 +3,61 @@
 "_language": "中國的",
 "_comment": "",
 "_ind": 0,
+
 "lf_title": "Tox",
+
 "nv_home": "家",
 "nv_about": "关于",
 "nv_features": "特性",
 "nv_contribute": "贡献",
+
 "sect1_slogan": "保护我们剩下的人的通话信息安全",
 "sect1_description": "使用TOX可以让你在和家人，朋友，爱人交流时保护你的意思不受政府无孔不入的的偷窥.",
 "sect1_learnmore": "了解更多",
 "sect1_download": "下载",
+
+
 "sect2_abouttox": "关于TOX",
+
 "sect2_aboutbody": "其他牛逼的软件因为一些细化服务问你要钱的时候， TOX分文不取 .\n 你用了TOX， 想干嘛就干嘛.",
+
+
 "sect3_messages": "一些牛逼的特性",
+
 "sect3_messages": "消息",
 "sect3_messages_blurb": "在你的指尖 .\n 你的消息被完全加密 .",
+
 "sect3_voice": "Calls（通话）",
 "sect3_voice_blurb": "保持联系 .\n 使用免费和安全的TOX之间的联系.",
+
 "sect3_video": "Video（视频）",
 "sect3_video_blurb":  "眼见为实， 现在就来体验面对面视频电话 .",
+
 "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
 "sect4_principles": "持续的消息， 视频会议以及更多",
+
 "sect4_security": "安全问题",
 "sect4_security_blurb": "TOX为你严守隐.<br/> 有了 <span class=\"text bold\">顶尖加密程序</span>,除了你要联系的人， 没有别人都窥探到你半点隐私.",
+
 "sect4_easy": "使用指南",
 "sect4_easy_blurb": "不像别的加密聊天程序，任何人都能轻松上手TOX. TOX让您现学现用，集中精力聊天",
+
 "sect4_freedom": "自由",
 "sect4_freedom_blurb": "TOX完全免费使用与更改， 用免费， 修改也是免费, TOX永远不会发广告骚扰你， 也不会让你为了一些附加特性付钱",
+
+
 "sect5_contribute": "贡献",
+
 "sect5_github": "需要帮助么？我们在这里 <span class=\"text normal color white\">GitHub</span>.\n 不加密的体验是必要的",
 "sect5_sourceongithub": "Github上的源代码",
+
 "sect6_freesoftware": "免费软件",
 "sect6_developers": "我们是来自全世界的精英",
+
 "sect6_jointheteam": "加入队伍",
 "sect6_joinongithub": "帮助打造TOX <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-"sect6_needhelp": "Need some help?","sect6_githubtoirc": "建立你自己的项目并且让我们加入 <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+
+"sect6_needhelp": "Need some help?",
+"sect6_githubtoirc": "建立你自己的项目并且让我们加入 <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
