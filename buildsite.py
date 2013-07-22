@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 from __future__ import print_function
 import json
 import os
@@ -41,7 +41,7 @@ def do_format_template(name, template):
     lang_list[-1]["last"] = 1
     for language in language_files:
         language = language.split(".")[-2]
-        with open("site/{1}/{0}.html".format(basename, language), "w") as outfile:
+        with open("site/{1}.html".format(basename, language), "w") as outfile:
             if sys.version_info.major == 2:
                 outfile.write(renderer.render(template, lang_values[language],
                               languages=lang_list).encode("utf-8"))
