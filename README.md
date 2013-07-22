@@ -44,3 +44,5 @@ What we have so far
 - Turkish
 - Spanish
 - French
+- Arabic
+- Russian
