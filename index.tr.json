@@ -1,7 +1,7 @@
 {
     "_author": "Xistance",
     "_language": "Türkçe",
-    "_comment": "v1.0",
+    "_comment": "v1.1",
     "_ind": 1,
 
     "lf_title": "Tox",
@@ -11,9 +11,9 @@
     "nv_features": "Özellikler",
     "nv_contribute": "Katkıda Bulun",
     
-    "sect1_slogan": "Bizler için güvenli mesajlaşma.",
-    "sect1_description": "Hükümetin izleme programlarının artışı ile birlikte, Tox arkadaşlarınızla, ailenle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izlemediği bir şekilde kolayca kullanılabilen bir uygulamadır.",
-    "sect1_learnmore": "Daha fazla ögren",
+    "sect1_slogan": "Bizler için güvenilir mesajlaşma.",
+    "sect1_description": "Hükümetin takibi ile birlikte, Tox arkadaşlarınızla, ailenle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izlemediği bir şekilde kolayca kullanılabilen bir uygulamadır.",
+    "sect1_learnmore": "Daha fazla öğren",
     "sect1_download": "İndir",
     
     
@@ -25,10 +25,10 @@
     "sect3_messages": "Bazı özellikler",
     
     "sect3_messages": "Mesajlar",
-    "sect3_messages_blurb": "Parmaklarınızın ucunda.\n Anında şifreli mesajlaşma ile her zaman bu döngünun içerisindesiniz.",
+    "sect3_messages_blurb": "Parmaklarınızın altında.\n Anlık şifreli mesajlaşma ile her zaman bu döngünun içerisindesiniz.",
     
     "sect3_voice": "Aramalar",
-    "sect3_voice_blurb": "Bağınızı koparmayın.\n Tox ile Tox arasında bedava ve güvenli aramalar yapın.",
+    "sect3_voice_blurb": "Bağınızı koparmayın.\n Tox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Görmek inanmaktır.\n Yüz yüze konuşmalarla hiçbir zaman eksik kalmayın.",
@@ -38,26 +38,26 @@
     "sect4_principles": "Anında mesajlaşma, video konferansı, ve daha fazlası",
     
     "sect4_security": "Güvenlik",
-    "sect4_security_blurb": "Tox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen sifreleme</span> ile, yazdıklarınız ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden rahat olabilirsiniz.",
+    "sect4_security_blurb": "Tox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınız ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden rahat olabilirsiniz.",
     
     "sect4_easy": "Kullanım Kolaylığı",
     "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı, Tox kullanmak için sizin bir bilgisayar yazılımcısı olmanızı istemez. Tox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
     
-    "sect4_freedom": "Özgür",
-    "sect4_freedom_blurb": "Tox hem kullanılması bedava, hem de değiştirilmesi de serbest. Siz Tox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">Tox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
+    "sect4_freedom": "Özgürlük",
+    "sect4_freedom_blurb": "Tox hem kullanılması bedava, hem de değiştirilmesi serbest. Siz Tox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">Tox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
     
     
     "sect5_contribute": "Katkıda Bulun",
     
     "sect5_github": "Yardım etmek ister misiniz? Bizi <span class=\"text normal color white\">GitHub</span>'da bulabilirsiniz.\n Herhangi yazılım tecrübesi gerekmez.",
-    "sect5_sourceongithub": "Kaynak GitHub'da",
+    "sect5_sourceongithub": "GitHub",
     
     "sect6_freesoftware": "Özgür Yazılım",
     "sect6_developers": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> insanlarız.",
     
     "sect6_jointheteam": "Ekibe katıl",
-    "sect6_joinongithub": "Tox'ı oluşturmamızda yardımcı ol <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_joinongithub": "Tox'ı oluşturmak isterseniz tüm bilgileri <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>'da bulabilirsiniz.",
     
     "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
-    "sect6_githubtoirc": "Kendi projeni başlat ve bize buradan ulaşabilirsiniz. <span class=\"text normal\">GitHub</span>, ya da <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>'dir!"
 }
