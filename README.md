@@ -14,6 +14,7 @@ Translations
 ============
 
 As well as new translations, improvement of translations we already have is welcome too. Just copy ``index.en.json`` to ``index.??.json``, where ``??`` is your language's [ISO 639 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).  
+If the language you are translating to has more than one dialect (for example: Brazilian Portuguese vs Portuguese Portuguese), you can add ``-??`` before ``.json``, where ``??`` is a unique code for your dialect. A full example: ``index.pt-br.json``
 
 Language file metadata
 ----------------------
