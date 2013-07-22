@@ -1,0 +1,63 @@
+{
+    "_author": "partuso",
+    "_language": "Español",
+    "_comment": "",
+    "_ind": 1,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Inicio",
+    "nv_about": "Información",
+    "nv_features": "Características",
+    "nv_contribute": "Contribuye",
+    
+    "sect1_slogan": "Mensajería segura para el resto de nosotros.",
+    "sect1_description": "Con el aumento de programas gubernamentales de monitoreo, Tox es una aplicación fácil de usar que te permite conectar con amigos y amados sin que nadie más escuche en el medio.",
+    "sect1_learnmore": "Averigua más",
+    "sect1_download": "Descargar",
+    
+    
+    "sect2_abouttox": "Acerca de Tox",
+    
+    "sect2_aboutbody": "Tox está hecho con la idea de que puedas estar en contacto con tus amigos y familiares sin tener tu privacidad violada.\n Mientras que otros servicios de gran nombre requieren que pagues para desbloquear características, Tox es gratis y libre.\n Eso significa que eres libre de hacer lo que quieras con Tox.",
+    
+    
+    "sect3_messages": "Algunas características interesantes",
+    
+    "sect3_messages": "Mensajes",
+    "sect3_messages_blurb": "Al alcanze de tus dedos.\n Estás siempre al tanto con la mensajería instantánea encriptada.",
+    
+    "sect3_voice": "Llamadas",
+    "sect3_voice_blurb": "Mantente en contacto.\n Haz llamadas de Tox a Tox gratuitas y seguras.",
+    
+    "sect3_video": "Vídeo",
+    "sect3_video_blurb": "Ver es creer.\n Ponte al día cara a cara con una videollamada segura.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Mensajería instantánea, videoconferencia y más",
+    
+    "sect4_security": "Seguridad",
+    "sect4_security_blurb": "Tox se toma tu privacidad en serio.<br/>Con <span class=\"text bold\">encriptación de primera clase</span>, puedes estar tranquilo sabiendo que las únicas personas leyendo tus mensajes son a las cuales se los mandaste.",
+    
+    "sect4_easy": "Facilidad de Uso",
+    "sect4_easy_blurb": "Al contrario que otras soluciones de mensajería segura, Tox no requiere que seas un programador para usarlo. Tox viene de fábrica con una interfaz <span class=\"text bold\">fácil de usar</span> que te permite enfocar en tus conversaciones.",
+    
+    "sect4_freedom": "Libertad",
+    "sect4_freedom_blurb": "Tox es tanto libre para que lo uses, como para que lo cambies. Estás completamente libre de usar y modificar Tox. Aún más, <span class=\"text bold\">Tox nunca te acosará con anuncios, ni requerirá que pagues por características.</span>",
+    
+    
+    "sect5_contribute": "Contribuye",
+    
+    "sect5_github": "¿Quieres ayudar? Estamos en <span class=\"text normal color white\">GitHub</span>.\n Ninguna experiencia con código es necesaria.",
+    "sect5_sourceongithub": "Fuente en GitHub",
+    
+    "sect6_freesoftware": "Software Libre",
+    "sect6_developers": "Somos buenos muchachos de <span class=\"text normal\">al rededor de todo el mundo</span>.",
+    
+    "sect6_jointheteam": "Únete al equipo",
+    "sect6_joinongithub": "Ayuda a construir TOX en <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "¿Necesitas ayuda?",
+    "sect6_githubtoirc": "¡Empieza tu propio proyecto y consúltanos en <span class=\"text normal\">GitHub</span>, o por <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
