@@ -42,4 +42,4 @@ What we have so far
 - Brazilian Portuguese
 - Swedish
 - Turkish
-
+- Spanish
