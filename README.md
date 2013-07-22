@@ -31,8 +31,9 @@ What we have so far
 
 **Verified**:
 
-- English
-- German
+- English (verified by everyone)
+- German (verified by slowpoke)
+- Russian (verified by nurupo)
 
 **Needing verification (from someone who isn't the original translator)**:
 
@@ -45,4 +46,3 @@ What we have so far
 - Spanish
 - French
 - Arabic
-- Russian
