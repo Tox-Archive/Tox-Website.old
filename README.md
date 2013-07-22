@@ -43,3 +43,4 @@ What we have so far
 - Swedish
 - Turkish
 - Spanish
+- French
