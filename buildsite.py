@@ -25,7 +25,11 @@ def do_format_template(name, template):
         if not os.path.isdir(os.path.join("site", language)):
             os.mkdir(os.path.join("site", language))
         with open("{0}.{1}.json".format(basename, language), "r") as lf:
-            values = json.load(lf)
+            try:
+                values = json.load(lf)
+            except ValueError:
+                print("Error in {0}.{1}.json!".format(basename, language))
+                raise
         for key in values:
             if isinstance(values[key], str):
                 values[key] = values[key].replace("\n", "<br>")
@@ -34,10 +38,15 @@ def do_format_template(name, template):
                           "ind": values["_ind"]})
         lang_values[language] = values
     lang_list.sort(key=lambda x: x["ind"])
+    lang_list[-1]["last"] = 1
     for language in language_files:
         language = language.split(".")[-2]
         with open("site/{1}/{0}.html".format(basename, language), "w") as outfile:
-            outfile.write(renderer.render(template, lang_values[language], languages=lang_list))
+            if sys.version_info.major == 2:
+                outfile.write(renderer.render(template, lang_values[language],
+                              languages=lang_list).encode("utf-8"))
+            else:
+                outfile.write(renderer.render(template, lang_values[language], languages=lang_list))
 
 def main():
     if not os.path.isdir(os.path.join(os.getcwd(), "site")):
