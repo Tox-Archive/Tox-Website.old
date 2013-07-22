@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+from __future__ import print_function
 import json
 import os
 import pystache
+import re
 import shutil
 import sys
 
@@ -18,6 +20,10 @@ def do_format_template(name, template):
     lang_list = []
     for language in language_files:
         language = language.split(".")[-2]
+        if not re.match(r"^[a-z0-9\-]+$", language):
+            continue
+        if not os.path.isdir(os.path.join("site", language)):
+            os.mkdir(os.path.join("site", language))
         with open("{0}.{1}.json".format(basename, language), "r") as lf:
             values = json.load(lf)
         for key in values:
@@ -30,7 +36,7 @@ def do_format_template(name, template):
     lang_list.sort(key=lambda x: x["ind"])
     for language in language_files:
         language = language.split(".")[-2]
-        with open("site/{0}.{1}.html".format(basename, language), "w") as outfile:
+        with open("site/{1}/{0}.html".format(basename, language), "w") as outfile:
             outfile.write(renderer.render(template, lang_values[language], languages=lang_list))
 
 def main():
