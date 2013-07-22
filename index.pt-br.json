@@ -12,14 +12,14 @@
     "nv_contribute": "Contribua",
     
     "sect1_slogan": "Mensagens seguras para o mundo inteiro.",
-    "sect1_description": "Com o aumento de programas de monitoramento governamentais, Tox é um programa fácil de usar que permite sua conexão com amigos e entes queridos, sem que ninguém espie.",
+    "sect1_description": "Com o aumento dos monitoramentos governamentais, Tox é um programa fácil de usar que permite sua conexão com amigos e entes queridos, sem que ninguém espie.",
     "sect1_learnmore": "Saiba mais",
     "sect1_download": "Download",
     
     
-    "sect2_abouttox": "Sobre Tox",
+    "sect2_abouttox": "Sobre o Tox",
     
-    "sect2_aboutbody": "Tox é construído com a ideia de que você pode manter contato com os amigos e a família sem ter sua privacidade violada.\n Enquanto outros serviços famosos requerem que você pague para liberar funções, Tox é grátis e livre.\n Isso é, você tem liberdade a de fazer o que quiser com Tox.",
+    "sect2_aboutbody": "Tox é construído com a ideia de que você pode manter contato com os amigos e a família sem ter sua privacidade violada.\n Enquanto outros serviços famosos requerem que você pague para liberar funções, Tox é grátis e livre.\n Isto é, você tem a liberdade de fazer o que quiser com Tox.",
     
     
     "sect3_messages": "Algumas funções legais",
@@ -30,7 +30,7 @@
     "sect3_voice": "Chamadas",
     "sect3_voice_blurb": "Mantenha contato.\n Faça chamadas de Tox para Tox de forma segura e sem custos.",
     
-    "sect3_video": "Video",
+    "sect3_video": "Vídeo",
     "sect3_video_blurb": "Ver é acreditar.\n Saiba das novidades com chamadas seguras de vídeo cara a cara.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
