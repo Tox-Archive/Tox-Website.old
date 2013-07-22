@@ -38,8 +38,7 @@
     "sect4_principles": "Pikaviestintää, videokokouksia, ja enemmän",
    
     "sect4_security": "Turvallisuus",
-    "sect4_security_blurb": "Tox ottaa yksityisyytesi erittäin vakavasti.<br/>Voit olla varma tietäen, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Sillä Tox sisältää <span class=\"text bold\">luokassaan parhaimman salauksen</span>.",
-    Voit olla varma tietäen, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Sillä Tox sisältää <span class=\"text bold\">luokassaan parhaimman salauksen</span>.
+    "sect4_security_blurb": "Tox ottaa yksityisyytesi erittäin vakavasti.\nVoit olla varma tietäen, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Sillä Tox sisältää <span class=\"text bold\">luokassaan parhaimman salauksen</span>.",
     "sect4_easy": "Helppokäyttöisyys",
     "sect4_easy_blurb": "Toisinkuin muut viestintä ohjelmat, Tox ei vaadi sinun olevan tietokone-expertti. Tox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
    
