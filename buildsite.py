@@ -59,7 +59,7 @@ def main():
     for template_name in templates:
         with open(template_name) as tmp_file:
             print("Building template {0}.".format(template_name))
-            do_format_template(template_name, tmp_file.read())
+            do_format_template(template_name, tmp_file.read().decode("utf-8"))
 
 if __name__ == "__main__":
     main()
