@@ -1,63 +1,63 @@
 {
-    "_author": "uncannycod",
-    "_language": "Português (Portugal)",
-    "_comment": "",
-    "_ind": 2,
- 
+    "_author": "themadman",
+    "_language": "Portuguese",
+    "_comment": "Translate from the english file, not this one!",
+    "_ind": 0,
+
     "lf_title": "Tox",
-   
+    
     "nv_home": "Home",
-    "nv_about": "Sobre",
-    "nv_features": "Funções",
-    "nv_contribute": "Contribua",
-   
-    "sect1_slogan": "Mensagens seguras para o resto de nós.",
-    "sect1_description": "Com o aumento da vigilância governamental, Tox é um programa fácil de usar que permite que se ligue aos seus amigos e aos seus entes queridos sem ser espiado.",
-    "sect1_learnmore": "Mais informação",
+    "nv_about": "Acerca",
+    "nv_features": "Funcionalidades",
+    "nv_contribute": "Contribuir",
+    
+    "sect1_slogan": "Mensagens seguras para todos nos.",
+    "sect1_description": "Com ao aumento de programas de espionagem governamental, Tox e uma aplicacao facil de usar que lhe permite ligar-se aos seus amigos e familia sem ser escutado por terceiros.",
+    "sect1_learnmore": "Saber mais",
     "sect1_download": "Download",
-   
-   
-    "sect2_abouttox": "Sobre o Tox",
-   
-    "sect2_aboutbody": "Tox é construído com a idéia de que você pode manter contacto com os seus amigos e a sua família sem que a sua privacidade seja violada.\n Enquanto muitos outros serviços famosos requerem que você pague para receber algumas funções extra vindas do programa, Tox é grátis e livre.\n Isto é, você tem a liberdade de fazer o que quiser com Tox.",
-                                                                                                                                                                                                                                                                                                                       
-   
-    "sect3_messages": "Algumas funções legais",
-   
+    
+    
+    "sect2_abouttox": "Acerca de Tox",
+    
+    "sect2_aboutbody": "Tox e construido com base na ideia que pode manter contacto com amigos e familia sem violar a sua privacidade.\n Enquanto servicos populares exigem que pague para desbloquear recursos, Tox e livre e gratuito.\n O que significa que o utilizador e livre para fazer o que desejar com o software.",
+    
+    
+    "sect3_messages": "Algumas funcionalidades interessantes",
+    
     "sect3_messages": "Mensagens",
-    "sect3_messages_blurb": "Na palma da sua mão.\n Você está sempre ligado a mensagens instantâneas e encriptadas.",
-   
+    "sect3_messages_blurb": "Nas pontas dos dedos. Esteja sempre informado, com mensagens instantaneas e encriptadas.",
+    
     "sect3_voice": "Chamadas",
-    "sect3_voice_blurb": "Mantenha contacto.\n Faça chamadas de Tox para Tox de forma segura e sem custos.",
-   
-    "sect3_video": "Vídeo",
-    "sect3_video_blurb": "Ver é acreditar.\n Saiba das novidades com chamadas seguras de vídeo frente a frente.",
-   
+    "sect3_voice_blurb": "Mantenha-se em contacto\n Faca chamadas gratuitas e seguras Tox para Tox.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Ver e acreditar\n Encontre-se cara a cara com umas seguras videochamadas.",
+    
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-   
-    "sect4_principles": "Mensagens instantâneas, videoconferência‎s e mais",
-   
-    "sect4_security": "Segurança",
-    "sect4_security_blurb": "Tox leva sua privacidade a sério.\n Com <span class=\"text bold\">criptografia de primeira classe</span>, você pode ficar despreocupado, sabendo que as únicas pessoas a par de suas mensagens são as que você deseja.",
-   
-    "sect4_easy": "Facilidade de uso",
-    "sect4_easy_blurb": "Ao contrário de outras soluções de mensagens seguras, Tox não exige que você seja um mestre dos computadores para utilizá-lo. Tox vem diretamente com um interface <span class=\"text bold\">fácil de usar</span> que lhe permite concentrar-se no que importa: as conversas.",
-   
+    
+    "sect4_principles": "Mensagens instantaneas, videoconferencias e mais",
+    
+    "sect4_security": "Seguranca",
+    "sect4_security_blurb": "Tox tem uma seria consideracao pela sua privacidade ,<br/>Com uma<span class=\"text bold\"> poderosa encriptacao </span>, pode relaxar tendo a certeza que as apenas os destinatarios irao ler as suas mensagens.",
+    
+    "sect4_easy": "Facil de usar",
+    "sect4_easy_blurb": "Ao contrario de outras solucoes de software de transmissao de mensagens instantaneas encriptadas, Tox nao necessita que seja um programador para o usar. Tox vem com uma interface <span class=\"text bold\">facil de usar</span> que lhe permite focar-se nas suas conversas.",
+    
     "sect4_freedom": "Liberdade",
-    "sect4_freedom_blurb": "Tox é livre para você usar e modificar. Você tem controlo total sobre ele. Além disso, <span class=\"text bold\">Tox nunca o vai perturbar com publicidade ou exigir pagamentos para desbloquear funções extra</span>",
-   
-   
-    "sect5_contribute": "Contribua",
-   
-    "sect5_github": "Quer ajudar? Estamos no <span class=\"text normal color white\">GitHub</span>. Não é necessário ter experiência em programação.",
-    "sect5_sourceongithub": "Código-fonte no GitHub",
-   
-    "sect6_freesoftware": "Software Livre",
-    "sect6_developers": "Somos gente fixe do <span class=\"text normal\">mundo inteiro</span>.",
-   
-    "sect6_jointheteam": "Junte-se à equipa",
-    "sect6_joinongithub": "Ajude a construir o Tox no <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-   
+    "sect4_freedom_blurb": "Tox e gratuito para usar e livre para modificar. O utilizador e completamente livre para usar e modificar o software. Alem demais, <span class=\"text bold\">Tox nunca o ira perturbar com anuncios ou exigir pagamento por funcionalidades.</span>",
+    
+    
+    "sect5_contribute": "Contribuir",
+    
+    "sect5_github": "Quer ajudar? Nos estamos no<span class=\"text normal color white\">GitHub</span>.\n Experiencia de programacao nao necessaria",
+    "sect5_sourceongithub": "Codigo-fonte em GitHub",
+    
+    "sect6_freesoftware": "Software livre",
+    "sect6_developers": "Nos somos bons rapazes de <span class=\"text normal\">todo o mundo</span>.",
+    
+    "sect6_jointheteam": "Junte-se a equipa",
+    "sect6_joinongithub": "Ajude-nos a construir o Tox em <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
     "sect6_needhelp": "Precisa de ajuda?",
-    "sect6_githubtoirc": "Comece o seu próprio projecto e pergunte-nos sobre ele em <span class=\"text normal\">GitHub</span>, ou em <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Inicie o seu proprio projeto e contacte-nos em <span class=\"text normal\">GitHub</span>, or on <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
