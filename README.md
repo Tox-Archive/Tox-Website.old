@@ -41,8 +41,14 @@ What we have so far
 - Dutch
 - Polish
 - Brazilian Portuguese
+- Portuguese Portuguese
 - Swedish
 - Turkish
 - Spanish
 - French
 - Arabic
+- Norwegian
+- Chinese
+- Lithuanian
+- Croatian
+- Finnish
