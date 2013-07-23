@@ -1,0 +1,63 @@
+{
+    "_author": "buszvezeto",
+    "_language": "Hungarian",
+    "_comment": "1.0",
+    "_ind": 1,
+
+    "lf_title": "Tox",
+
+    "nv_home": "Főoldal",
+    "nv_about": "A projektről",
+    "nv_features": "Jellemzők",
+    "nv_contribute": "Részvétel",
+
+    "sect1_slogan": "Biztonságos üzenetküldés mindenkinek.",
+  "sect1_description": "A kormányzati megfigyelésekkel szembeszállva a Tox egy könnyen használható alkalmazás, mely segít kapcsolatot tartani barátaiddal és szereteiddel anélkül, hogy bárki lehallgatna.",
+    "sect1_learnmore": "Tudj meg többet!",
+    "sect1_download": "Letöltés",
+
+
+    "sect2_abouttox": "A Tox-ról",
+
+    "sect2_aboutbody": "A Tox arra az eszmére épül, hogy beszélgethess a barátaiddal és a családoddal a magánéleted megsértése nélkül.\n Amíg más nagynevű szolgáltatásoknál fizetned kell bizonyos funkciókért, a Tox teljesen ingyenes és szabad.\n A Tox-szal szabadon azt teszel, amit szeretnél.",
+
+
+    "sect3_messages": "Néhány nagyszerű funkció",
+
+    "sect3_messages": "Üzenetek",
+    "sect3_messages_blurb": "Mindig kéznél vannak..\n Gyorsan kapcsolatba léphetsz másokkal a titkosított üzenetküldés segítségével.",
+
+    "sect3_voice": "Hívások",
+    "sect3_voice_blurb": "Maradj kapcsolatban!\n Hívj más Tox felhasználókat ingyenesen és biztonságosan.",
+
+    "sect3_video": "Videó",
+    "sect3_video_blurb": "Hiszed, ha látod?\n Biztonságos videóhívás Tox felhasználók között.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_principles": "Azonnali üzenetküldés, videókonferencia, és sok más",
+
+    "sect4_security": "Biztonság",
+    "sect4_security_blurb": "A Tox komolyan veszi a magánéleted.<br/>Az <span class=\"text bold\">erős titkosítás</span> biztosíték arra, hogy csak azok olvassák az üzeneted, akiknek eredetileg címezted őket.",
+
+    "sect4_easy": "Egyszerű használat",
+    "sect4_easy_blurb": "Más biztonságos üzenetküldőkkel ellentétben a Tox használatához nem szükséges, hogy programozó legyél. A Tox-ot <span class=\"text bold\">könnyű használni</span>, felületén egyszerűen tudsz a beszélgetésekre fókuszálni.",
+
+    "sect4_freedom": "Szabadság",
+    "sect4_freedom_blurb": "A Tox-ot szabadon használhatod és szabadon módosíthatod. Továbbá <span class=\"text bold\">a Tox nem fog téged reklámokkal zaklatni, és nem fog tőled pénzt kérni</span>.",
+
+
+    "sect5_contribute": "Járulj hozzá",
+
+    "sect5_github": "Szeretnél segíteni? A <span class=\"text normal color white\">GitHub</span>-on megtalálsz minket.\n Nem szükséges programozói tapasztalat.",
+    "sect5_sourceongithub": "A forráskód GitHub-on",
+
+    "sect6_freesoftware": "Szabad szoftver",
+    "sect6_developers": "Jó arcok vagyunk a <span class=\"text normal\">világ minden tájáról</span>.",
+
+    "sect6_jointheteam": "Csatlakozz a csapathoz",
+    "sect6_joinongithub": "Segíts a TOX fejlesztésében a <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>-on.",
+
+    "sect6_needhelp": "Segítségre van szükséged?",
+    "sect6_githubtoirc": "Indítsd el a saját projekted és kérdezz tőlünk <span class=\"text normal\">GitHub</span>-on, vagy <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>-en!"
+}
