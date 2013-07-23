@@ -11,16 +11,15 @@
     "nv_features": "特長",
     "nv_contribute": "貢献する",
     
-    "sect1_slogan": "皆のためのメッセージングを固定します。",
-    "sect1_description": "広範な政府の監視プログラムの立ち上がりに、Toxのは、あなたが他の誰かが入って聞かず、友人や愛する人との接続を可能にするアプリケーションを使用することは簡単です",
+    "sect1_slogan": "皆のためのセキュアなメッセージング",
+    "sect1_description": "政府からの監視が増加している。Toxアプリケーションを使用して簡単ですそれはあなたが安全にあなたの友人にメッセージすることができます。誰もあなたの会話に耳を傾けることができません。",
     "sect1_learnmore": "詳細はこちら",
     "sect1_download": "ダウンロード",
     
     
     "sect2_abouttox": "約Tox",
     
-    "sect2_aboutbody": "TOXは、他のビッグネームサービスを使用すると、Toxの、機能のロックを解除するために支払う必要がありますがあなたのプライバシーが侵害さ。\nの両方の価格は無料でなくても、友人や家族に追いつくことができるという考えで構築され、そして自由である。\nをさそれは、あなたがトックスと望むものは何でも自由にしている、です。",
-    
+    "sect2_aboutbody": "TOXはあなたのプライバシーを損なうことなく、お友達やご家族との通信のためである。\n別のサービスで、支払いはすべての機能のロックを解除するために必要とされる。\nTOXは完全に無料です ー 価格と自由。",
     
     "sect3_messages": "いくつかのクールな機能",
     
@@ -28,10 +27,10 @@
     "sect3_messages_blurb": "あなたの指先で。\nあなたはインスタント暗号化されたメッセージングとループで常にしている。",
     
     "sect3_voice": "コール",
-    "sect3_voice_blurb": "連絡を取り合いましょう。\nのToxの通話への自由かつ安全に毒物検査してください。",
+    "sect3_voice_blurb": "接続したまま。 \n他のToxユーザーに無料で電話を。",
     
     "sect3_video": "ビデオ",
-    "sect3_video_blurb": "見ては信じています。\nの安全ビデオ通話で顔をキャッチアップ。",
+    "sect3_video_blurb": "百聞は一見にしかず。\n安全なビデオ通話と向かい合って​​話す。",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
@@ -44,19 +43,19 @@
     "sect4_easy_blurb": "他の安全なメッセージングソリューションとは異なり、Toxのは、あなたがそれを使用するためにコンピュータープログラマーである必要はありません。TOXが来るアウトオブボックスあなたの会話に集中することができ、使いやすいインターフェースを持つ。",
     
     "sect4_freedom": "自由",
-    "sect4_freedom_blurb": "変更するのToxのは自由あなたが使用するため、両方の自由である、と。あなたは、両方の使用に完全に無料であり、Toxは変更します。<span class=\"text bold\">さらに、Toxは、広告であなたに嫌がらせをしない、または機能のためにお金を払う必要はないでしょう。</span>",
+    "sect4_freedom_blurb": "Toxが自由に使用すると、変更することが自由である。あなたは、Toxを変更することができます。<span class=\"text bold\">Toxは広告がありません。Toxは常に無料となります。</span>",
     
     
     "sect5_contribute": "貢献する",
     
-    "sect5_github": "助けたい？私たちは、<span class=\"text normal color white\">GitHub</span>のにしている。<br/>いいえコーディング経験は必要ありません。",
+    "sect5_github": "助けたい？私たちは、<span class=\"text color normal white\">GitHub</span>のにしている。コーディング経験は必要ありません。",
     "sect5_sourceongithub": "GitHubの上のソース",
     
     "sect6_freesoftware": "フリーソフトウェア",
     "sect6_developers": "我々は、すべての世界中からクールな男だ",
     
-    "sect6_jointheteam": "チームに入る",
-    "sect6_joinongithub": "<a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>の上TOX構築を支援",
+    "sect6_jointheteam": "私たちのチームに参加",
+    "sect6_joinongithub": "<a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>の上にToxの作成を支援",
     
     "sect6_needhelp": "いくつかの助けが必要ですか？",
     "sect6_githubtoirc": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>の上お問い合わせ、もしくは<<a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>で！"
