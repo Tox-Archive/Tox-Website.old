@@ -31,12 +31,13 @@ What we have so far
 
 **Verified**:
 
-- English (verified by everyone)
-- German (verified by slowpoke)
-- Russian (verified by nurupo)
+(A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
 
 **Needing verification (from someone who isn't the original translator)**:
 
+- English
+- German
+- Russian
 - Italian
 - Dutch
 - Polish
