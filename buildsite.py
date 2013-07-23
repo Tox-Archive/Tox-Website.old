@@ -20,7 +20,7 @@ def do_format_template(name, template):
     lang_list = []
     for language in language_files:
         language = language.split(".")[-2]
-        if not re.match(r"^[a-z0-9\-]+$", language):
+        if not re.match(r"^[A-Za-z0-9_.]+$", language):
             continue
         with open("{0}.{1}.json".format(basename, language), "r") as lf:
             try:
