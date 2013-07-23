@@ -22,7 +22,7 @@ Language file metadata
 The JSON files used by buildsite.py have some special names which are used by the script to build the bar of languages in the footer. The names are:
 
 ``_language``: The (native) name of your language. Example: *Français*  
-``_ind``: A number specifying where your language should be placed relative to other languages. Example: *1*  
+``_ind``: Leave this as it is.  
 ``_comment``: A comment about the language file. Optional.  
 ``_author``: The creator(s) of the file.
 
