@@ -1,0 +1,63 @@
+{
+    "_author": "Going Postal DJ",
+    "_language": "Catalan",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Inici",
+    "nv_about": "Sobre",
+    "nv_features": "Característiques",
+    "nv_contribute": "Contribuir",
+    
+    "sect1_slogan": "Missatgeria segura per a tothom.",
+    "sect1_description": "Amb l'auge de programes de vigilància governamental generalitzats, Tox és una aplicació fàcil d'usar que et permet connectar-te amb amics i persones estimades sense que ningú més hi tingui accés.",
+    "sect1_learnmore": "Aprendre'n més",
+    "sect1_download": "Baixar",
+    
+    
+    "sect2_abouttox": "Sobre Tox",
+    
+    "sect2_aboutbody": "Tox està creat amb la idea de comunicar-te amb amics i família sense que la teva privacitat sigui violada.\n Mentre altres serveis de renom t'exigeixen pagar per a desbloquejar característiques, Tox es gratuït i lliure.\n Ets lliure de fer el que vulguis amb Tox.",
+    
+    
+    "sect3_messages": "Algunes característiques interessants",
+    
+    "sect3_messages": "Missatges",
+    "sect3_messages_blurb": "A l'abast de la ma.\n Estàs sempre a l'ultima amb missatgeria instantània xifrada.",
+    
+    "sect3_voice": "Trucades",
+    "sect3_voice_blurb": "Estigues en contacte.\n Fes trucades gratuïtes i segures de Tox a Tox.",
+    
+    "sect3_video": "Vídeo",
+    "sect3_video_blurb": "Veure es creure.\n Posa't al dia cara a cara amb vídeo-trucades segures.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Missatgeria instantània, vídeo-conferencies, i més",
+    
+    "sect4_security": "Seguretat",
+    "sect4_security_blurb": "Tox es pren la teva seguretat seriosament.<br/>Amb <span class=\"text bold\">xifratge lider en el seu tipus</span>, pots estar segur que la única gent que llegeix els teus missatges es la gent a qui els hi has enviat.",
+    
+    "sect4_easy": "Fàcil d'usar",
+    "sect4_easy_blurb": "Al contrari que altres solucions de missatgeria instantània, no has de ser un programador informàtic per tal d'usar Tox. Tox te una interfície <span class=\"text bold\">fácil d'usar</span> que et permet concentrar-te en les teves converses.",
+    
+    "sect4_freedom": "Llibertat",
+    "sect4_freedom_blurb": "Tox es a la vegada gratuït, i lliure d'utilitzar i de modificar. A més a més, <span class=\"text bold\">Tox no et molestarà mai amb anuncis, o et demanarà que paguis per tal de desbloquejar característiques.</span>",
+    
+    
+    "sect5_contribute": "Contribuir",
+    
+    "sect5_github": "Vols ajudar? Som a <span class=\"text normal color white\">GitHub</span>.\n No es necessita experiència com a programador.",
+    "sect5_sourceongithub": "Codi font a GitHub",
+    
+    "sect6_freesoftware": "Programari Lliure",
+    "sect6_developers": "Som bons xicots <span class=\"text normal\">d'arreu del món</span>.",
+    
+    "sect6_jointheteam": "Uneix-te a l'equip",
+    "sect6_joinongithub": "Ajuda a fer possible TOX a <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Necessites ajuda?",
+    "sect6_githubtoirc": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
