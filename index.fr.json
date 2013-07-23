@@ -25,26 +25,26 @@
     "sect3_messages": "Des fonctions chouettes",
     
     "sect3_messages": "Messages",
-    "sect3_messages_blurb": "A porter de la main.\n Vous êtes toujours à jour avec la messagerie instantanée cryptée.",
+    "sect3_messages_blurb": "A portée de la main.\n Vous êtes toujours à jour avec la messagerie instantanée cryptée.",
     
     "sect3_voice": "Appels",
     "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients Tox.",
     
     "sect3_video": "Vidéo",
-    "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels videos securitaires",
+    "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels vidéos sécuritaires",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
-    "sect4_principles": "Messagerie instantanée, conferences vidéo, et plus encore",
+    "sect4_principles": "Messagerie instantanée, conférences vidéo, et plus encore",
     
     "sect4_security": "Securité",
-    "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">son cryptage de première classe</span>, vous êtes assurés que seuls vos destinataires seront de la conversation.",
+    "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">son cryptage de première classe</span>, vous êtes assuré que seuls vos destinataires seront de la conversation.",
     
     "sect4_easy": "Facile à utiliser",
     "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécuritaire, Tox ne s'attends pas à ce que vous soyez programmeur. Tox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
     
     "sect4_freedom": "Liberté",
-    "sect4_freedom_blurb": "Tox est libre et gratuit. Vous êtes complètement libres d'utiliser et de modifier Tox. De plus, <span class=\"text bold\">Tox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités.</span>",
+    "sect4_freedom_blurb": "Tox est libre et gratuit. Vous êtes complètement libre d'utiliser et de modifier Tox. De plus, <span class=\"text bold\">Tox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités.</span>",
     
     
     "sect5_contribute": "Contribuer",
