@@ -1,0 +1,63 @@
+{
+    "_author": "Anon",
+    "_language": "Pirate",
+    "_comment": "Pirate because yay",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Cabin",
+    "nv_about": "Inquirin'",
+    "nv_features": "Do-a-do's",
+    "nv_contribute": "Pitch in",
+    
+    "sect1_slogan": "Secret messagin' bottles for the crew.",
+    "sect1_description": "Now that the King be eyein' us all, Tox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
+    "sect1_learnmore": "Get yerself educated",
+    "sect1_download": "Try 'er out",
+    
+    
+    "sect2_abouttox": "Idears o' Tox",
+    
+    "sect2_aboutbody": "Tox is constructed so's you can keep up with yer mates 'n' close ones, without havin' any sort o' privacy violations.\n While other shipmakers are beggin' a pretty pence for their services, Tox is free both gold-wise, and as in runnin'-free freedom.\n That is, yer free to do whatever you wish like with Tox.",
+    
+    
+    "sect3_messages": "Some cool features",
+    
+    "sect3_messages": "Parchment Bottles",
+    "sect3_messages_blurb": "No sort o' drink in these, laddies, but they be the best of the secure communicatin' these days.",
+    
+    "sect3_voice": "Hollerin'",
+    "sect3_voice_blurb": "Keep track of yer crew, with free long-talkin's to all yer mates.",
+    
+    "sect3_video": "Crystals o' Far-Seein'",
+    "sect3_video_blurb": "I know not what manner o' witch they done tricked into givin' up her secrets, but they done did it. ",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Speedy letterin', view-talkin' with all yer mates, and plenty a more",
+    
+    "sect4_security": "Secured Rightwise",
+    "sect4_security_blurb": "Tox be's solemnly meditatin' on yer securin'.<br/>With <span class=\"text bold\">Royal-Quality encryption</span>, you can sleep easy knowin' that the only lads eyein' yer messages are the ones you send them off at.",
+    
+    "sect4_easy": "Ease o' Usin'",
+    "sect4_easy_blurb": "Not like other methods o' secure messagin', Tox don't necessitate learnin' all sort o' witchcraft and witchery to use it. Tox comes fresh out o' the shipyard with <span class=\"text bold\">simple-like</span> workin' board, so you can be focusin' on your conversations.",
+    
+    "sect4_freedom": "Freedom!",
+    "sect4_freedom_blurb": "Tox is both free for you to make a use of, and free for you to change. Yer completely free to both use and modify Tox to yer needins. And tackin' on, <span class=\"text bold\">Tox will never harass you an' yer crew with adverrrtisements, or require you to pay up for features.</span>",
+    
+    
+    "sect5_contribute": "Pitch in",
+    
+    "sect5_github": "Want to pitch in? We're on <span class=\"text normal color white\">GitHub</span>.\n No voodoo wizardin' experience is necessitated.",
+    "sect5_sourceongithub": "Source on GitHub",
+    
+    "sect6_freesoftware": "Free Softwares!",
+    "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the seas</span>.",
+    
+    "sect6_jointheteam": "Join the Crew",
+    "sect6_joinongithub": "Help build TOX on <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Needin' some assistance?",
+    "sect6_githubtoirc": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
