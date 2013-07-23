@@ -1,6 +1,6 @@
 {
     "_author": "NemDiggers, stal, et al.",
-    "_language": "English",
+    "_language": "Français",
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
@@ -9,7 +9,7 @@
     "nv_home": "Home",
     "nv_about": "About",
     "nv_features": "Features",
-    "nv_contribute": "Contribute",
+    "nv_contribute": "Contribuer",
     
     "sect1_slogan": "Secure messaging for the rest of us.",
     "sect1_description": "With the rise of widespread government monitoring programs, Tox is an easy to use application that allows you to connect with friends and loved ones without anyone else listening in.",
@@ -58,6 +58,6 @@
     "sect6_jointheteam": "Join the team",
     "sect6_joinongithub": "Help build TOX on <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
-    "sect6_needhelp": "Need some help?",
+    "sect6_needhelp": "Besoin d'aide ?",
     "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
