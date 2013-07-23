@@ -35,7 +35,7 @@ def do_format_template(name, template):
                           "lang_shortcode": language,
                           "ind": values["_ind"]})
         lang_values[language] = values
-    lang_list.sort(key=lambda x: x["ind"])
+    lang_list.sort(key=lambda x: x["lang_shortcode"])
     lang_list[-1]["last"] = 1
     for language in language_files:
         language = language.split(".")[-2]
