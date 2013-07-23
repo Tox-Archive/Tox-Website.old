@@ -1,7 +1,7 @@
 {
     "_author": "Xistance",
     "_language": "Türkçe",
-    "_comment": "v1.1",
+    "_comment": "v1.2",
     "_ind": 1,
 
     "lf_title": "Tox",
@@ -11,7 +11,7 @@
     "nv_features": "Özellikler",
     "nv_contribute": "Katkıda Bulun",
     
-    "sect1_slogan": "Bizler için güvenilir mesajlaşma.",
+    "sect1_slogan": "Herkes için güvenilir mesajlaşma.",
     "sect1_description": "Hükümetin takibi ile birlikte, Tox arkadaşlarınızla, ailenle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izlemediği bir şekilde kolayca kullanılabilen bir uygulamadır.",
     "sect1_learnmore": "Daha fazla öğren",
     "sect1_download": "İndir",
@@ -19,7 +19,7 @@
     
     "sect2_abouttox": "Tox Hakkında",
     
-    "sect2_aboutbody": "Tox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek fikriyle kurulmuştur.\n Diğer büyük çaplı servisler özellikleri açmak için belli bir miktar para isterken, Tox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n Tox ile istediğinizi yapabileceğiniz anlamına gelir.",
+    "sect2_aboutbody": "Tox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek fikriyle kurulmuştur.\n Diğer büyük çaplı servisler özelliklerini kullanabilmek için belli bir miktar para isterken, Tox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n Tox ile istediğinizi yapabileceğiniz anlamına gelir.",
     
     
     "sect3_messages": "Bazı özellikler",
@@ -31,17 +31,17 @@
     "sect3_voice_blurb": "Bağınızı koparmayın.\n Tox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Görmek inanmaktır.\n Yüz yüze konuşmalarla hiçbir zaman eksik kalmayın.",
+    "sect3_video_blurb": "Görmek inanmaktır.\n Yüz yüze konuşmalardan hiçbir zaman eksik kalmayın.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
     "sect4_principles": "Anında mesajlaşma, video konferansı, ve daha fazlası",
     
     "sect4_security": "Güvenlik",
-    "sect4_security_blurb": "Tox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınız ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden rahat olabilirsiniz.",
+    "sect4_security_blurb": "Tox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınızı ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden emin olabilirsiniz.",
     
     "sect4_easy": "Kullanım Kolaylığı",
-    "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı, Tox kullanmak için sizin bir bilgisayar yazılımcısı olmanızı istemez. Tox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
+    "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı olarak Tox, onu kullanmak için bir bilgisayar yazılımcısı olmanızı gerektirmez. Tox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
     
     "sect4_freedom": "Özgürlük",
     "sect4_freedom_blurb": "Tox hem kullanılması bedava, hem de değiştirilmesi serbest. Siz Tox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">Tox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
