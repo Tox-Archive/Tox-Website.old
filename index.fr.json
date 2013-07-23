@@ -25,7 +25,7 @@
     "sect3_messages": "Des fonctions chouettes",
     
     "sect3_messages": "Messages",
-    "sect3_messages_blurb": "A portée de la main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
+    "sect3_messages_blurb": "À portée de la main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
     
     "sect3_voice": "Appels",
     "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients Tox.",
@@ -38,7 +38,7 @@
     "sect4_principles": "Messagerie instantanée, conférences vidéo, et plus encore",
     
     "sect4_security": "Securité",
-    "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">son chiffrement de première classe</span>, vous êtes assuré que seuls vos destinataires seront de la conversation.",
+    "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">un chiffrement fort</span>, vous êtes assuré que seuls vos destinataires seront de la conversation.",
     
     "sect4_easy": "Facile à utiliser",
     "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécuritaire, Tox ne s'attends pas à ce que vous soyez programmeur. Tox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
@@ -59,5 +59,5 @@
     "sect6_joinongithub": "Aidez à bâtir Tox sur <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Besoin d'aide?",
-    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous des questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
