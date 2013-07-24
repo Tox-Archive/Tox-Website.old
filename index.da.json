@@ -1,0 +1,62 @@
+{
+    "_author": "TheFragen",
+    "_language": "Dansk",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Hjem",
+    "nv_about": "Om",
+    "nv_features": "Funktioner",
+    "nv_contribute": "Bidrag",
+    
+    "sect1_slogan": "Sikker kommunikation for alle.",
+    "sect1_description": "Med den stigende grad af statslige overvågningsprogrammer er Tox et brugervænligt program der lader dig kommunikere med dine venner og kære uden at andre følger med.",
+    "sect1_learnmore": "Lær mere",
+    "sect1_download": "Hent",
+    
+    
+    "sect2_abouttox": "Om Tox",
+    
+    "sect2_aboutbody": "Tox er bygget med konceptet at du skal kunne holde dig ajour med dine venner og familie uden at dit privatliv bliver krænket.\n Hvor store aktører ville have dig til at betale, er Tox både gratis og respekterer din frihed.\n Det betyder at, du kan gøre lige hvad du vil med Tox.",
+    
+    
+    "sect3_messages": "Nogle fede funktioner",
+    
+    "sect3_messages": "Beskeder",
+    "sect3_messages_blurb": "Øjeblikkelig krypteret tekstkommunikation lige ved fingerspidserne.",
+    
+    "sect3_voice": "Opkald",
+    "sect3_voice_blurb": "Hold kontanken.\n Foretag gratis og sikre Tox til Tox samtaler.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Ansigt til ansigt.\n Se personen du snakker med, ansigt til ansigt, med et sikkert videoopkald.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Øjeblikkelig tekstkommunikation, videokonferenceer og meget mere",
+    
+    "sect4_security": "Sikkerhed",
+    "sect4_security_blurb": "Tox tager dit privatliv seriøst.<br/>Med en <span class=\"text bold\">kryptering i verdensklasse</span> kan de være sikker på, at de eneste der læser dine beskeder er dem du sender dem til.",
+    
+    "sect4_easy": "Brugervenligt",
+    "sect4_easy_blurb": "Til forskel fra andre sikre kommunikationsløsninger kræver Tox ikke at du er programmør for at bruge det. Tox er født med en<span class=\"text bold\">brugervenlig</span> brugerflade, som gør dig i stand til at kunne fokusere på dine samtaler.",
+    
+    "sect4_freedom": "Frihed",
+    "sect4_freedom_blurb": "Tox er ikke kun gratis, du kan også ændre det. Du er fuldstendig fri til både bruge og tilpasse Tox. Derudoverr vil, <span class=\"text bold\">Tox aldrig genere dig med reklamer, eller have du skal betale for funktioner.</span>",
+    
+    
+    "sect5_contribute": "Bidrag",
+    
+    "sect5_github": "Har du lyst til at hjælpe? Vi er på <span class=\"text normal color white\">GitHub</span>.\n Vi kræver ikke at du har tidligere programmeringserfaring.",
+    "sect5_sourceongithub": "Kildekoden på GitHub",
+    
+    "sect6_freesoftware": "Gratis Software",
+    "sect6_developers": "Vi er nogle cool fyre fra <span class=\"text normal\">hele verden</span>.",
+    
+    "sect6_jointheteam": "Kom med på holdet",
+    "sect6_joinongithub": "Hjælp med at bygge Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Brug for hjælp?",
+    "sect6_githubtoirc": "Start dit eget project og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
