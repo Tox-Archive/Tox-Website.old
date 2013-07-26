@@ -1,7 +1,7 @@
 {
-    "_author": "/u/notadecent, Martijnvdc",
+    "_author": "/u/notadecent, Martijnvdc, Ronald245",
     "_language": "Nederlands",
-    "_comment": "v1.0",
+    "_comment": "v1.5",
     "_ind": 1,
 
     "lf_title": "Tox",
@@ -11,8 +11,8 @@
     "nv_features": "Mogelijkheden",
     "nv_contribute": "Help mee",
     
-    "sect1_slogan": "Veilig chatten voor de rest van ons",
-    "sect1_description": "Met het continue totalitaire surveillance door de overheid, is het mogelijk met Tox te chatten met iedereen zonder dat anderen het kunnen lezen",
+    "sect1_slogan": "Veilig chatten voor iedereen",    
+    "sect1_description": "Ondanks continue surveillance door de overheid, is het mogelijk met Tox te chatten met iedereen zonder dat anderen het kunnen lezen",
     "sect1_learnmore": "Lees Meer",
     "sect1_download": "Download",
     
@@ -38,18 +38,18 @@
     "sect4_principles": "Instant messaging, videogesprekken, en meer",
     
     "sect4_security": "Beveiliging",
-    "sect4_security_blurb": "Tox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande encryptiemethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die die berichten kan lezen.",
+    "sect4_security_blurb": "Tox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande versleutelingsmethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die uw berichten kan lezen.",
     
     "sect4_easy": "Gebruiksvriendelijkheid",
-    "sect4_easy_blurb": "Om Tox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij Tox's <span class=\"text bold\">gebruiksvriendelijk</span> uiterlijk kunt u zich compleet richten op de conversatie.",
+    "sect4_easy_blurb": "Om Tox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij Tox's <span class=\"text bold\">gebruiksvriendelijkw</span> uiterlijk kunt u zich compleet richten op de conversatie.",
     
     "sect4_freedom": "Vrijheid",
-    "sect4_freedom_blurb": "Tox is gratis qua gebruik en modificatie, u kunt Tox compleet naar verlangen aanpassen zonder extra kosten. Bovendien, <span class=\"text bold\">Tox zal u nooit advertenties tonen of extra geld vragen voor bepaalde functies.</span>",
+    "sect4_freedom_blurb": "Tox is gratis te gebruiken en te modificeren, u kunt Tox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal Tox zal u nooit advertenties tonen of geld vragen voor extra functies.</span>",
     
     
     "sect5_contribute": "Help mee",
     
-    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeringservaring is nodig.",
+    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeringservaring is nodig om een contributie te leveren .",
     "sect5_sourceongithub": "Source op GitHub",
     
     "sect6_freesoftware": "Gratis Software",
