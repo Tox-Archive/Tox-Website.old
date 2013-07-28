@@ -1,5 +1,5 @@
 {
-    "_author": "diath",
+    "_author": "diath, Chemiczny Bogdan",
     "_language": "Polski",
     "_comment": "",
     "_ind": 3,
@@ -12,14 +12,14 @@
     "nv_contribute": "Wsparcie",
     
     "sect1_slogan": "Bezpieczna wymiana wiadomości dla wszystkich.",
-    "sect1_description": "Wraz z rosnącym globalnym systemem inwigilacji rządu, powstał projekt Tox. Tox jest prostą aplikacją która pozwoli Ci na skontaktowanie się i wymianę wiadomości z Twoimi znajomymi i bliskimi bez obaw o to, że ktoś Cię podsłuchuje lub szpieguje.",
-    "sect1_learnmore": "Dowiedz się więcej",
+    "sect1_description": "Wraz z rosnącym globalnym systemem rządowej inwigilacji, powstał projekt Tox. Tox jest prostą aplikacją która pozwoli Ci na skontaktowanie się i wymianę wiadomości z Twoimi znajomymi i bliskimi bez obaw o to, że ktoś Cię podsłuchuje lub szpieguje.",
+    "sect1_learnmore": "Więcej",
     "sect1_download": "Pobierz",
     
     
     "sect2_abouttox": "O Projekcie",
     
-    "sect2_aboutbody": "Tox został stworzony z myślą o tym, abyś mógł skontaktować się ze swoimi znajomymi i rodziną bez obawy o twoją prywatność.\n Podczas gdy wszystkie inne sławne serwisy wymagają płacenia za odblokowanie danych funkcji i opcji programu, Tox jest w 100% darmową aplikacją, za równo pod względem pieniędzy jak i prywatności.\n To oznacza, że przy pomocy Tox możesz robić cokolwiek tylko chcesz - za darmo.",
+    "sect2_aboutbody": "Tox został stworzony z myślą o tym, abyś mógł skontaktować się ze swoimi znajomymi i rodziną bez obawy o twoją prywatność.\n Podczas gdy wszystkie inne sławne serwisy wymagają płacenia za odblokowanie danych funkcji i opcji programu, Tox jest w 100% darmowy i wolny, za równo pod względem pieniędzy jak i prywatności.\n To oznacza, że przy pomocy Tox możesz robić cokolwiek tylko chcesz - za darmo.",
     
     
     "sect3_messages": "Funkcje programu",
@@ -41,10 +41,10 @@
     "sect4_security_blurb": "Tox dba o Twoją prywatność.\n Dzięki zaawansowanej technologi szyfrowania, masz pewność, że jedynymi osobami które przeczytają Twoją wiadomość będziecie Ty i Twoi odbiorcy.",
     
     "sect4_easy": "Łatwość w obsłudze",
-    "sect4_easy_blurb": "Przeciwstawnie do innych aplikacji, Tox nie wymaga od Ciebie bycia zaawansowanym użytkownikiem komputera. Jest on zbudowany z myślą o wszystkich użytkownikach, bazuje na prostym interfejsie skupionym na łatwości w obsłudze.",
+    "sect4_easy_blurb": "W przeciwieństwie do innych aplikacji, Tox nie wymaga od Ciebie bycia zaawansowanym użytkownikiem komputera. Jest on zbudowany z myślą o wszystkich użytkownikach, bazuje na prostym interfejsie skupionym na łatwości w obsłudze.",
     
     "sect4_freedom": "Wolność",
-    "sect4_freedom_blurb": "Tox jest darmową aplikacją do użytku i modyfikacji. Masz prawo do zarówno użytkowania go, jak i modyfikowania.\n Ponadto, <span class=\"text bold\">Tox nigdy nie będzie męczyć Cię reklamami, ani wymagać od Ciebie płatności za jakąkolwiek funkcję programu</span>.",
+    "sect4_freedom_blurb": "Masz prawo do zarówno użytkowania, jak i modyfikowania Toxa.\n Ponadto, <span class=\"text bold\">Tox nigdy nie będzie męczyć Cię reklamami, ani wymagać od Ciebie płatności za jakąkolwiek funkcję programu</span>.",
     
     
     "sect5_contribute": "Wsparcie",
