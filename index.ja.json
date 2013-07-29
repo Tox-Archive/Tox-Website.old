@@ -7,56 +7,56 @@
     "lf_title": "Tox",
     
     "nv_home": "ホーム",
-    "nv_about": "約",
+    "nv_about": "Toxについて",
     "nv_features": "特長",
-    "nv_contribute": "投稿する",
+    "nv_contribute": "貢献する",
     
-    "sect1_slogan": "皆のためのセキュアなメッセージング",
-    "sect1_description": "政府からの監視が増加している。Toxアプリケーションを使用したらあなたは簡単で安全に友人や親類とメッセージすることができます。誰もあなたの会話を盗み聞きすることができません。",
+    "sect1_slogan": "皆のためのセキュアなメッセージング、まもなく登場",
+    "sect1_description": "政府からの監視が増加している中、Toxアプリケーションを使用すれば簡単で安全に友人や親類とメッセージすることができます。誰もあなたの会話を盗み聞きすることができません。",
     "sect1_learnmore": "詳細はこちら",
     "sect1_download": "ダウンロード",
     
     
-    "sect2_abouttox": "TOXの概念",
+    "sect2_abouttox": "Toxとは",
     
-    "sect2_aboutbody": "TOXはあなたのプライバシーを損なうことなく、お友達やご家族との通信のためである。\n別のサービスで、支払いはすべての機能のロックを解除するために必要とされる。\nTOXは完全に無料です ー 価格と自由。",
+    "sect2_aboutbody": "Toxはあなたのプライバシーを損なうことなく、お友達やご家族とコミュニケーションできるように作られました。\n別のサービスと違い、Toxは完全に無料です。",
     
     "sect3_messages": "いくつかのクールな機能",
     
     "sect3_messages": "メッセージ",
-    "sect3_messages_blurb": "あなたの指先で。\nあなたはインスタント暗号化されたメッセージングとループで常にしている。",
+    "sect3_messages_blurb": "あなたの指先で。\nインスタントメッセージは常に暗号化されている。",
     
-    "sect3_voice": "コール",
+    "sect3_voice": "通話",
     "sect3_voice_blurb": "接続したまま。 \n他のToxユーザーに無料で電話を。",
     
     "sect3_video": "ビデオ",
-    "sect3_video_blurb": "百聞は一見にしかず。\n安全なビデオ通話と向かい合って​​話す。",
+    "sect3_video_blurb": "百聞は一見にしかず。\n安全なビデオ通話で向かい合って​​話す。",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
     "sect4_principles": "インスタントメッセージング、ビデオ会議、および多く",
     
     "sect4_security": "セキュリティー",
-    "sect4_security_blurb": "TOXは真剣にあなたのプライバシーを取ります。<br/><span class=\"text bold\">大手クラスの暗号化</span>では、あなたのメッセージを読むだけの人々があなたにそれらを送信するものであることを知って安心することができます。",
+    "sect4_security_blurb": "Toxは真剣にあなたのプライバシーを取り扱います。<br/><span class=\"text bold\">強固な暗号化</span>で、あなたが送った相手以外は誰もあなたのメッセージを読むことができないので安心です。",
     
     "sect4_easy": "使い勝手の良さ",
-    "sect4_easy_blurb": "他の安全なメッセージングソリューションとは異なり、Toxのは、あなたがそれを使用するためにコンピュータープログラマーである必要はありません。TOXが来るアウトオブボックスあなたの会話に集中することができ、使いやすいインターフェースを持つ。",
+    "sect4_easy_blurb": "他の安全なメッセージングソリューションとは異なり、Toxは、あなたがそれを使用するためにコンピュータープログラマーである必要はありません。Toxの使いやすいインタフェースはインストールしたその瞬間から手に馴染み、すぐに会話に集中することができます。",
     
     "sect4_freedom": "自由",
-    "sect4_freedom_blurb": "Toxが自由に使用すると、変更することが自由である。あなたは、Toxを変更することができます。<span class=\"text bold\">Toxは広告がありません。Toxは常に無料となります。</span>",
+    "sect4_freedom_blurb": "Toxは使うことも、変更することも自由です。完全に自由です。あなたは、Toxを変更することができます。さらに、<span class=\"text bold\">Toxは広告がありません。Toxは常に無料となります。</span>",
     
     
     "sect5_contribute": "貢献する",
     
-    "sect5_github": "助けたい？私たちは、<span class=\"text color normal white\">GitHub</span>のにしている。コーディング経験は必要ありません。",
+    "sect5_github": "助けたい？私たちは、<span class=\"text color normal white\">GitHub</span>で開発をしています。コーディング経験は必要ありません。",
     "sect5_sourceongithub": "GitHubの上のソース",
     
     "sect6_freesoftware": "フリーソフトウェア",
-    "sect6_developers": "我々は、すべての世界中からクールな男だ",
+    "sect6_developers": "我々は、世界中から集ったクールな男たちだ",
     
     "sect6_jointheteam": "私たちのチームに参加",
-    "sect6_joinongithub": "<a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>の上にToxの作成を支援",
+    "sect6_joinongithub": "<a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>でToxの作成を支援",
     
     "sect6_needhelp": "いくつかの助けが必要ですか？",
-    "sect6_githubtoirc": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>の上お問い合わせ、もしくは<<a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>で！"
+    "sect6_githubtoirc": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上でお問い合わせてください。もしくは<<a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>で！"
 }
