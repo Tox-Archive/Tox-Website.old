@@ -1,0 +1,63 @@
+{
+    "_author": "Pakatsui",
+    "_language": "Eesti",
+    "_comment": "Free to edit. Quick translation.",
+    "_ind": 0,
+ 
+    "lf_title": "Tox",
+   
+    "nv_home": "Kodu",
+    "nv_about": "Toxist",
+    "nv_features": "Funktsioonid",
+    "nv_contribute": "Panusta",
+   
+    "sect1_slogan": "Turvaline sõnumite saatmine kõigile.",
+    "sect1_description": "Laiaulatusliku valitsuste nuhkimistega on Tox kergesti kasutatav programm, millega saad sõprade ja tuttavatega suhelda ilma, et keegi pealt kuulaks. ",
+    "sect1_learnmore": "Loe veel",
+    "sect1_download": "Laadi alla",
+   
+   
+    "sect2_abouttox": "Toxist",
+   
+    "sect2_aboutbody": "Tox on loodud põhimõttega, et saaksid oma tuttavate ja perekonnaga suhelda, ilma et sinu privaatsust rikutaks.\n Teised suurenimelised teenused tahavad, et sa maksaksid nende teenuse kasutamise eest, aga Tox on tasuta kui ka avatud lähtekoodiga.\n See tähendab seda, et sul on vabadus teha Toxiga kõike, mida soovid.",
+   
+   
+    "sect3_messages": "Mõned lahedad funktsioonid",
+   
+    "sect3_messages": "Sõnumid",
+    "sect3_messages_blurb": "Sinu käeulatuses on krüpteeritud kiirsõnumid.",
+   
+    "sect3_voice": "Kõned",
+    "sect3_voice_blurb": "Tee teiste Toxi kasutajatega tasuta ja turvalisi kõnesid.",
+   
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Suhte tuttavatega näost näkku läbi turvalise videokõne.",
+   
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+   
+    "sect4_principles": "Kiirsõnumid, videokonverentsid ja veel",
+   
+    "sect4_security": "Turvalisus",
+    "sect4_security_blurb": "Tox hindab su turvalisust tõsiselt.<br/><span class=\"text bold\">Juhtiv-klassi krüpteerimisega</span>võid olla kindel, et ainukesed inimesed, kes su kirju saavad lugeda on need, kellele sa neid saadad.",
+   
+    "sect4_easy": "Kasutusmugavus",
+    "sect4_easy_blurb": "Toxi kasutamiseks ei pea olema programmeerija, nagu teiste turvaliste sõnumivahetuse lahendustega. Tox on <span class=\"text bold\">kergesti kasutatava</span> liidesega, mis lubab sul vestlusele keskenduda.",
+   
+    "sect4_freedom": "Vabadus",
+    "sect4_freedom_blurb": "Tox on tasuta ja sul on vabadus seda muuta. <span class=\"text bold\">Tox ei hakka sind kunagi reklaamiga ahistama ega nõua sult raha funktsioonide kasutamiseks.</span>",
+   
+   
+    "sect5_contribute": "Panusta",
+   
+    "sect5_github": "Tahad aidata? Me oleme <span class=\"text normal color white\">GitHubis</span>.\n Kodeerimise kogemus ei ole vajalik.",
+    "sect5_sourceongithub": "Allikas GitHubis",
+   
+    "sect6_freesoftware": "Vaba tarkvara",
+    "sect6_developers": "Me oleme lahedad kutid <span class=\"text normal\">kogu maailmast</span>.",
+   
+    "sect6_jointheteam": "Ühine meeskonnaga",
+    "sect6_joinongithub": "Aita TOXi ehitada <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubis</a>.",
+   
+    "sect6_needhelp": "Vajad abi?",
+    "sect6_githubtoirc": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRCis</a>!"
+}
