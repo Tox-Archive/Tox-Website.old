@@ -11,7 +11,7 @@
     "nv_contribute": "Bidra",
     
     "sect1_slogan": "Säker kommunikation för alla!",
-    "sect1_description": "Med en ökning av statlig övervakning är Tox ett enkelt att använda program som låter dig att koppla upp dig med vänner och familj utan att någon spionerar på er.",
+    "sect1_description": "Med en ökning av statlig övervakning är Tox ett användarvänligt program som tillåter dig att kommunicera med vänner och familj utan att någon spionerar på er.",
     "sect1_learnmore": "Lär dig mer",
     "sect1_download": "Ladda ner",
     
@@ -20,26 +20,26 @@
     
     "sect2_aboutbody": "Tox är skapad med tanken att du ska kunna hålla kontakten med dina vänner och familj utan att någon spionerar på det ni pratar om.\n Medan större företag och produkter tvingar dig betala för att använda funktioner är Tox helt gratis i både pris och frihet.\n Du får alltså modifiera och dela ut Tox hur mycket du vill.",
 
-    "sect3_messages": "Huvudfuntioner",
+    "sect3_messages": "Huvudfunktioner",
     
     "sect3_messages": "Meddelanden",
     "sect3_messages_blurb": "Nära till hands.\n Du kommer lätt igång med automatiskt krypterade meddelanden.",
     
     "sect3_voice": "Samtal",
-    "sect3_voice_blurb": "Håll kontakten\n Ring gratis samtal, säkert och enkelt.",
+    "sect3_voice_blurb": "Håll kontakten.\n Ring gratis samtal, säkert och enkelt.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Ansikte mot ansikte\n Bilder säger mer än tusen ord. Prata ansikte mot ansikte med säker videochat.",
+    "sect3_video_blurb": "Ansikte mot ansikte.\n Bilder säger mer än tusen ord. Prata ansikte mot ansikte med säker videochat.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
     "sect4_principles": "Chat, videokonferens och mer",
     
     "sect4_security": "Säkerhet",
-    "sect4_security_blurb": "Tox ser allvarligt på din rätt till privatliv.<br/>Med <span class=\"text bold\">kryptering i världsklass</span> kan sova säkert vetande att ingen förutom den du chattar med läser dina meddelanden.",
+    "sect4_security_blurb": "Tox ser allvarligt på din rätt till privatliv.<br/>Med <span class=\"text bold\">kryptering i världsklass</span> kan du sova säkert vetande att ingen förutom den du chattar med läser dina meddelanden.",
     
     "sect4_easy": "Enkel att använda",
-    "sect4_easy_blurb": "Olikt andra alternativ för säker kommunikation kräver inte Tox att du är en dataingenjör för att användas. Tox kommer direkt med ett <span class=\"text bold\">enkelt att använda</span> grafiskt gränssnitt vilket låter dig att lägga fokus på att chatta och prata.",
+    "sect4_easy_blurb": "Olikt andra alternativ för säker kommunikation kräver inte Tox att du är en dataingenjör för att användas. Tox kommer direkt med ett <span class=\"text bold\">användarvänligt</span> grafiskt gränssnitt vilket låter dig att lägga fokus på att chatta och prata.",
     
     "sect4_freedom": "Frihet",
     "sect4_freedom_blurb": "Tox är både gratis att använda, och fritt att ändra på. Du är helt fri att både använda och modifera Tox. <span class=\"text bold\">Tox kommer heller aldrig störa dig med reklam, eller kräva dig att betala för funktionalitet.</span>",
@@ -47,7 +47,7 @@
     
     "sect5_contribute": "Bidra",
     
-    "sect5_github": "Vill du hjälpa? Vi finns på <span class=\"text normal color white\">GitHub</span>.\n Ingen erfarenhet av programmering krävs.",
+    "sect5_github": "Vill du hjälpa till? Vi finns på <span class=\"text normal color white\">GitHub</span>.\n Ingen erfarenhet av programmering krävs.",
     "sect5_sourceongithub": "Källkod på Github",
     
     "sect6_freesoftware": "Fri programvara",
