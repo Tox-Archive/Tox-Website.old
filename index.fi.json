@@ -11,21 +11,21 @@
     "nv_features": "Ominaisuudet",
     "nv_contribute": "Osallistu",
    
-    "sect1_slogan": "Turvallisista viestittelyä meille muille.",
-    "sect1_description": "Lisääntyneen hallituksen harjoittaman urkkimisen vuoksi päätettiin rakentaa Tox. Tox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja rakastettujesi kanssa, yksityisesti kenenkään urkkimatta.",
+    "sect1_slogan": "Turvallista viestittelyä meille muille, tulossa pian.",
+    "sect1_description": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää Tox. Tox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta.",
     "sect1_learnmore": "Lisätietoja",
     "sect1_download": "Lataa",
    
    
     "sect2_abouttox": "Tietoa Toxista",
    
-    "sect2_aboutbody": "Tox rakennettiin jotta voisit pitää yhteyttä ystäviesi ja perheesi kanssa, ilman että yksityisyyttäsi loukattaisi.\n Monet isomman luokan palvelut vaativat maksua ominaisuuksien avaamiseen, kun taas Tox on ilmainen, niinkuin myös vapaa filosofialtaan. Olet siis vapaa tekemään mitä ikinä haluatkaan Toxilla.",
+    "sect2_aboutbody": "Tox kehitettiin jotta voisit pitää yhteyttä ystäviesi ja perheesi kanssa, ilman että yksityisyyttäsi loukataan.\n Monet isomman luokan palvelut vaativat maksua ominaisuuksien avaamiseen, kun taas Tox on ilmainen, niin kuin myös vapaa filosofialtaan. Olet siis vapaa tekemään mitä ikinä haluatkaan Toxilla.",
    
    
     "sect3_messages": "Joitakin hienoja ominaisuuksia",
    
     "sect3_messages": "Viestit",
-    "sect3_messages_blurb": "Lähettyvilläsi.\n Olet aina ajantasalla salatulla pikaviestinnällä.",
+    "sect3_messages_blurb": "Lähettyvilläsi.\n Olet aina ajan tasalla salatulla pikaviestinnällä.",
    
     "sect3_voice": "Puhelut",
     "sect3_voice_blurb": "Ole yhteydessä.\n Soita ilmaisia ja turvallisia Tox -puheluita.",
@@ -38,9 +38,9 @@
     "sect4_principles": "Pikaviestintää, videokokouksia, ja enemmän",
    
     "sect4_security": "Turvallisuus",
-    "sect4_security_blurb": "Tox ottaa yksityisyytesi erittäin vakavasti.\nVoit olla varma tietäen, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Sillä Tox sisältää <span class=\"text bold\">luokassaan parhaimman salauksen</span>.",
+    "sect4_security_blurb": "Tox ottaa yksityisyytesi erittäin vakavasti.\nVoit olla varma siitä, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Tox hyödyntää <span class=\"text bold\">luokassaan parhainta salausta</span>.",
     "sect4_easy": "Helppokäyttöisyys",
-    "sect4_easy_blurb": "Toisinkuin muut viestintä ohjelmat, Tox ei vaadi sinun olevan tietokone-expertti. Tox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
+    "sect4_easy_blurb": "Toisin kuin muut viestintäohjelmat, Tox ei vaadi sinun olevan tietokone-ekspertti. Tox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
    
     "sect4_freedom": "Vapaus",
     "sect4_freedom_blurb": "Tox on ilmainen ohjelma sekä vapaa filosofialtaan. Sinulla on täysi vapaus käyttää ja muokata Toxia miten haluat. Tämän lisäksi <span class=\"text bold\">Tox ei tule koskaan häiritsemään sinua mainoksilla tai vaatimaan maksua ominaisuuksista.</span>",
@@ -48,7 +48,7 @@
    
     "sect5_contribute": "Osallistu",
    
-    "sect5_github": "Haluatko auttaa? Löydät meidät <span class=\"text normal color white\">GitHubista</span>.\n Ohjelmointi-osaaminen ei ole vaadittua.",
+    "sect5_github": "Haluatko auttaa? Löydät meidät <span class=\"text normal color white\">GitHubista</span>.\n Ohjelmointiosaamista ei vaadita.",
     "sect5_sourceongithub": "Lähdekoodi GitHubissa",
    
     "sect6_freesoftware": "Vapaa ohjelmisto",
