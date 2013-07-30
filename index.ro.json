@@ -6,58 +6,58 @@
 
     "lf_title": "Tox",
     
-    "nv_home": "Acasa",
+    "nv_home": "Acasă",
     "nv_about": "Despre",
     "nv_features": "Caracteristici",
-    "nv_contribute": "Contribui",
+    "nv_contribute": "Contribuie",
     
-    "sect1_slogan": "Message securizate pentru toata lumea.",
-    "sect1_description": "Cu c creșterea programelor de monitorizare guvernamentale pe scară largă, Tox este o aplicație ușor de utilizat care vă permite să vă conectați cu prietenii și cei dragi, fără nimeni altcineva ascultănd",
+    "sect1_slogan": "Mesaje securizate pentru toata lumea, în curând.",
+    "sect1_description": "Ca răspuns la creșterea programelor de monitorizare guvernamentale pe scară largă, Tox este o aplicație ușor de utilizat care vă permite să vă conectați cu prietenii și cei dragi, fără nimeni altcineva ascultănd.",
     "sect1_learnmore": "Aflați mai mult",
-    "sect1_download": "Descărca",
+    "sect1_download": "Descarcă",
     
     
     "sect2_abouttox": "Despre Tox",
     
-    "sect2_aboutbody": "Tox este construit cu ideea că puteți ține pasul cu prietenii și familia, fără a avea intimitatea încălcate. \n In timp ce celelalte servicii de nume mari au nevoie de plăta pentru a debloca caracteristici, Tox este gratuit în ambele preț, și liber. \n N Asta este, ești liber să faci ce vrei cu Tox.",
+    "sect2_aboutbody": "Tox este dezvoltat cu ideea că puteți ține pasul cu prietenii și familia, fără a avea intimitatea încălcată. \n În timp ce alte servicii bine-cunoscute au nevoie de plată pentru a debloca funcționalități, Tox este un program gratuit și liber. \n Asta înseamnă că ești liber să faci orice dorești cu Tox.",
     
     
-    "sect3_messages": "Unele caracteristici interesante",
+    "sect3_messages": "Câteva dintre caracteristicile Tox",
     
-    "sect3_messages": "Messajele",
-    "sect3_messages_blurb": "De la vârful degetelor. \n Tu ești mereu la curent cu mesaje instantanee criptate.",
+    "sect3_messages": "Messaje",
+    "sect3_messages_blurb": "La îndemână. \n Ești întotdeauna la curent cu mesaje instant criptate.",
     
     "sect3_voice": "Apeluri",
-    "sect3_voice_blurb": "Păstrați legătura. \n Fa apeluri gratuite și sigure cu Tox.",
+    "sect3_voice_blurb": "Păstrează legătura. \n Efectuezi apeluri gratuite și sigure cu Tox.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Ai incredere in ce vezi. \n Prinde față în față cu un apel video sigură.",
+    "sect3_video_blurb": "Nu crezi până nu vezi?. \n Comunici față-în-față făcând apeluri video.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
-    "sect4_principles": "Mesagerie instantanee, conferințe video, și mai mult",
+    "sect4_principles": "Mesagerie instantanee, conferințe video, și multe altele",
     
     "sect4_security": "Securitate",
-    "sect4_security_blurb": "Tox ia în serios intimitatea ta.<br/>With <span class=\"text bold\">criptare de clasă de lider</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.",
+    "sect4_security_blurb": "Tox ia în serios intimitatea ta.<br/>Cu <span class=\"text bold\">criptarea puternică</span>, poți sta liniștit știind că singurele persoane care vor citi mesajele sunteți tu și destinatarul.",
     
     "sect4_easy": "Ușurință în utilizare",
-    "sect4_easy_blurb": "Spre deosebire de alte soluții de mesagerie securizată, Tox nu are nevoie de tine pentru a fi un programator să-l folosească. Tox merje din cutie, cu un <span class=\"text bold\"> ușor de utilizat </ span> interfață care vă permite să se concentreze pe conversații. ",
+    "sect4_easy_blurb": "Spre deosebire de alte soluții de mesagerie securizată, Tox nu îți cere să fii un programator ca să-l folosești. Tox merge din prima, cu o interfață <span class=\"text bold\">ușor de utilizat</ span> care îți permite să te concentrezi asupra conversațiilor.",
     
     "sect4_freedom": "Libertate",
-    "sect4_freedom_blurb": "Tox este atât de liber pentru tine de a utiliza, și gratuit pentru un schimb. Sunteti complet gratuit atât pentru utilizarea și modificarea Tox. Mai mult, <span class=\"text bold\"> Tox nu va hartui cu anunțuri, sau nevoie de plată pentru caracteristici. </ Span> ",
+    "sect4_freedom_blurb": "Cu Tox ești liber să-l folosești și să-l modifici după cum dorești. Mai mult, <span class=\"text bold\"> Tox nu te va deranja cu reclame și nu îți va cere să plătești pentru funționalități. </ span> ",
     
     
-    "sect5_contribute": "Contribui",
+    "sect5_contribute": "Contribuie",
     
-    "sect5_github": "Vrei să ajuți? Suntem pe <span class=\"text normal color white\">GitHub</span>.\n Nu e necesar experiență de codificare.",
-    "sect5_sourceongithub": "Source on GitHub",
+    "sect5_github": "Vrei să ajuți? Suntem pe <span class=\"text normal color white\">GitHub</span>.\n Nu e necesar să ai experiență de programare.",
+    "sect5_sourceongithub": "Sursa pe GitHub",
     
-    "sect6_freesoftware": "Software-ul gratuit",
-    "sect6_developers": "Suntem baieti misto de <span class=\"text normal\">toata lumea.</span>.",
+    "sect6_freesoftware": "Software liber",
+    "sect6_developers": "Suntem persoane de treabă <span class=\"text normal\">din toată lumea.</span>.",
     
-    "sect6_jointheteam": "Alăturați-vă echipei",
-    "sect6_joinongithub": "Ajuta la construirea lui TOX <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_jointheteam": "Alătură-te echipei",
+    "sect6_joinongithub": "Ajută la dezvoltarea Tox pe <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Ai nevoie de ajutor?",
-    "sect6_githubtoirc": "Începe propria dvs. de proiect și ne întreabă pe <span class=\"text normal\">GitHub</span>, sau <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Începe un proiect și ne întreabă-ne pe <span class=\"text normal\">GitHub</span>, sau pe canalul <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
