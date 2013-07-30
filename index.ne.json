@@ -1,0 +1,63 @@
+{
+    "_author": "fmazon3",
+    "_language": "नेपाली",
+    "_comment": "Version 1.0",
+    "_ind": 0,
+
+    "lf_title": "Tox (Pre-alpha)",
+    
+    "nv_home": "घर",
+    "nv_about": "बारे",
+    "nv_features": "फीचर",
+    "nv_contribute": "",
+    
+    "sect1_slogan": "सुरक्षित बार्ता सबैलाई",
+    "sect1_description": "संसारभरिका सरकारहरुले तपाईहरुको प्राइभेसी हस्तक्षेप गर्न थालेको बेलामा, टाकश एउटा सजिलै प्रयोग गर्न मिल्ने प्रोग्राम हो जसबाट तपाई कसैले सुन्न नसक्ने गरि आफ्नो परिवार र साथीभाई संग कुरा गर्न सक्नु हुनेछ ।",
+    "sect1_learnmore": "थप सिक्नुहोस",
+    "sect1_download": "डाउनलोड",
+    
+    
+    "sect2_abouttox": "Tox बारे",
+    
+    "sect2_aboutbody": "तपाईहरुको प्राइभेसी बचाई आफ्नो परिवार र साथीभाई संग सुरकक्षित तरिकाले कुराहरु गर्ने आइडीयाले बनाइएको हो । \n अरु ठुला कम्पनीहरुले पैसा लिएर थप फीचर दिन्चन भने, पैसामा र मोडीफाई गर्नमा फ्रे  छ । \n अरथात, तपाइले जे चाइयो  त्यो गर्न होस सबै गर्न फ्रे  छ ।",
+    
+    
+    "sect3_messages": "कुनै फिचरहरु",
+    
+    "sect3_messages": "मेसेजहरु",
+    "sect3_messages_blurb": "तपाईकै औंलाहरुमा । \n तपाईका सबै मेसेजहरु आफै एनऋपट हुनेछ ।",
+    
+    "sect3_voice": "कलहरु",
+    "sect3_voice_blurb": "सधै कुरा गर्नुहोस । \n फ्री र सुरकक्षित Tox बाट Toxमा कल गर्नुहोस । ",
+    
+    "sect3_video": "भीडीयो",
+    "sect3_video_blurb": "हेर्नुनै विस्वाश गर्नु हो । \n मुहार हेरी  सुरकक्षित भीडीयो कल गर्नुहोस ।",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "छीटो, छरिटो मेसेज, भीडीयो र अरु",
+    
+    "sect4_security": "सुरकक्ष्या",
+    "sect4_security_blurb": "Tox ले तपाइको प्राइभेसी हलुका रुपले लिदैन । <br/><span class=\"text bold\">एकदम कडा encryption</span>भएकोले, तपाईको मेसेज पाउनु पर्नेले मात्र पाउन र पढन सक्ने भएकोले तपैहरु ढुक्क हुनु भए हुन्छ ।",
+    
+    "sect4_easy": "सजिलो प्रयोग",
+    "sect4_easy_blurb": "अरु प्राइभेट मेसेज गर्ने प्रोग्राम चलाउन गारो भए पनि, Tox चलाउन तपाई प्रोग्रामर हुनु पर्दैन । Tox सुरुदेखिनै <span class=\"text bold\">सजिलै चलाउन</span> मिल्ने interface दिन्छ जसले तपाइको बार्ता सजिलो र सफल बनाउछ ।",
+    
+    "sect4_freedom": "स्वतन्त्रता",
+    "sect4_freedom_blurb": "Tox चलाउन र फरक गर्न फ्री हो । तपाईले Tox लाई मोडीफाई गर्न पनि फ्री हो । थप, <span class=\"text bold\">Tox ले आडबाट र अरु फीचरको लागि पैसा लिने भनेर  पनि सताउदैन ।</span>",
+    
+    
+    "sect5_contribute": "दिनुहोस",
+    
+    "sect5_github": "मदत गर्न चाहनुहुन्छ ? हामी <span class=\"text normal color white\">GitHub</span>मा छौं । \n पैला कोड गरेको हुनु पर्दैन ।",
+    "sect5_sourceongithub": "GitHub मा स्वोर्स ",
+    
+    "sect6_freesoftware": "फ्री सोफ्टवेर",
+    "sect6_developers": "हामी <span class=\"text normal\">संसारभरिबाट आएका </span>रमाइलो मानिस हौँ ।",
+    
+    "sect6_jointheteam": "मिल्नुहोस हाम्रो टीम संग ",
+    "sect6_joinongithub": "TOX बनाउन मदत गर्नुहोस <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a> मा",
+    
+    "sect6_needhelp": "मदत चाहिएको छ?",
+    "sect6_githubtoirc": "आफ्नै प्रोजेक्ट सुरु गर्नुहोस र हामीलाई सोध्नुहोस <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a> मा !"
+}
