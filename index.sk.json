@@ -1,0 +1,63 @@
+{
+    "_author": "NemDiggers, stal, et al.",
+    "_language": "Slovensky",
+    "_comment": "Prekladaj len z anglickej verzie! Nie z iných!",
+    "_ind": 0,
+
+    "lf_title": "Tox (Pred-alfa)",
+    
+    "nv_home": "Domov",
+    "nv_about": "O projekte",
+    "nv_features": "Vlastnosti",
+    "nv_contribute": "Prispej",
+    
+    "sect1_slogan": "Bezpečná komunikácia pre každého, už čoskoro.",
+    "sect1_description": "So vzostupom rozšírenia vládnych sledovacích programov, vznikol Tox. Jednoduchá aplikácia, ktorá Ti umožňuje spojenie s priateľmi a milovanými bez kohokoľvek kto by mohol načúvať.",
+    "sect1_learnmore": "Zistiť viac",
+    "sect1_download": "Stiahnuť",
+    
+    
+    "sect2_abouttox": "O projekte Tox",
+    
+    "sect2_aboutbody": "Tox je postavený na myšlienke spojenia s priatelmi a rodinou bez narušenia súkromia.\n Kym iné zvučné služby vyžadujú pre odomknutie funkcií peniaze, Tox je zadarmo a je slobodný.\n To znamená, že možeš narábať s Toxom ako potrebuješ.",
+    
+    
+    "sect3_messages": "Niektoré fasa vychytávky",
+    
+    "sect3_messages": "Správy",
+    "sect3_messages_blurb": "Na dosah ruky.\n Si stále v kruhu okamžitých kryptovaných správ.",
+    
+    "sect3_voice": "Volania",
+    "sect3_voice_blurb": "Buď na dosah.\n Volaj bezpečne a zadarmo od Toxa k Toxovi.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Vidieť je lepšie ako 100x počuť.\n Stretnite sa medzi štyrmi očami zabezpečeným video hovorom.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Okamžité správy, video konferencie, a nie len to",
+    
+    "sect4_security": "Zabezpečenie",
+    "sect4_security_blurb": "Tox berie tvoje súkromie vážne.<br/>Len s <span class=\"text bold\">pokročilým šifrovaním</span>, môžeš spokojne spávať s vedomím, že jediní, ktorí čítajú tvoje správy su tí, ktorým ich posielaš.",
+    
+    "sect4_easy": "Jednoduchosť používania",
+    "sect4_easy_blurb": "Na rozdiel od ostatných zabezpečených riešení pre posielanie správ, s Toxom nepotrebuješ byť počítačový programátor aby si ho mohol používať. Tox prináša <span class=\"text bold\">jednoduché</span> používateľské rozhranie s ktorým sa možeš sústrediť len na konverzáciu.",
+    
+    "sect4_freedom": "Sloboda",
+    "sect4_freedom_blurb": "Tox môžeš nielen používať zadarmo, možeš  ho aj slobodne upravovať. Navyše, <span class=\"text bold\">Tox ťa nikdy nebude obtažovať reklamami alebo ziadať platenie za funkcie.</span>",
+    
+    
+    "sect5_contribute": "Prispej",
+    
+    "sect5_github": "Chceš pomôcť? Sme na <span class=\"text normal color white\">GitHube</span>.\n Aj ked nevieš programovať. Príď.",
+    "sect5_sourceongithub": "Zdrojové kódy na GitHube",
+    
+    "sect6_freesoftware": "Slobodný softvér",
+    "sect6_developers": "My sme fasa ľudia z <span class=\"text normal\">celého sveta</span>.",
+    
+    "sect6_jointheteam": "Poď do týmu",
+    "sect6_joinongithub": "Pomôž s budovaním TOXu na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHube</a>.",
+    
+    "sect6_needhelp": "Potrebuješ pomoc?",
+    "sect6_githubtoirc": "Začni svoj vlastný projekt a opýtaj sa nás na <span class=\"text normal\">GitHube</span>, alebo na <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
