@@ -1,7 +1,7 @@
 {
     "_author": "Xistance",
     "_language": "Türkçe",
-    "_comment": "v1.2",
+    "_comment": "v1.3",
     "_ind": 1,
 
     "lf_title": "Tox",
@@ -11,21 +11,23 @@
     "nv_features": "Özellikler",
     "nv_contribute": "Katkıda Bulun",
     
+    "sect1_notavail": "Tox yakında hizmetinizde olacaktır!",
+    
     "sect1_slogan": "Herkes için güvenilir mesajlaşma.",
-    "sect1_description": "Hükümetin takibi ile birlikte, Tox arkadaşlarınızla, ailenle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izlemediği bir şekilde kolayca kullanılabilen bir uygulamadır.",
+    "sect1_description": "Hükümetin takibi ile birlikte, Tox arkadaşlarınızla, ailenizle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izleyemiyeceği şekilde kolayca kullanılabilen bir uygulamadır.",
     "sect1_learnmore": "Daha fazla öğren",
     "sect1_download": "İndir",
     
     
     "sect2_abouttox": "Tox Hakkında",
     
-    "sect2_aboutbody": "Tox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek fikriyle kurulmuştur.\n Diğer büyük çaplı servisler özelliklerini kullanabilmek için belli bir miktar para isterken, Tox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n Tox ile istediğinizi yapabileceğiniz anlamına gelir.",
+    "sect2_aboutbody": "Tox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek amacıyla kurulmuştur.\n Diğer büyük çaplı servisler, özelliklerini kullanabilmek için belli bir miktar para isterken, Tox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n Tox ile istediğinizi yapabileceğiniz anlamına gelir.",
     
     
     "sect3_messages": "Bazı özellikler",
     
     "sect3_messages": "Mesajlar",
-    "sect3_messages_blurb": "Parmaklarınızın altında.\n Anlık şifreli mesajlaşma ile her zaman bu döngünun içerisindesiniz.",
+    "sect3_messages_blurb": "Elinizin altında.\n Anlık şifreli mesajlaşma ile her zaman bu döngünun içerisinde olabilirsiniz.",
     
     "sect3_voice": "Aramalar",
     "sect3_voice_blurb": "Bağınızı koparmayın.\n Tox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
@@ -59,5 +61,5 @@
     "sect6_joinongithub": "Tox'ı oluşturmak isterseniz tüm bilgileri <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>'da bulabilirsiniz.",
     
     "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
-    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>'dir!"
+    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>'dir!"
 }
