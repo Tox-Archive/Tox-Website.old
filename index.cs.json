@@ -1,0 +1,62 @@
+{
+    "_author": "NemDiggers, Theon144, et. al.",
+    "_language": "Czech",
+    "_comment": "",
+    "_ind": 0,
+
+    "lf_title": "Tox (Pre-alpha)",
+    
+    "nv_home": "Hlavní stránka",
+    "nv_about": "O projektu",
+    "nv_features": "Funkce",
+    "nv_contribute": "Přispějte",
+    
+    "sect1_slogan": "Bezpečná komunikace pro všechny, již brzy.",
+    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. Tox je aplikace jednoduchá na používání, co vám umožní spojit se s přáteli a blízkými bez toho, aby Vás poslouchal kdokoli jiný.",
+    "sect1_learnmore": "Zjistěte více",
+    "sect1_download": "Stáhnout",
+    
+    
+    "sect2_abouttox": "O projektu Tox",
+    
+    "sect2_aboutbody": "Tox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu aniž by bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, Tox je naprosto zdarma a svobodný.\n To znamená, že si můžete s Tox dělat cokoli chcete.",
+    
+    "sect3_messages": "Funkce",
+    
+    "sect3_messages": "Zprávy",
+    "sect3_messages_blurb": "Soukromé šifrované zprávy na dosah ruky.",
+    
+    "sect3_voice": "Volání",
+    "sect3_voice_blurb": "Volejte zdarma a bezpečně ostatním uživatelům Tox.",
+    
+    "sect3_video": "Videohovory",
+    "sect3_video_blurb": "Mluvte spolu tváří v tvář přes bezpečný videohovor.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Chat, videokonference, a mnohem více",
+    
+    "sect4_security": "Bezpečnost",
+    "sect4_security_blurb": "Tox bere vaše soukromí vážně.<br/>Díky <span class=\"text bold\">nejmodernějším šifrovacím technologím</span> si můžete být jisti, že jediní lidé co čtou Vaše zprávy jsou ti, kterým jste je zaslali.",
+    
+    "sect4_easy": "Jednoduchost používání",
+    "sect4_easy_blurb": "Na rozdíl od ostatních šifrovacích aplikací, Tox po Vás nevyžaduje abyste byli programátoři když jej chcete používat. Tox má hned po instalaci <span class=\"text bold\">jednoduché rozhraní</span>, díky kterému se můžete radši věnovat tomu, s kým mluvíte.",
+    
+    "sect4_freedom": "Svoboda",
+    "sect4_freedom_blurb": "Tox je a vždy bude zdarma, a budete si jej moct upravit jak se vám zlíbí. Můžete jej úplně volně používat i modifikovat. Navíc Vás <span class=\"text bold\">nikdy nebude otravovat reklamami, nebo vyžadovat poplatky</span>.",
+    
+    
+    "sect5_contribute": "Přispějte",
+    
+    "sect5_github": "Chcete pomoct? Jsme na <span class=\"text normal color white\">GitHubu</span>.\n Nejsou potřeba žádné zkušenosti s programováním.",
+    "sect5_sourceongithub": "Zdrojový kód na GitHubu",
+    
+    "sect6_freesoftware": "Svobodný Software",
+    "sect6_developers": "Jsme skvělý tým z <span class=\"text normal\">celého světa</span>.",
+    
+    "sect6_jointheteam": "Přidejte se k nám",
+    "sect6_joinongithub": "Pomozte vyvíjet Tox na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubu</a>.",
+    
+    "sect6_needhelp": "Potřebujete pomoct?",
+    "sect6_githubtoirc": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
