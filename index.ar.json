@@ -1,4 +1,4 @@
-{
+﻿{
     "_author": "Alashkham",
     "_language": "العربية",
     "_comment": "This is a translation from the original English to Arabic.",
@@ -54,6 +54,10 @@
     
     "sect6_freesoftware": "البرمجيات الحرة",
     "sect6_developers": "نحن مجموعة من الأشخاص المهتمين <span class=\"text normal\">من جميع أنحاء العالم</span>",
+
+    "sect6_mailinglist_title": "اعرف المستجدات" ,
+    "sect6_mailinglist": "انضم إلى قائمة المراسلة الخاصة بتوكس للحصول على آخر الأخبار والتطورات" ,
+    "sect6_email": "عنوان البريد الإلكتروني" ,
     
     "sect6_jointheteam": "أنضم للفريق",
     "sect6_joinongithub": "ساعد في بناء توكس على <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>",
