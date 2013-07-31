@@ -6,46 +6,46 @@
 
     "lf_title": "Tox",
     
-    "nv_home": "Acasa",
+    "nv_home": "Acasă",
     "nv_about": "Despre",
     "nv_features": "Caracteristici",
     "nv_contribute": "Contribuie",
     
-    "sect1_slogan": "Mesaje securizate pentru toți.",
+    "sect1_slogan": "Mesaje securizate pentru toți, în curând.",
 
-    "sect1_description": "Tox este o aplicație care vine ca răspuns programelor guvernamentale de monitorizare a spațiului digital, ușor de utilizat, care vă permite să comunici cu prietenii și familia fără a fi ascultat de altcineva.",
-    "sect1_learnmore": "Află mai mult",
+    "sect1_description": "Tox este o aplicație care vine ca răspuns programelor guvernamentale de monitorizare a spațiului digital, ușor de utilizat, care îți permite să comunici cu prietenii și familia fără a fi ascultat de altcineva.",
+    "sect1_learnmore": "Află mai multe",
     "sect1_download": "Descarcă",
     
     
     "sect2_abouttox": "Despre Tox",
 
-    "sect2_aboutbody": "Tox este fondat pe ideea că putem ține legătură cu prietenii noștri și familia fără a risca să fim privați de \n caracterul personal al acestui proces. Timp ce serviciile bine cunoscute de comunicare electronică cer bani pentru a ne oferi acces la \n posibilitățile sale, Tox este complet gratis și liber. Anume așa, ești liber să faci totul ce dorești cu Tox.",
+    "sect2_aboutbody": "Tox este fondat pe ideea că putem ține legătura cu prietenii noștri și familia fără a risca să fim privați de \n caracterul personal al acestui proces. În timp ce serviciile bine-cunoscute de comunicare electronică cer bani pentru a ne oferi acces la \n posibilitățile lor, Tox este complet gratis și liber. Ești liber să faci tot ce dorești cu Tox.",
     
     
-    "sect3_messages": "Unele caracteristici interesante",
+    "sect3_messages": "Câteva dintre caracteristicile Tox",
     
     "sect3_messages": "Mesaje",
-    "sect3_messages_blurb": "Fii mereu pe fir. \n Tu ești mereu la curent cu mesaje instantanee criptate.",
+    "sect3_messages_blurb": "Fii mereu pe fir. \n Ești mereu la curent cu mesaje instantanee criptate.",
     
     "sect3_voice": "Apeluri",
-    "sect3_voice_blurb": "Păstrează legătura. \n Fa apeluri gratuite și sigure cu Tox.",
+    "sect3_voice_blurb": "Păstrează legătura. \n Faci apeluri gratuite și sigure cu Tox.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Ai incredere in ce vezi. \n Întâlnire tete-a-tete cu apeluri video sigure.",
+    "sect3_video_blurb": "Ai incredere în ceea ce vezi. \n Comunici față în față cu apeluri video sigure.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
-    "sect4_principles": "Mesagerie instantanee, conferințe video, și mai mult",
+    "sect4_principles": "Mesagerie instantanee, conferințe video și multe altele",
     
     "sect4_security": "Securitate",
-    "sect4_security_blurb": "Tox ia în serios intimitatea ta.<br/>Cu <span class=\"text bold\">criptare de clasă înaltă</span>, poți fi sigur că doar cei cu cine comunici vor vedea mesajele transmise.",
+    "sect4_security_blurb": "Tox ia în serios intimitatea ta.<br/>Cu <span class=\"text bold\">criptare de primă clasă</span>, poți fi sigur că doar cei cu care comunici vor vedea mesajele transmise.",
     
-    "sect4_easy": "Simplitate în utilizare",
-    "sect4_easy_blurb": "Spre deosebire de alte soluții de mesagerie securizată, cu Tox nu trebuie sa fii programator pentru al folosi. Tox merge din cutie, cu o interfață <span class=\"text bold\"> ușor-de-utilizat </ span>  care îți permite să te concentrezi asupra conversațiilor. ",
+    "sect4_easy": "Simplitate în utilizare"
+    "sect4_easy_blurb": "Spre deosebire de alte soluții de mesagerie securizată, cu Tox nu trebuie să fii programator pentru a-l folosi. Tox merge din prima, cu o interfață <span class=\"text bold\"> ușor de utilizat </ span>,  care îți permite să te concentrezi asupra conversațiilor. ",
     
     "sect4_freedom": "Libertate",
-    "sect4_freedom_blurb": "Ești absolut liber cât de a utiliza Tox, atât și de al modifica. Și aceste posibilități sunt gratuite. Ba mai mult, <span class=\"text bold\"> Tox nu va face abuz de atenția ta cu anunțuri, și nu va cere să plătești pentru orice posibilități adiționale. </ Span> ",
+    "sect4_freedom_blurb": "Ești absolut liber în a utiliza Tox, cât și în a-l modifica. Și aceste posibilități sunt gratuite. Ba mai mult, <span class=\"text bold\"> Tox nu va face abuz de atenția ta cu anunțuri și nu va îți va cere să plătești pentru orice facilități adiționale. </ Span> ",
     
     
     "sect5_contribute": "Contribuie",
@@ -53,12 +53,12 @@
     "sect5_github": "Vrei să ajuți? Suntem pe <span class=\"text normal color white\">GitHub</span>.\n Nu e necesară experiență de programare.",
     "sect5_sourceongithub": "Sursa pe GitHub",
     
-    "sect6_freesoftware": "Software-ul gratuit",
-    "sect6_developers": "Suntem băieți bravo din <span class=\"text normal\">toată lumea.</span>.",
+    "sect6_freesoftware": "Software liber",
+    "sect6_developers": "Suntem băieți de treabă din <span class=\"text normal\">toată lumea.</span>.",
     
-    "sect6_jointheteam": "Alăturați-vă echipei",
-    "sect6_joinongithub": "Ajuta la crearea lui TOX pe <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_jointheteam": "Alătură-te echipei",
+    "sect6_joinongithub": "Ajută la crearea lui Tox pe <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Ai nevoie de ajutor?",
-    "sect6_githubtoirc": "Începe propriul tău proiect și solicită ajutor la noi pe <span class=\"text normal\">GitHub</span>, sau <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Începe propriul tău proiect și solicită-ne ajutorul pe <span class=\"text normal\">GitHub</span>, sau <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
