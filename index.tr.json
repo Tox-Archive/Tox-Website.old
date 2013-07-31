@@ -59,6 +59,7 @@
     
     "sect6_mailinglist_title": "Güncel kal",
     "sect6_mailinglist": "Tox'ın gelişimi ile ilgili haberdar olmak isterseniz posta listesine abone olun.",
+    "sect6_email": "email adresi",
     
     "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
     "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>'dir!"
