@@ -58,5 +58,5 @@
     "sect6_joinongithub": "Auta kehittämään Toxia <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub:ssa</a>.",
    
     "sect6_needhelp": "Tarvitsetko apua?",
-    "sect6_githubtoirc": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC:ssä</a>!"
+    "sect6_githubtoirc": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC:ssä</a>!"
 }

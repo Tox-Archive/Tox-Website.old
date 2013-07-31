@@ -60,5 +60,5 @@
     "sect6_joinongithub": "Aidez à bâtir Tox sur <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Besoin d'aide?",
-    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
