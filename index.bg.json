@@ -59,6 +59,10 @@
     "sect6_jointheteam": "Присъединете се към екипа",
     "sect6_joinongithub": "Помогнете да разработваме Tox в <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
+    "sect6_mailinglist_title": "Бъдете информирани",
+    "sect6_mailinglist": "Абонирайте се за нашия списък, за да получавате новини относно състоянието на Tox.",
+    "sect6_email": "въведете имейл адрес",
+
     "sect6_needhelp": "Трябва ви помощ?",
     "sect6_githubtoirc": "Започнете вашия проект и ни попитайте в <span class=\"text normal\">GitHub</span>, или на <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
