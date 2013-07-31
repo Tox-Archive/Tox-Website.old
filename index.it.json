@@ -56,8 +56,9 @@
     "sect6_freesoftware": "Software libero",
     "sect6_developers": "Siamo bravi ragazzi provenienti <span class=\"text normal\">da tutto il globo</span>.",
     
-    "sect6_jointheteam": "Aggiungiti al team",
-    "sect6_joinongithub": "Aiuta a costruire Tox su <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_mailinglist_title": "Tieniti aggiornato",
+    "sect6_mailinglist": "Isciviti alla nostra mailing list per ricevere aggiornamenti sullo sviluppo di Tox.",
+    "sect6_email": "indirizzo email",
     
     "sect6_needhelp": "Serve una mano?",
     "sect6_githubtoirc": "Inizia il tuo progetto e contattaci pure su <span class=\"text normal\">GitHub</span>, o su <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
