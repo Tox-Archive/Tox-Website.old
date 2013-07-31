@@ -15,6 +15,7 @@
     "sect1_description": "Com o crescimento de programas de vigilância governamental, Tox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado.",
     "sect1_learnmore": "Saber mais",
     "sect1_download": "Download",
+    "sect1_notavail": "O Tox ainda não está concluído, poderás fazer download da aplicação brevemente!",
     
     
     "sect2_abouttox": "Sobre o Tox",
@@ -55,8 +56,9 @@
     "sect6_freesoftware": "Software livre",
     "sect6_developers": "Somos bons rapazes de <span class=\"text normal\">todo o mundo</span>.",
     
-    "sect6_jointheteam": "Junte-se à equipa",
-    "sect6_joinongithub": "Ajude-nos a construir o Tox no <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_mailinglist_title": "Mantém-te em contacto",
+    "sect6_mailinglist": "Subscreve a nossa mailing list para seres notificado acerca de actualizações no progresso do Tox.",
+    "sect6_email": "endereço de email",
     
     "sect6_needhelp": "Precisa de ajuda?",
     "sect6_githubtoirc": "Comece o seu próprio projeto e contacte-nos no <span class=\"text normal\">GitHub</span> ou no <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
