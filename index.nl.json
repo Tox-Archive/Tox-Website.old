@@ -55,8 +55,9 @@
     "sect6_freesoftware": "Gratis software",
     "sect6_developers": "Wij zijn programmeurs <span class=\"text normal\">van over de hele wereld</span>.",
     
-    "sect6_jointheteam": "Doe mee",
-    "sect6_joinongithub": "Help Tox meebouwen op <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_mailinglist_title": "Blijf op de hoogte",
+    "sect6_mailinglist": "Meld je nu aan op onze  mailinglijst voor updates over de voortgang van Tox",
+    "sect6_email": "Emailadres",
     
     "sect6_needhelp": "Hulp nodig?",
     "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
