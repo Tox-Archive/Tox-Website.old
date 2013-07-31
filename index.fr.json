@@ -20,29 +20,29 @@
     
     "sect2_abouttox": "À propos de Tox",
     
-    "sect2_aboutbody": "Tox est bâti avec l'idée que vous puissiez rester en contact avec les amis ou la famille sans risquer une atteinte à votre vie privée.\n Alors que d'autres grands noms de la messagerie vous font payer afin de débloquer des fonctionnalités, Tox reste gratuit et libre.\n Ainsi, vous pouvez faire ce que bon vous semble avec Tox.",
+    "sect2_aboutbody": "Tox est bâti avec l'idée que vous puissiez rester en contact avec vos amis ou votre famille sans risquer une atteinte à votre vie privée.\n Alors que d'autres grands noms de la messagerie vous font payer afin de débloquer des fonctionnalités, Tox reste gratuit et libre.\n Ainsi, vous pouvez faire ce que bon vous semble avec Tox.",
     
     
-    "sect3_messages": "Des fonctions chouettes",
+    "sect3_messages": "De chouettes fonctions",
     
     "sect3_messages": "Messages",
-    "sect3_messages_blurb": "À portée de la main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
+    "sect3_messages_blurb": "À portée de main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
     
     "sect3_voice": "Appels",
     "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients Tox.",
     
     "sect3_video": "Vidéo",
-    "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels vidéos sécuritaires",
+    "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels vidéo sécurisés",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
-    "sect4_principles": "Messagerie instantanée, conférences vidéo, et plus encore",
+    "sect4_principles": "Messagerie instantanée, conférences vidéo, et bien plus encore",
     
     "sect4_security": "Sécurité",
     "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">un chiffrement fort</span>, vous êtes assuré que seuls vos destinataires seront de la conversation.",
     
     "sect4_easy": "Facile à utiliser",
-    "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécuritaire, Tox ne s'attend pas à ce que vous soyez programmeur. Tox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
+    "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécurisée, Tox ne s'attend pas à ce que vous soyez programmeur. Tox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
     
     "sect4_freedom": "Liberté",
     "sect4_freedom_blurb": "Tox est libre et gratuit. Vous êtes complètement libre d'utiliser et de modifier Tox. De plus, <span class=\"text bold\">Tox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités.</span>",
@@ -50,15 +50,16 @@
     
     "sect5_contribute": "Contribuer",
     
-    "sect5_github": "Vous voulez aider? Nous sommes sur <span class=\"text normal color white\">GitHub</span>.\n Aucune expérience de programmation nécessaire.",
+    "sect5_github": "Vous voulez aider ? Nous sommes sur <span class=\"text normal color white\">GitHub</span>.\n Aucune expérience de programmation nécessaire.",
     "sect5_sourceongithub": "Source sur GitHub",
     
     "sect6_freesoftware": "Logiciel libre",
     "sect6_developers": "Nous sommes une équipe sympa avec des membres de <span class=\"text normal\">partout dans le monde</span>.",
     
-    "sect6_jointheteam": "Joignez-vous à l'équipe",
-    "sect6_joinongithub": "Aidez à bâtir Tox sur <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_mailinglist_title": "Rester informé",
+    "sect6_mailinglist": "Abonnez-vous par mail afin de vous tenir au courant des nouveautés",  
+    
     
     "sect6_needhelp": "Besoin d'aide?",
-    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou dans notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
