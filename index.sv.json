@@ -49,14 +49,14 @@
     "sect5_contribute": "Bidra",
     
     "sect5_github": "Vill du hjälpa till? Vi finns på <span class=\"text normal color white\">GitHub</span>.\n Ingen erfarenhet av programmering krävs.",
-    "sect5_sourceongithub": "Källkod på Github",
+    "sect5_sourceongithub": "Källkod på Github",  
     
+    "sect6_freesoftware": "Fri programvara",
+    "sect6_developers": "Tox är gemensamt skapat av personer <span class=\"text normal\">runt hela jorden</span>.",
+
     "sect6_mailinglist_title": "Håll dig uppdaterad",
     "sect6_mailinglist": "Anmäl dig till våran utskickslista för uppdateringar om Tox",
-    "sect6_email": "email address",    
-    
-    "sect6_jointheteam": "Gå med i teamet",
-    "sect6_joinongithub": "Hjälp oss att skapa Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_email": "email address",      
     
     "sect6_needhelp": "Behöver du hjälp?",
     "sect6_githubtoirc": "Starta ditt egna projekt och fråga oss på <span class=\"text normal\">GitHub</span>, eller på våran <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
