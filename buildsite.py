@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from __future__ import print_function
-import json
+import simplejson
 import os
 import pystache
 import re
@@ -24,7 +24,7 @@ def do_format_template(name, template):
             continue
         with open("{0}.{1}.json".format(basename, language), "r") as lf:
             try:
-                values = json.load(lf)
+                values = simplejson.load(lf)
             except ValueError:
                 print("Error in {0}.{1}.json!".format(basename, language))
                 raise
