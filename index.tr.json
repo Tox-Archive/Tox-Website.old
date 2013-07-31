@@ -51,14 +51,15 @@
     
     "sect5_contribute": "Katkıda Bulun",
     
-    "sect5_github": "Yardım etmek ister misiniz? Bizi <span class=\"text normal color white\">GitHub</span>'da bulabilirsiniz.\n Herhangi yazılım tecrübesi gerekmez.",
+    "sect5_github": "Yardım etmek ister misiniz? Bizi <span class=\"text normal color white\">GitHub</span>'da bulabilirsiniz.\n Herhangi yazılım tecrübesi gerektirmez.",
     "sect5_sourceongithub": "GitHub",
     
     "sect6_freesoftware": "Özgür Yazılım",
     "sect6_developers": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> insanlarız.",
     
-    "sect6_jointheteam": "Ekibe katıl",
-    "sect6_joinongithub": "Tox'ı oluşturmak isterseniz tüm bilgileri <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>'da bulabilirsiniz.",
+    "sect6_mailinglist_title": "Güncel kal",
+    "sect6_mailinglist": "Tox'ın gelişimi ile ilgili haberdar olmak isterseniz posta listesine abone olun.",
+    "sect6_email": "email adresi",
     
     "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
     "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>'dir!"
