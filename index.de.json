@@ -11,25 +11,25 @@
     "nv_features": "Features",
     "nv_contribute": "Mitmachen",
     
-    "sect1_slogan": "Sichere Nachrichten für Alle.",
-    "sect1_description": "Vor dem Hintergrund einer sich ausweitenden Überwachung durch die Regierungen ist Tox eine leicht zu nutzende Anwendung, die es dir gestattet, dich mit Freunden und Nahestehenden zu verbinden, ohne dass jemand zuhört.",
-    "sect1_learnmore": "Mehr Erfahren",
+    "sect1_slogan": "Sichere Kommunikation für jedermann.",
+    "sect1_description": "Vor dem Hintergrund einer sich ausweitenden Überwachung durch einige Regierungen ist Tox eine leicht zu bedienende Anwendung, die es dir gestattet, dich mit Freunden und Nahestehenden zu unterhalten, ohne dass jemand zuhört.",
+    "sect1_learnmore": "Mehr erfahren",
     "sect1_download": "Download",
-    "sect1_notavail": "Tox ist noch nicht fertig, Downloads werden in kürze verfügbar sein",
+    "sect1_notavail": "Tox ist noch nicht fertig, Downloads werden in Kürze verfügbar sein",
     
     
     "sect2_abouttox": "Über Tox",
     
-    "sect2_aboutbody": "Hinter Tox steht die Idee, dass du mit deinen Freunden und deiner Familie in Kontakt bleiben kannst, ohne dass deine Privatsphäre verletzt wird.\n Während du bei anderen Anwendungen bezahlen musst, um alle Features freizuschalten, ist Tox frei - in Bezug auf Preis und Freiheit.\n Das heißt, dass du mit Tox machen kannst, was immer du möchtest.",
+    "sect2_aboutbody": "Hinter Tox steht die Idee, dass du mit deinen Freunden und deiner Familie in Kontakt bleiben kannst, ohne dass dabei deine Privatsphäre verletzt wird.\n Während du bei anderen Anwendungen bezahlen musst, um alle Features freizuschalten, ist Tox frei\n Das heißt, dass du mit Tox machen darfst, was immer du möchtest, und zwar kostenlos.",
    
     
     "sect3_messages": "Einige tolle Features",
     
     "sect3_messages": "Nachrichten",
-    "sect3_messages_blurb": "Immer zur Hand.\n Immer in Kontakt mittels verschlüsselter Sofortnachrichten.",
+    "sect3_messages_blurb": "Stets zu Euren Diensten.\n Immer in Kontakt mittels verschlüsselter Sofortnachrichten.",
     
-    "sect3_voice": "Calls",
-    "sect3_voice_blurb": "Bleibe in Kontakt.\n Mache kostenlose und sichere Tox-zu-Tox Anrufe.",
+    "sect3_voice": "Anrufe",
+    "sect3_voice_blurb": "Bleibe in Kontakt.\n Tätige kostenlose und sichere Tox-zu-Tox Anrufe.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Sehen heißt Glauben.\n Komm in einem Gespräch von Angesicht zu Angesicht auf den neuesten Stand - mit einem sicheren Videoanruf.",
@@ -39,13 +39,13 @@
     "sect4_principles": "Sofortnachrichten, Videokonferenzen und mehr",
     
     "sect4_security": "Sicherheit",
-    "sect4_security_blurb": "Tox nimmt deine Privatsphäre ernst.\n Mit <span class=\"text bold\">führender Verschlüsselungstechnik</span> kannst du sicher sein, dass nur die Personen deine Nachrichten lesen, an die du sie geschickt hast.",
+    "sect4_security_blurb": "Tox nimmt deine Privatsphäre ernst.\n Mit <span class=\"text bold\">führender Verschlüsselungstechnik</span> kannst du sicher sein, dass nur die Personen deine Nachrichten lesen können, an die du sie geschickt hast.",
     
     "sect4_easy": "Bedienkomfort",
     "sect4_easy_blurb": "Im Gegensatz zu anderen sicheren Nachrichtenlösungen brauchst du bei Tox kein Programmierer sein, um es zu benutzen. Tox kommt von Haus aus mit einer <span class=\"text bold\">leicht zu bedienenden</span> Oberfläche, die es dir erlaubt, dich auf deine Unterhaltungen zu konzentrieren.",
     
     "sect4_freedom": "Freiheit",
-    "sect4_freedom_blurb": "Tox ist nicht nur kostenlos, du kannst Tox auch uneingeschränkt benutzen und modifizieren. Weiterhin wird dich <span class=\"text bold\">Tox niemals mit Werbung belästigen oder dich für Funktionen bezahlen lassen.</span>",
+    "sect4_freedom_blurb": "Tox ist nicht nur kostenlos, du kannst Tox auch uneingeschränkt nutzen und modifizieren. Weiterhin wird dich <span class=\"text bold\">Tox niemals mit Werbung belästigen oder dich für Funktionen bezahlen lassen.</span>",
     
     
     "sect5_contribute": "Mitmachen",
@@ -57,7 +57,7 @@
     "sect6_developers": "Wir sind coole Leute <span class=\"text normal\">aus der ganzen Welt</span>.",
     
     "sect6_mailinglist_title": "Bleibe informiert",
-    "sect6_mailinglist": "Abonniere unsere Mailingliste um über den aktuellen Status von Tox informiert zu werden.",
+    "sect6_mailinglist": "Abonniere unsere Mailingliste, um über den aktuellen Status von Tox informiert zu bleiben.",
     "sect6_email": "E-Mail-Adresse",
     
     "sect6_needhelp": "Du brauchst Hilfe?",
