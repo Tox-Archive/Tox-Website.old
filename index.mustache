@@ -7,10 +7,10 @@
 	<meta name="keywords" content="tox,instant messaging,secure,decentralized,friendly,github,open source,voice,calling">
 	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="http://tox.im//assets/imgs/LockOnly.png"/>
+    <meta property="og:image" content="./assets/imgs/LockOnly.png"/>
 	<link rel="shortcut icon" type="image/icon" href="./assets/imgs/favicon.ico">
 	<!-- CSS -->
-    <link rel="image_src" href="http://tox.im/assets/imgs/LockOnly.png" / >
+    <link rel="image_src" href="./assets/imgs/LockOnly.png" / >
 	<link rel="stylesheet" href="./assets/css/custom.min.css">
 	<link rel="stylesheet" href="./assets/css/tuktuk.min.css">
 	<link rel="stylesheet" href="./assets/css/tuktuk.theme.min.css">
@@ -56,7 +56,7 @@
 		<div class="row text center book">
 			<div class="column_10 offset_1">
 				<h1 class="text bold color light">{{{sect2_abouttox}}}</h1>
-				<h3>{{{sect2_aboutbody}}}</3>
+				<h3>{{{sect2_aboutbody}}}</h3>
 			</div>
 		</div>
 	</section>
@@ -128,35 +128,40 @@
 		</div>
 	</section>
 	
-	<section class="bck dark padding">
-		<div class="row margin-top margin-bottom">
-			<div class="column_3">
-				<p class="text bold big">{{{sect6_freesoftware}}}</p>
-					{{{sect6_developers}}}
+	<footer>
+		<section class="bck dark padding">
+			<div class="row margin-top margin-bottom">
+				<div class="column_3">
+					<p class="text bold big">{{{sect6_freesoftware}}}</p>
+						{{{sect6_developers}}}
+				</div>
+				<div class="column_4 offset_1">
+					<p class="text bold big">{{{sect6_mailinglist_title}}}</p>
+						{{{sect6_mailinglist}}}
+	                <form action="http://tox.us7.list-manage.com/subscribe/post?u=127f0bc6d65fa4f980565d751&amp;id=0cb34cab55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	                	<div id="clear">
+	                		<input type="email" value="" style="border-radius: 5px 0px 0px 5px !important;" name="EMAIL" class="mce-email" id="mce-EMAIL" placeholder="{{{sect6_email}}}" required>
+	                	</div>
+	                    <div id="clear1">
+	                    	<button type="submit" style="margin-top: 3px; margin-left:-2px; border-radius: 0px 5px 5px 0px !important;"value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button icon envelope"></button>
+	                    </div>
+	                </form>
+				</div>
+				<div class="column_3 offset_1">
+					<p class="text bold big">{{{sect6_needhelp}}}</p>
+						{{{sect6_githubtoirc}}}
+				</div>
 			</div>
-			<div class="column_4 offset_1">
-				<p class="text bold big">{{{sect6_mailinglist_title}}}</p>
-					{{{sect6_mailinglist}}}
-                    <form action="http://tox.us7.list-manage.com/subscribe/post?u=127f0bc6d65fa4f980565d751&amp;id=0cb34cab55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <div id="clear"><input type="email" value="" style="border-radius: 5px 0px 0px 5px !important;" name="EMAIL" class="mce-email" id="mce-EMAIL" placeholder="{{{sect6_email}}}" required></div>
-                    <div id="clear1"><button type="submit" style="margin-top: 3px; margin-left:-2px; border-radius: 0px 5px 5px 0px !important;"value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button icon envelope"></div>
-                    </form>
+		</section>
+		<section class="bck light padding text small">
+			<div class="row margin-top margin-bottom">
+				{{#languages}}
+				<a href="./{{{lang_shortcode}}}">{{{lang_name}}}</a>{{^last}}&nbsp; &middot; &nbsp;{{/last}}
+				{{/languages}}
 			</div>
-			<div class="column_3 offset_1">
-				<p class="text bold big">{{{sect6_needhelp}}}</p>
-					{{{sect6_githubtoirc}}}
-			</div>
-		</div>
-	</section>
-	
-	<footer class="bck light padding">
-		<div class="row margin-top margin-bottom">
-			{{#languages}}
-			<a href="./{{{lang_shortcode}}}">{{{lang_name}}}</a>{{^last}}&nbsp; &middot; &nbsp;{{/last}}
-			{{/languages}}
-		</div>
+		</section>
 	</footer>
-	<!--<script src="./assets/js/tuktuk.min.js"></script>-->
+	
 	<script src="./assets/js/screenshots.min.js"></script>
 	<script type="text/javascript" defer="" async="" src="./piwik/piwik.js"></script>
 	<script type="text/javascript">
