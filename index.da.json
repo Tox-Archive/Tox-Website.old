@@ -51,12 +51,12 @@
     "sect5_github": "Har du lyst til at hjælpe? Vi er på <span class=\"text normal color white\">GitHub</span>.\n Vi kræver ikke at du har tidligere programmeringserfaring.",
     "sect5_sourceongithub": "Kildekoden på GitHub",
     
+    "sect6_freesoftware": "Gratis Software",
+    "sect6_developers": "Vi er nogle cool fyre fra <span class=\"text normal\">hele verden</span>.",
+  
     "sect6_mailinglist_title": "Blijf op de hoogte",
     "sect6_mailinglist": "Meld je nu aan op onze  mailinglijst voor updates over de voortgang van Tox",
     "sect6_email": "Emailadres",
-    
-    "sect6_jointheteam": "Kom med på holdet",
-    "sect6_joinongithub": "Hjælp med at bygge Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Brug for hjælp?",
     "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/Tox\" class=\"text bold underline color theme\">IRC</a>!"
