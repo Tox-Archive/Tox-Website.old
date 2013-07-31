@@ -57,7 +57,7 @@
     "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
     
     "sect6_jointheteam": "Join the team",
-    "sect6_joinongithub": "Help build TOX on <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_joinongithub": "Help build Tox on <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Need some help?",
     "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
