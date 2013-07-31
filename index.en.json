@@ -58,6 +58,7 @@
     
     "sect6_mailinglist_title": "Keep in the loop",
     "sect6_mailinglist": "Subscribe to our mailing list for updates about Tox's progress.",
+    "sect6_email": "email address",
     
     "sect6_needhelp": "Need some help?",
     "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
