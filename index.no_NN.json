@@ -1,0 +1,62 @@
+{
+    "_author": "chinatsun",
+    "_language": "Norsk Nynorsk",
+    "_ind": 0,
+
+    "lf_title": "Tox (Pre-alpha)",
+    
+    "nv_home": "Heim",
+    "nv_about": "Om",
+    "nv_features": "Funksjonar",
+    "nv_contribute": "Bidra",
+    
+    "sect1_slogan": "Sikker meldingsteneste for resten av oss, kjem snart.",
+    "sect1_description": "Med framveksten av omfattande overvakingsplanar er Tox eit brukarvenleg program som lét deg kommunisere med kjente og kjære uten at uvedkomande avlyttar dykk.",
+    "sect1_learnmore": "Lær meir",
+    "sect1_download": "Last ned",
+    "sect1_notavail": "Tox er ikkje klar for utgjeving enda, nedlasting blir tilgjengeleg snart!",
+    
+    "sect2_abouttox": "Om Tox",
+    
+    "sect2_aboutbody": "Tox er bygd kring idéen om at du kan halde deg oppdatert med kjente og kjære utan at privatlivet ditt blir krenka.\nMens andre store aktørar krev at du betaler for å få funksjonar, er Tox både gratis og friheitsrespekterande.\nMed andre ord kan du gjere kva du vil med Tox.",
+    
+    
+    "sect3_messages": "Nokre stilige funksjonar",
+    
+    "sect3_messages": "Meldinger",
+    "sect3_messages_blurb": "Augeblikkeleg kryptert meldingsutveksling under dine fingerspissar.",
+    
+    "sect3_voice": "Anrop",
+    "sect3_voice_blurb": "Hald kontakta.\nRing gratis og trygt frå Tox til Tox.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Andlet til andlet.\nHald dykk oppdatert med sikre videosamtalar.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Direktemeldinger, videokonferansar, og meir",
+    
+    "sect4_security": "Tryggleik",
+    "sect4_security_blurb": "Tox tek privatlivet ditt seriøst.\nMed <span class=\"text bold\">ledande kryptering</span>, kan du vere sikker på at dei einaste som les meldingene dine er dei du sender til.",
+    
+    "sect4_easy": "Enkelt i bruk",
+    "sect4_easy_blurb": "I motsetning til andre direktemeldingsprogram, må du ikkje vere ein dataprogrammerer for å bruke Tox. Tox kjem med eit <span class=\"text bold\">enkelt å bruke</span> grensesnitt som lét deg fokusere på samtalane dine.",
+    
+    "sect4_freedom": "Friheit",
+    "sect4_freedom_blurb": "Tox er både gratis for deg å bruke og gratis for deg å endre. Du står heilt fritt til å bruke og endre Tox. Dessutan <span class=\"text bold\"> vil Tox aldri bry deg med annonser, eller kreve for funksjonar.</span>",
+    
+    
+    "sect5_contribute": "Bidra",
+    
+    "sect5_github": "Lysten på å hjelpe? Vi held til på <span class=\"text normal color white\">GitHub</span>.\nIngen programmeringserfaring er nødvendig.",
+    "sect5_sourceongithub": "Kildekoden på GitHub",
+    
+    "sect6_freesoftware": "Fri programvare",
+    "sect6_developers": "Me er kule folk i frå <span class=\"text normal\">heile verda</span>.",
+    
+    "sect6_jointheteam": "Bli med på laget",
+    "sect6_joinongithub": "Hjelp til med å byggje Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Treng du hjelp?",
+    "sect6_githubtoirc": "Start ditt eige prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+}
