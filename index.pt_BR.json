@@ -1,5 +1,5 @@
 {
-    "_author": "nfkd",
+    "_author": "nfkd, uncannycod",
     "_language": "Português (Brasil)",
     "_comment": "",
     "_ind": 2,
@@ -11,11 +11,11 @@
     "nv_features": "Funções",
     "nv_contribute": "Contribua",
     
-    "sect1_slogan": "Mensagens seguras para o mundo inteiro, em breve.",
+    "sect1_slogan": "Mensagens seguras para todo o mundo.",
     "sect1_description": "Com o aumento da vigilância governamental e social, Tox é um programa fácil de usar que permite você se conectar com os seus amigos e parentes, sem que ninguém espie.",
     "sect1_learnmore": "Saiba mais",
     "sect1_download": "Download",
-    "sect1_notavail": "Tox não esta pronto ainda! Downloads em breve.",
+    "sect1_notavail": "Tox não está pronto ainda! Downloads em breve.",
 	
     
     "sect2_abouttox": "Sobre o Tox",
@@ -56,8 +56,9 @@
     "sect6_freesoftware": "Software Livre",
     "sect6_developers": "Somos cara legais do <span class=\"text normal\">mundo todo</span>.",
     
-    "sect6_jointheteam": "Junte-se ao time",
-    "sect6_joinongithub": "Ajude a construir o Tox no <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_mailinglist_title": "Mantenha-se em contacto",
+    "sect6_mailinglist": "Assine a nossa lista de discussão para atualizações sobre o progresso da Tox.",
+    "sect6_email": "endereço de email",
     
     "sect6_needhelp": "Precisa de ajuda?",
     "sect6_githubtoirc": "Comece seu próprio projeto e nos pergunte sobre ele no <span class=\"text normal\">GitHub</span>, ou no <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
