@@ -54,6 +54,10 @@
     "sect6_freesoftware": "Fri programvare",
     "sect6_developers": "Me er kule folk i frå <span class=\"text normal\">heile verda</span>.",
     
+    "sect6_mailinglist_title": "Hald deg oppdatert",
+    "sect6_mailinglist": "Meld deg på epostlist afor oppdateringar om Tox's framgang.",
+    "sect6_email": "epostadresse",
+    
     "sect6_jointheteam": "Bli med på laget",
     "sect6_joinongithub": "Hjelp til med å byggje Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
