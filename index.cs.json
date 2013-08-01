@@ -1,5 +1,5 @@
 {
-    "_author": "NemDiggers, Theon144, et. al.",
+    "_author": "NemDiggers, stal, Theon144, et. al.",
     "_language": "Čeština",
     "_comment": "",
     "_ind": 0,
@@ -12,14 +12,16 @@
     "nv_contribute": "Přispějte",
     
     "sect1_slogan": "Bezpečná komunikace pro všechny, již brzy.",
-    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. Tox je aplikace jednoduchá na používání, co vám umožní spojit se s přáteli a blízkými bez toho, aby Vás poslouchal kdokoli jiný.",
+    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. Tox je aplikace co se snadno používá a umožní Vám spojit se s přáteli a blízkými, aniž by Vás poslouchal kdokoli jiný.",
     "sect1_learnmore": "Zjistěte více",
     "sect1_download": "Stáhnout",
+        "sect1_notavail": "Tox ještě není hotový, brzy bude ale k dispozici ke stažení!",
     
     
     "sect2_abouttox": "O projektu Tox",
     
-    "sect2_aboutbody": "Tox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu aniž by bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, Tox je naprosto zdarma a svobodný.\n To znamená, že si můžete s Tox dělat cokoli chcete.",
+    "sect2_aboutbody": "Tox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu bez toho, aby bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, Tox je naprosto zdarma a svobodný.\n To znamená, že si můžete s Tox dělat cokoli chcete.",
+    
     
     "sect3_messages": "Funkce",
     
@@ -54,9 +56,10 @@
     "sect6_freesoftware": "Svobodný Software",
     "sect6_developers": "Jsme skvělý tým z <span class=\"text normal\">celého světa</span>.",
     
-    "sect6_jointheteam": "Přidejte se k nám",
-    "sect6_joinongithub": "Pomozte vyvíjet Tox na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubu</a>.",
+    "sect6_mailinglist_title": "Buďte v obraze",
+    "sect6_mailinglist": "Odebírejte náš mailing list a dostávejte tak novinky o Tox",
+    "sect6_email": "e-mailová adresa",
     
-    "sect6_needhelp": "Potřebujete pomoct?",
+    "sect6_needhelp": "Potřebujete pomoc?",
     "sect6_githubtoirc": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
