@@ -55,9 +55,9 @@
     "sect6_freesoftware": "Gratis Software",
     "sect6_developers": "Vi er nogle cool fyre fra <span class=\"text normal\">hele verden</span>.",
   
-    "sect6_mailinglist_title": "Blijf op de hoogte",
-    "sect6_mailinglist": "Meld je nu aan op onze  mailinglijst voor updates over de voortgang van Tox",
-    "sect6_email": "Emailadres",
+    "sect6_mailinglist_title": "Hold dig ajour",
+    "sect6_mailinglist": "Tilmeld dig vores nyhedsbrev for løbende opdateringer.",
+    "sect6_email": "Email addresse",
     
     "sect6_needhelp": "Brug for hjælp?",
     "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/Tox\" class=\"text bold underline color theme\">IRC</a>!"
