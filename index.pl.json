@@ -1,5 +1,5 @@
 {
-    "_author": "diath, Chemiczny Bogdan",
+    "_author": "diath, Chemiczny Bogdan, private",
     "_language": "Polski",
     "_comment": "",
     "_ind": 3,
@@ -12,14 +12,15 @@
     "nv_contribute": "Wsparcie",
     
     "sect1_slogan": "Bezpieczna wymiana wiadomości dla wszystkich.",
-    "sect1_description": "Wraz z rosnącym globalnym systemem rządowej inwigilacji, powstał projekt Tox. Tox jest prostą aplikacją która pozwoli Ci na skontaktowanie się i wymianę wiadomości z Twoimi znajomymi i bliskimi bez obaw o to, że ktoś Cię podsłuchuje lub szpieguje.",
+    "sect1_description": "Wraz z rosnącym globalnym systemem rządowej inwigilacji, powstał projekt Tox. Tox jest prostą aplikacją, która pozwoli Ci na kontakt i wymianę wiadomości z Twoimi znajomymi oraz bliskimi bez obaw o to, że ktoś Cię podsłuchuje.",
     "sect1_learnmore": "Więcej",
     "sect1_download": "Pobierz",
+        "sect1_notavail": "Tox nie jest jeszcze gotowy, możliwość pobrania będzie dostępna wkrótce! ",
     
     
     "sect2_abouttox": "O Projekcie",
     
-    "sect2_aboutbody": "Tox został stworzony z myślą o tym, abyś mógł skontaktować się ze swoimi znajomymi i rodziną bez obawy o twoją prywatność.\n Podczas gdy wszystkie inne sławne serwisy wymagają płacenia za odblokowanie danych funkcji i opcji programu, Tox jest w 100% darmowy i wolny, za równo pod względem pieniędzy jak i prywatności.\n To oznacza, że przy pomocy Tox możesz robić cokolwiek tylko chcesz - za darmo.",
+    "sect2_aboutbody": "Tox został stworzony z myślą o tym, abyś mógł skontaktować się ze swoimi znajomymi i rodziną bez obawy o twoją prywatność.\n Podczas gdy inne sławne serwisy wymagają płacenia za odblokowanie dodatkowych funkcji i opcji programu, Tox jest w 100% darmowy i wolny, za równo pod względem pieniędzy jak i prywatności.\n To oznacza, że przy pomocy Tox możesz robić cokolwiek tylko chcesz - za darmo.",
     
     
     "sect3_messages": "Funkcje programu",
@@ -54,6 +55,10 @@
     
     "sect6_freesoftware": "Darmowe Oprogramowanie",
     "sect6_developers": "Jesteśmy świetną ekipą zebraną z <span class=\"text normal\">całego świata</span>!",
+    
+    "sect6_mailinglist_title": "Zostań w kontakcie ",
+    "sect6_mailinglist": "Zapisz się na naszą listę, aby otrzymywać najnowsze informacje o postępie prac.",
+    "sect6_email": "Adres e-mail",
     
     "sect6_jointheteam": "Dołącz do nas",
     "sect6_joinongithub": "Wspomóż tworzyć Tox razem z nami w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
