@@ -45,7 +45,6 @@
     "sect4_freedom": "Friheit",
     "sect4_freedom_blurb": "Tox er både gratis for deg å bruke og gratis for deg å endre. Du står heilt fritt til å bruke og endre Tox. Dessutan <span class=\"text bold\"> vil Tox aldri bry deg med annonser, eller kreve for funksjonar.</span>",
     
-    
     "sect5_contribute": "Bidra",
     
     "sect5_github": "Lysten på å hjelpe? Vi held til på <span class=\"text normal color white\">GitHub</span>.\nIngen programmeringserfaring er nødvendig.",
@@ -55,7 +54,7 @@
     "sect6_developers": "Me er kule folk i frå <span class=\"text normal\">heile verda</span>.",
     
     "sect6_mailinglist_title": "Hald deg oppdatert",
-    "sect6_mailinglist": "Meld deg på epostlist afor oppdateringar om Tox's framgang.",
+    "sect6_mailinglist": "Meld deg på epostlista for oppdateringar om Tox's framgang.",
     "sect6_email": "epostadresse",
     
     "sect6_jointheteam": "Bli med på laget",
