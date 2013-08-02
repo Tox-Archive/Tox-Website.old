@@ -55,9 +55,10 @@
     "sect6_freesoftware": "Vaba tarkvara",
     "sect6_developers": "Me oleme lahedad kutid <span class=\"text normal\">kogu maailmast</span>.",
    
-    "sect6_jointheteam": "Ühine meeskonnaga",
-    "sect6_joinongithub": "Aita TOXi ehitada <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubis</a>.",
-   
+    "sect6_mailinglist_title": "Käi uudistega kaasas",
+    "sect6_mailinglist": "Ühine meie meililistiga ja saad endale uudiseid Toxi progressist.",
+    "sect6_email": "meiliaadress",
+    
     "sect6_needhelp": "Vajad abi?",
     "sect6_githubtoirc": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRCis</a>!"
 }
