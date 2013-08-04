@@ -11,15 +11,16 @@
     "nv_features": "Značajke",
     "nv_contribute": "Pridonesi",
     
-    "sect1_slogan": "Sigurna komunikacija za sve ostale.",
+    "sect1_slogan": "Sigurna komunikacija za svakoga, dolazi uskoro.",
     "sect1_description": "S usponom rasprostranjenih vladinih špijunirajućih programa, Tox je jednostavna aplikacija koja Vam omogućava sigurnu komunikaciju s prijateljima i voljenima bez prisluškivanja.",
     "sect1_learnmore": "Saznajte više",
     "sect1_download": "Preuzmite",
+    "sect1_notavail": "Tox još nije završen, preuzimanja će biti dostupna uskoro!",
     
     
     "sect2_abouttox": "O projektu Tox",
     
-    "sect2_aboutbody": "Tox je napisan s idejom mogućnosti komunikacije s prijateljima i obitelji bez povrede Vaše privatnosti.\n Dok ostali poznati servisi zahtijevaju plaćanje da bi se otključale značajke, Tox je besplatan i slobodan.\n To znači da s Tox-om možete raditi što god poželite.",
+    "sect2_aboutbody": "Tox je stvoren s idejom mogućnosti komunikacije s prijateljima i obitelji bez povrede Vaše privatnosti.\n Dok ostali poznati servisi zahtijevaju plaćanje da bi se otključale značajke, Tox je besplatan i slobodan.\n To znači da s Tox-om možete raditi što god poželite.",
     
     
     "sect3_coolfeatures": "Neke zanimljive značajke",
@@ -31,11 +32,11 @@
     "sect3_voice_blurb": "Ostanite u dodiru.\n Zovite Tox-na-Tox besplatno i sigurno.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Viđenje je vjerovanje.\n Pričajte lice u lice sa sigurnim videopozivom.",
+    "sect3_video_blurb": "Slika vrijedi tisuću riječi.\n Pričajte lice u lice sa sigurnim videopozivom.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
-    "sect4_principles": "IM, video konferencije i više",
+    "sect4_principles": "Trenutačne poruke, video konferencije i više",
     
     "sect4_security": "Sigurnost",
     "sect4_security_blurb": "Tox smatra Vašu privatnost ozbiljnom.<br/>S <span class=\"text bold\">vodećom enkripcijom</span>, odahnite znajući da su jedini ljudi koji čitaju Vaše poruke oni kojima ih šaljete.",
