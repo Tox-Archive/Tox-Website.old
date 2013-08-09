@@ -1,0 +1,65 @@
+{
+    "_author": "Josh Liberty",
+    "_language": "Hebrew",
+    "_comment": "Needs RTL support to really work!",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "ראשי",
+    "nv_about": "אודות",
+    "nv_features": "תכונות",
+    "nv_contribute": "עזרו לנו",
+    
+    "sect1_slogan": "תקשורת מאובטחת לכולם, בקרוב.",
+    "sect1_description": "עם העליה בהיקף הניטור הממשלתי, Tox הינו פתרון תקשורת פשוט, אשר מאפשר לכם להתחבר לחבריכם ואהוביכם, בלי ציטוט מצד אף אחד.",
+    "sect1_learnmore": "מידע נוסף",
+    "sect1_download": "הורדה",
+    "sect1_notavail": "Tox עדיין אינו מוכן, הורדות יתאפשרו בקרוב!",
+    
+    
+    "sect2_abouttox": "אודות Tox",
+    
+    "sect2_aboutbody": "Tox נבנה באמונה שאתם יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים מוכרים דורשים מכם לשלם על מנת לאפשר תכונות מסויימות, Tox הינה חופשית גם במחיר, וגם בחירות.\n כלומר, ביכולתכם לעשות עם Tox ככל העולה על רוחכם.",
+    
+    
+    "sect3_coolfeatures": "תכונות מגניבות",
+    
+    "sect3_messages": "הודעות",
+    "sect3_messages_blurb": "בקצות אצבעותיך.\n אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
+    
+    "sect3_voice": "שיחות",
+    "sect3_voice_blurb": "הישארו בקשר.\n שוחחו בחינם ובבטחה בין משתמשי Tox.",
+    
+    "sect3_video": "וידאו",
+    "sect3_video_blurb": "לראות זה להאמין.\n התעדכנו פנים אל פנים בשיחת וידאו מאובטחת.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "הודעות מידיות, ועידות וידאו, ועוד",
+    
+    "sect4_security": "אבטחה",
+    "sect4_security_blurb": "Tox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים שההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
+    
+    "sect4_easy": "קלות שימוש",
+    "sect4_easy_blurb": "בניגוד לפתרונות תקשורת מאובטחים אחרים, Tox אינו דורש מכם להיות מתכנתי מחשבים. Tox מגיע עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
+    
+    "sect4_freedom": "חופש",
+    "sect4_freedom_blurb": "Tox הינה גם חופשית לשימוש, וגם חופשית לשינוי. אתם חופשיים לחלוטין להשתמש ולשנות את Tox. מעבר לכך, <span class=\"text bold\">Tox לעולם לא תציק לכם עם פרסומות, או תדרוש מכם לשלם עבור תכונות.</span>",
+    
+    
+    "sect5_contribute": "עזרו לנו",
+    
+    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב¯<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
+    "sect5_sourceongithub": "קוד מקור ב¯GitHub",
+    
+    "sect6_freesoftware": "תוכנה חופשית",
+    "sect6_developers": "אנחנו חבר'ה מגניבים <span class=\"text normal\">מרחבי העולם</span>.",
+    
+    "sect6_mailinglist_title": "הישארו בעניינים",
+    "sect6_mailinglist": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של Tox.",
+    "sect6_email": "כתובת דוא\"ל",
+    
+    "sect6_needhelp": "צריכים עזרה?",
+    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב¯<span class=\"text normal\">GitHub</span>, או ב¯<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+}
