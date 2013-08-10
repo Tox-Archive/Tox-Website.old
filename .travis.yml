@@ -3,7 +3,7 @@ python:
   - "2.7"
   - "3.3"
 install:
-  - "pip install simplejson --use-mirrors"
+  - "pip install simplejson pystache --use-mirrors"
 script: "python buildsite.py"
 notifications:
   irc:
