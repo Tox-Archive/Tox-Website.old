@@ -1,0 +1,14 @@
+language: python
+python:
+  - "2.7"
+  - "3.3"
+install:
+  - "pip install simplejson --use-mirrors"
+script: "python buildsite.py"
+notifications:
+  irc:
+    channels:
+      - "chat.freenode.net#tox"
+    template:
+      - "%{repository} (%{commit}): %{message} "
+      - "Build: %{build_url} / Changes: %{compare_url}"
