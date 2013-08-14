@@ -1,60 +1,65 @@
 {
-"_author": "Fivesheep",
-"_language": "繁體中文",
-"_comment": "",
-"_ind": 0,
+    "_author": "Fivesheep",
+    "_language": "繁體中文",
+    "_comment": "",
+    "_ind": 0,
 
-"lf_title": "Tox",
+    "lf_title": "Tox",
 
-"nv_home": "主頁",
-"nv_about": "關於",
-"nv_features": "特性",
-"nv_contribute": "貢獻",
+    "nv_home": "主頁",
+    "nv_about": "關於",
+    "nv_features": "特性",
+    "nv_contribute": "貢獻",
 
-"sect1_slogan": "屬於每個人的安全通信",
-"sect1_description": "Tox是一個易於使用的軟件, 當你與親人和朋友在網絡上進行信息交流的時候, 它能幫助你有效地避免日益加劇的來自各國政府的網絡監控程序的偷窺",
-"sect1_learnmore": "瞭解更多",
-"sect1_download": "下載",
+    "sect1_slogan": "屬於每個人的安全通信",
+    "sect1_description": "Tox是一個易於使用的軟件, 當你與親人和朋友在網絡上進行信息交流的時候, 它能幫助你有效地避免日益加劇的來自各國政府的網絡監控程序的偷窺",
+    "sect1_learnmore": "瞭解更多",
+    "sect1_download": "下載",
+    "sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
 
-"sect2_abouttox": "關於Tox",
 
-"sect2_aboutbody": "Tox的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯. 市面上也有一些提供類似功能的軟件, 但基本上都是需要付費才能獲得比較完整的體驗. \n而Tox則是分文不取, 而且對用戶也沒有任何限制. 你想用Tox做什麼都是你的自由.",
+    "sect2_abouttox": "關於Tox",
 
-"sect3_coolfeatures": "一些很酷的特性",
+    "sect2_aboutbody": "Tox的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯. 市面上也有一些提供類似功能的軟件, 但基本上都是需要付費才能獲得比較完整的體驗. \n而Tox則是分文不取, 而且對用戶也沒有任何限制. 你想用Tox做什麼都是你的自由.",
 
-"sect3_messages": "文本通信",
-"sect3_messages_blurb": "在你的指尖之上. 你的消息將被完全加密.",
 
-"sect3_voice": "通話",
-"sect3_voice_blurb": "保持聯繫. 使用Tox進行免費的加密語音通話.",
+    "sect3_coolfeatures": "一些很酷的特性",
 
-"sect3_video": "視頻",
-"sect3_video_blurb":  "眼見為實, 現在就來體驗面對面加密視頻電話.",
+    "sect3_messages": "文本通信",
+    "sect3_messages_blurb": "在你的指尖之上. 你的消息將被完全加密.",
 
-"LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    "sect3_voice": "通話",
+    "sect3_voice_blurb": "保持聯繫. 使用Tox進行免費的加密語音通話.",
 
-"sect4_principles": "持續的消息, 視頻會議以及更多",
+    "sect3_video": "視頻",
+    "sect3_video_blurb":  "眼見為實, 現在就來體驗面對面加密視頻電話.",
 
-"sect4_security": "安全問題",
-"sect4_security_blurb": "Tox為你嚴守隱私.<br/> 有了<span class=\"text bold\">頂尖加密程序</span>, 除了你要聯繫的人. 沒有別人都窺探到你半點隱私.",
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-"sect4_easy": "易於使用",
-"sect4_easy_blurb": "不像別的加密聊天程序，Tox易於使用, 任何人都能輕鬆上手. 這樣你能把精力都集中在聊天之上.",
+    "sect4_principles": "持續的消息, 視頻會議以及更多",
 
-"sect4_freedom": "自由",
-"sect4_freedom_blurb": "Tox是完全免費使用的自由軟件, 你可以任意修改和分發Tox. Tox永遠不會發廣告騷擾你, 也不會讓你為了一些附加特性付錢.",
+    "sect4_security": "安全問題",
+    "sect4_security_blurb": "Tox為你嚴守隱私.<br/> 有了<span class=\"text bold\">頂尖加密程序</span>, 除了你要聯繫的人. 沒有別人都窺探到你半點隱私.",
 
-"sect5_contribute": "貢獻",
+    "sect4_easy": "易於使用",
+    "sect4_easy_blurb": "不像別的加密聊天程序，Tox易於使用, 任何人都能輕鬆上手. 這樣你能把精力都集中在聊天之上.",
 
-"sect5_github": "想要提供幫助? 我們在這裡 <span class=\"text normal color white\">GitHub</span>.\n 你不需要有任何編程經驗",
-"sect5_sourceongithub": "Github上的原代碼",
+    "sect4_freedom": "自由",
+    "sect4_freedom_blurb": "Tox是完全免費使用的自由軟件, 你可以任意修改和分發Tox. Tox永遠不會發廣告騷擾你, 也不會讓你為了一些附加特性付錢.",
 
-"sect6_freesoftware": "自由軟件",
-"sect6_developers": "我們是來自全世界的精英",
 
-"sect6_jointheteam": "加入我們",
-"sect6_joinongithub": "幫助打造Tox <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect5_contribute": "貢獻",
 
-"sect6_needhelp": "需要協助?",
-"sect6_githubtoirc": "在<span class=\"text normal\">GitHub</span>上建立你自己的項目並且讓我們加入, 或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>頻道!"
+    "sect5_github": "想要提供幫助? 我們在這裡 <span class=\"text normal color white\">GitHub</span>.\n 你不需要有任何編程經驗",
+    "sect5_sourceongithub": "Github上的原代碼",
+
+    "sect6_freesoftware": "自由軟件",
+    "sect6_developers": "我們是來自全世界的精英",
+
+    "sect6_mailinglist_title": "加入我們",
+    "sect6_mailinglist": "幫助打造Tox <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_email": "email 地址",
+
+    "sect6_needhelp": "需要協助?",
+    "sect6_githubtoirc": "在<span class=\"text normal\">GitHub</span>上建立你自己的項目並且讓我們加入, 或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>頻道!"
 }
