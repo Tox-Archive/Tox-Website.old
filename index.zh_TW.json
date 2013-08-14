@@ -1,62 +1,65 @@
 {
-"_author": "xatier",
-"_language": "繁體中文(台灣)",
-"_comment": "",
-"_ind": 0,
+    "_author": "xatier",
+    "_language": "繁體中文(台灣)",
+    "_comment": "",
+    "_ind": 0,
 
-"lf_title": "Tox",
+    "lf_title": "Tox",
 
-"nv_home": "首頁",
-"nv_about": "關於",
-"nv_features": "特性",
-"nv_contribute": "貢獻",
+    "nv_home": "首頁",
+    "nv_about": "關於",
+    "nv_features": "特性",
+    "nv_contribute": "貢獻",
 
-"sect1_slogan": "即將來臨！屬於每個人的安全通訊！",
-"sect1_description": "Tox 是個易於使用的軟體, 當你與親人和朋友在網路上進行資訊交流的時候, 它能幫助你有效地避免來自各國政府日益加劇的網路監控",
-"sect1_learnmore": "瞭解更多",
-"sect1_download": "下載",
-	"sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
+    "sect1_slogan": "即將來臨！屬於每個人的安全通訊！",
+    "sect1_description": "Tox 是個易於使用的軟體, 當你與親人和朋友在網路上進行資訊交流的時候, 它能幫助你有效地避免來自各國政府日益加劇的網路監控",
+    "sect1_learnmore": "瞭解更多",
+    "sect1_download": "下載",
+    "sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
 
-"sect2_abouttox": "關於 Tox",
 
-"sect2_aboutbody": "Tox 的理念是防止你的個人隱私在你與朋友和家人進行交流時受到侵犯. 市面上有些知名服務提供類似功能, 但都是需要付費才能獲得完整功能. \n然而 Tox 無論在價格和自由上都是 free (自由/免費)的. 你想用 Tox 做什麼都是你的自由.",
+    "sect2_abouttox": "關於 Tox",
 
-"sect3_coolfeatures": "一些很酷的特性",
+    "sect2_aboutbody": "Tox 的理念是防止你的個人隱私在你與朋友和家人進行交流時受到侵犯. 市面上有些知名服務提供類似功能, 但都是需要付費才能獲得完整功能. \n然而 Tox 無論在價格和自由上都是 free (自由/免費)的. 你想用 Tox 做什麼都是你的自由.",
 
-"sect3_messages": "文字通訊",
-"sect3_messages_blurb": "您指尖敲出的信息將立即被完全加密.",
 
-"sect3_voice": "通話",
-"sect3_voice_blurb": "保持聯繫. \n使用 Tox 進行免費並安全的語音通話.",
+    "sect3_coolfeatures": "一些很酷的特性",
 
-"sect3_video": "視訊",
-"sect3_video_blurb":  "眼見為憑. \n安全的面對面視訊通話.",
+    "sect3_messages": "文字通訊",
+    "sect3_messages_blurb": "您指尖敲出的信息將立即被完全加密.",
 
-"LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    "sect3_voice": "通話",
+    "sect3_voice_blurb": "保持聯繫. \n使用 Tox 進行免費並安全的語音通話.",
 
-"sect4_principles": "即時通訊, 視訊會議以及更多",
+    "sect3_video": "視訊",
+    "sect3_video_blurb":  "眼見為憑. \n安全的面對面視訊通話.",
 
-"sect4_security": "安全",
-"sect4_security_blurb": "Tox 為你嚴守隱私.<br/> 有了<span class=\"text bold\">頂尖的加密技術</span>, 除了你要聯繫的人. 沒有別人能侵犯到你半點隱私.",
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-"sect4_easy": "易於使用",
-"sect4_easy_blurb": "不像別的加密聊天程式，Tox <span class=\"text bold\">易於使用</span>, 任何人都能輕鬆上手. 這樣你能把精力都集中在聊天之上.",
+    "sect4_principles": "即時通訊, 視訊會議以及更多",
 
-"sect4_freedom": "自由",
-"sect4_freedom_blurb": "Tox 無論你的使用或是想要修改都是自由的, 你可以任意的使用和修改 Tox. 此外, <span class=\"text bold\">Tox 永遠不會發廣告騷擾你, 也不會讓你為了一些附加功能付錢.</span>",
+    "sect4_security": "安全",
+    "sect4_security_blurb": "Tox 為你嚴守隱私.<br/> 有了<span class=\"text bold\">頂尖的加密技術</span>, 除了你要聯繫的人. 沒有別人能侵犯到你半點隱私.",
 
-"sect5_contribute": "貢獻",
+    "sect4_easy": "易於使用",
+    "sect4_easy_blurb": "不像別的加密聊天程式，Tox <span class=\"text bold\">易於使用</span>, 任何人都能輕鬆上手. 這樣你能把精力都集中在聊天之上.",
 
-"sect5_github": "想要幫助 Tox? 我們在這裡 <span class=\"text normal color white\">GitHub</span>.\n 你不需要有任何程式設計經驗",
-"sect5_sourceongithub": "Github 上的原始碼",
+    "sect4_freedom": "自由",
+    "sect4_freedom_blurb": "Tox 無論你的使用或是想要修改都是自由的, 你可以任意的使用和修改 Tox. 此外, <span class=\"text bold\">Tox 永遠不會發廣告騷擾你, 也不會讓你為了一些附加功能付錢.</span>",
 
-"sect6_freesoftware": "自由軟體",
-"sect6_developers": "我們是<span class=\"text normal\">來自全世界</span>的朋友",
 
-"sect6_mailinglist_title": "維持聯繫",
-"sect6_mailinglist": "訂閱我們的郵件列表以獲取關於 Tox 的進展",
-"sect6_email": "email 地址",
+    "sect5_contribute": "貢獻",
 
-"sect6_needhelp": "需要協助?",
-"sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立你自己的項目並且讓我們加入, 或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道!"
+    "sect5_github": "想要幫助 Tox? 我們在這裡 <span class=\"text normal color white\">GitHub</span>.\n 你不需要有任何程式設計經驗",
+    "sect5_sourceongithub": "Github 上的原始碼",
+
+    "sect6_freesoftware": "自由軟體",
+    "sect6_developers": "我們是<span class=\"text normal\">來自全世界</span>的朋友",
+
+    "sect6_mailinglist_title": "維持聯繫",
+    "sect6_mailinglist": "訂閱我們的郵件列表以獲取關於 Tox 的進展",
+    "sect6_email": "email 地址",
+
+    "sect6_needhelp": "需要協助?",
+    "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立你自己的項目並且讓我們加入, 或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道!"
 }
