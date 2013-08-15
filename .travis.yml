@@ -8,7 +8,5 @@ script: "python buildsite.py"
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#tox"
-    template:
-      - "%{repository} (%{commit}): %{message} "
-      - "Build: %{build_url} / Changes: %{compare_url}"
+      - "chat.freenode.net#tox-dev"
+    template: "%{repository} (%{commit}): %{message} Build: %{build_url} / Changes: %{compare_url}"
