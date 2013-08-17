@@ -7,18 +7,18 @@
     "lf_title": "Tox",
     
     "nv_home": "Home",
-    "nv_about": "Riguardo Tox",
+    "nv_about": "Info su Tox",
     "nv_features": "Caratteristiche",
     "nv_contribute": "Dai una mano",
     
     "sect1_slogan": "Messaggi in sicurezza per tutti noi.",
-    "sect1_description": "In risposta alla comparsa di programmi governativi per estesi monitoraggi, Tox è una applicazione facile da usare che consente di connetterti con amici e persone care senza nessun altro in ascolto.",
+    "sect1_description": "Con l'espansione dei programmi governativi di monitoraggio, Tox è un applicazione facile da usare per connettersi con amici e familiari senza che nessuno possa ascoltarti.",
     "sect1_learnmore": "Informazioni",
     "sect1_download": "Scarica",
-    "sect1_notavail": "Tox non è ancora pronto, download sarà disponibile presto!",
+    "sect1_notavail": "Tox non è ancora pronto, il download sarà disponibile presto!",
     
     
-    "sect2_abouttox": "Riguardo Tox",
+    "sect2_abouttox": "Info su Tox",
     
     "sect2_aboutbody": "Tox nasce dall'idea che tu possa rimanere in contatto con amici e familiari senza avere la tua privacy violata.\n Molte compagnie famose richiedono di pagare per sbloccare certe funzionalità nei loro programmi, Tox invece è libero sia nel prezzo che nella libertà.\n Puoi fare qualunque cosa desideri con Tox.",
     
@@ -26,7 +26,7 @@
     "sect3_coolfeatures": "Caratteristiche interessanti",
     
     "sect3_messages": "Messaggi",
-    "sect3_messages_blurb": "A portata di mano.\n Saprai sempre l'ultima con messaggi istantanei e criptati.",
+    "sect3_messages_blurb": "A portata di mano.\n Sarai sempre aggiornato con messaggi istantanei e criptati.",
     
     "sect3_voice": "Chiamate",
     "sect3_voice_blurb": "Resta in contatto.\n Fai chiamate sicure e gratuite fra client Tox.",
@@ -39,7 +39,7 @@
     "sect4_principles": "Messaggi istantanei, videoconferenze, e molto di più",
     
     "sect4_security": "Sicurezza",
-    "sect4_security_blurb": "Tox prende sul serio la tua privacy.<br/>Con <span class=\"text bold\">criptazione di alto livello</span>, puoi rimanere al sicuro sapendo che solo le persone a cui scrivi leggono i tuoi messaggi.",
+    "sect4_security_blurb": "Tox prende sul serio la tua privacy.<br/>Con <span class=\"text bold\">criptazione di alto livello</span>, puoi rimanere al sicuro sapendo che solo le persone a cui scrivi leggeranno i tuoi messaggi.",
     
     "sect4_easy": "Facile da usare",
     "sect4_easy_blurb": "Al contrario di altre soluzioni per messaggiare in maniera sicura, Tox non richiede di essere un programmatore per essere usato. Tox è subito pronto all'uso con una interfaccia <span class=\"text bold\">facile da usare</span> per concentrarti sulle conversazioni.",
