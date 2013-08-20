@@ -12,7 +12,7 @@
     "nv_contribute": "貢獻",
 
     "sect1_slogan": "即將推出！屬於所有人的安全通訊！",
-    "sect1_description": "Tox 是個易於使用的軟體，與親人和朋友在網路上進行資訊交流的時候，它能幫助您有效地避免來自各國政府日益加劇的網路監控",
+    "sect1_description": "Tox 是個易於使用的軟體，與親人和朋友在網路上進行資訊交流的時候，它能幫助您有效地避免來自各國政府日益加劇的網路監控。",
     "sect1_learnmore": "瞭解更多",
     "sect1_download": "下載",
     "sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
@@ -39,7 +39,7 @@
     "sect4_principles": "即時通訊，視訊會議以及更多",
 
     "sect4_security": "安全",
-    "sect4_security_blurb": "Tox 為您嚴守隱私。<br/> 使用<span class=\"text bold\">頂尖的加密技術</span>，您可以愜意地知道，對方是唯一看的到您的訊息的人",
+    "sect4_security_blurb": "Tox 為您嚴守隱私。<br/> 使用<span class=\"text bold\">頂尖的加密技術</span>，您可以愜意地知道，對方是唯一看的到您的訊息的人。",
 
     "sect4_easy": "易於使用",
     "sect4_easy_blurb": "不像別的加密聊天程式，Tox <span class=\"text bold\">簡單易用</span>，任何人都能輕鬆上手。讓您把精力都集中在聊天之上。",
@@ -51,15 +51,15 @@
     "sect5_contribute": "貢獻",
 
     "sect5_github": "想要幫助 Tox？我們在這裡 <span class=\"text normal color white\">GitHub</span>。\n 您不需要有任何程式設計經驗",
-    "sect5_sourceongithub": "Github 上的原始碼",
+    "sect5_sourceongithub": "GitHub 上的原始碼",
 
     "sect6_freesoftware": "自由軟體",
     "sect6_developers": "我們是<span class=\"text normal\">來自全世界</span>的朋友",
 
     "sect6_mailinglist_title": "成為圈內人",
-    "sect6_mailinglist": "訂閱我們的郵件列表以獲取關於 Tox 的進展",
+    "sect6_mailinglist": "訂閱我們的郵件列表以取得關於 Tox 的進展",
     "sect6_email": "email 地址",
 
     "sect6_needhelp": "需要協助？",
-    "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立您自己的項目並且讓我們加入，或者加入這個<a href=\"ircs://irc。freenode。net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道！"
+    "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立您自己的項目並且讓我們加入，或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道！"
 }
