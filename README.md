@@ -16,6 +16,8 @@ Translations
 As well as new translations, improvement of translations we already have is welcome too. Just copy ``index.en.json`` to ``index.??.json``, where ``??`` is your language's [Zend locale name](http://framework.zend.com/manual/1.12/en/zend.locale.appendix.html).  
 If the language you are translating to has more than one dialect (for example: Brazilian Portuguese vs Portuguese Portuguese), you can add ``_??`` before ``.json``, where ``??`` is a unique code for your dialect. A full example: ``index.pt_BR.json`` Capitalization **does** matter!
 
+#### Please **use LF (Unix) line endings in your json files**, or **else Kud will never forgive you**. Even on Windows, a decent editor like Notepad++ will let you do this!
+
 Language file metadata
 ----------------------
 
