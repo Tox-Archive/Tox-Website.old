@@ -1,0 +1,67 @@
+{
+    "_author": "wbjohn, Puput",
+    "_language": "Bahasa Indonesia",
+    "_comment": "",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Halaman utama",
+    "nv_about": "Perihal",
+    "nv_features": "Fitur",
+    "nv_contribute": "Menyumbang",
+    
+    "sect1_slogan": "Pesan terjamin aman untuk semua orang.",
+    "sect1_description": "Dengan munculnya program pemantauan pemerintah yang meluas, Tox adalah aplikasi yang mudah digunakan dan memungkinkan kamu menghubungi teman-teman dan orang tercinta tanpa orang lain mendengarkan.",
+    "sect1_learnmore": "Pelajari lebih lanjut",
+    "sect1_download": "Unduh",
+    
+    
+    "sect2_abouttox": "Tentang Tox",
+    
+    "sect2_aboutbody": "Tox dibangun atas gagasan bahwa kamu bisa tetap menghubungi teman-teman dan keluarga tanpa kerahasiaan pribadimu dilanggar.\n Layanan terkenal lain mengharuskan kamu membayar untuk fitur-fitur terkunci, sedangkan Tox gratis dan bebas.\n Artinya kamu bebas melakukan apa saja yang kamu inginkan dengan Tox.",  
+    
+    
+    "sect3_messages": "Beberapa fitur menarik",
+    
+    "sect3_messages": "Pesan",
+    "sect3_messages_blurb": "Di ujung jarimu.\n Kamu selalu terupdate dengan pesan instan terenkripsi.",
+    
+    "sect3_voice": "Panggilan",
+    "sect3_voice_blurb": "Tetap terhubung.\n Menelpon gratis dan aman dengan panggilan Tox ke Tox",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Penglihatan adalah kepercayaan.\n Bertatap muka dengan panggilan video yang aman.",
+    
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Pesan instan, video konferensi, dan lainnya",
+    
+    "sect4_security": "Keamanan",
+    "sect4_security_blurb": "Tox menjamin kerahasiaan pribadi kamu dengan sebenarnya.<br/>Dengan <span class=\"text bold\">enkripsi mutakhir</span>, kamu bisa yakin bahwa orang yang membaca pesanmu hanyalah mereka yang kamu kirimkan pesan.",
+    
+    "sect4_easy": "Kemudahan penggunaan",
+    "sect4_easy_blurb": "Tidak seperti pesan aman lainnya, Tox tidak mengharuskan kamu menjadi ahli komputer untuk menggunakannya. Tox keluar dari kotak dengan antarmuka<span class=\"text bold\">yang mudah digunakan</span> dan memungkinkan kamu fokus pada percakapan.",
+    
+    
+    "sect4_freedom": "Kebebasan",
+    "sect4_freedom_blurb": "TOX bebas dipakai dan diubah. Kamu bebas untuk memakai dan mengubah Tox. Selain itu, <span class=\"text bold\">Tox tidak akan mengganggu kamu dengan iklan, atau mengharuskan kamu membayar untuk fitur-fiturnya.</span>",
+    
+    
+    "sect5_contribute": "Menyumbang",
+    
+    "sect5_github": "Ingin membantu? Kami berada di <span class=\"text normal color white\">GitHub</span>.\n Tidak perlu pengalaman tentang kode.", 
+    "sect5_sourceongithub": "Kode sumber di GitHub",
+    
+    
+    "sect6_freesoftware": "Perangkat lunak bebas",
+    "sect6_developers": "Kami adalah orang-orang keren <span class=\"text normal\">dari seluruh dunia</span>.", 
+    
+    "sect6_jointheteam": "Bergabung dengan tim",
+    "sect6_joinongithub": "Membantu membangun TOX di <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",  
+    
+    "sect6_needhelp": "Perlu bantuan?", 
+    "sect6_githubtoirc": "Mulailah proyekmu sendiri dan bertanya kepada kami di <span class=\"text normal\">GitHub</span>, atau di <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!" 
+}
+
