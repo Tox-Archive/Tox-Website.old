@@ -1,0 +1,63 @@
+{
+    "_author": "Deltabeard",
+    "_language": "فارسی",
+    "_comment": "This is a translation from the original English to Persian. For a better tranlsation meaning, 'privacy' was translated as 'government censorship'. Unfinished.",
+    "_ind": 0,
+
+    "lf_title": "توكس",
+    
+    "nv_home": "صفحه نخست‬‬",
+    "nv_about": "در باره",
+    "nv_features": "امکانات",
+    "nv_contribute": "همکاری و کمک کردن",
+    
+    "sect1_slogan": ".پیام های امن برای همه",
+    "sect1_description": ".با افزایش برنامه های سانسور دولت، توكس برنامه هست که اجازه می دهد که شما را با دوستان و خانواده بدون سانسور تماس بگیرید",
+    "sect1_learnmore": "بیشتر یاد بگیرید",
+    "sect1_download": "دانلود",
+    
+    
+    "sect2_abouttox": "درباره توكس",
+    
+    "sect2_aboutbody": "\n .توكس با این ایده درست شود که شما می توانید با دوستان و خانواده صحبت بکنید بدون در حال جاسوسی از دولت",
+    
+    
+    "sect3_messages": "Some cool features",
+    
+    "sect3_messages": "Messages",
+    "sect3_messages_blurb": "At your fingertips.\n You're always in the loop with instant encrypted messaging.",
+    
+    "sect3_voice": "Calls",
+    "sect3_voice_blurb": "Stay in touch.\n Make free and secure Tox to Tox calls.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Seeing is believing.\n Catch up face to face with a secure video call.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Instant messaging, video conferencing, and more",
+    
+    "sect4_security": "Security",
+    "sect4_security_blurb": "Tox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.",
+    
+    "sect4_easy": "Ease of Use",
+    "sect4_easy_blurb": "Unlike other secure messaging solutions, Tox does not require you to be a computer programmer to use it. Tox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.",
+    
+    "sect4_freedom": "Freedom",
+    "sect4_freedom_blurb": "Tox is both free for you to use, and free for you to change. You are completely free to both use and modify Tox. Furthermore, <span class=\"text bold\">Tox will never harass you with ads, or require you to pay for features.</span>",
+    
+    
+    "sect5_contribute": "Contribute",
+    
+    "sect5_github": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.\n No coding experience is necessary.",
+    "sect5_sourceongithub": "Source on GitHub",
+    
+    "sect6_freesoftware": "Free Software",
+    "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
+    
+    "sect6_jointheteam": "Join the team",
+    "sect6_joinongithub": "Help build TOX on <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Need some help?",
+    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
