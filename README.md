@@ -1,4 +1,4 @@
-ProjectTox-Website
+Tox.im
 ==================
 
 Source code for the Tox.im website
