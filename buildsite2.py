@@ -63,4 +63,4 @@ def main():
                 do_format_template(template_name, tmp_file.read())
 
 if __name__ == "__main__":
-    main()
+    main() 
