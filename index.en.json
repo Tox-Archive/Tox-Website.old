@@ -1,67 +1,67 @@
 {
-    "_author": "NemDiggers, stal, et al.",
-    "_language": "English",
-    "_comment": "Only translate from this file, not the others!",
-    "_ind": 0,
+    "_author": "Pietro La Porta",
+    "_language": "Italiano",
+    "_comment": "",
+    "_ind": 1,
 
     "lf_title": "Tox",
 
     "nv_home": "Home",
-    "nv_about": "About",
-    "nv_features": "Features",
-    "nv_contribute": "Contribute",
+    "nv_about": "Chi siamo",
+    "nv_features": "Caratteristiche",
+    "nv_contribute": "Contribuisci",
     "nv_wiki": "Wiki",
     "nv_blog": "Blog",
 
-    "sect1_slogan": "Secure messaging for everyone, coming soon",
-    "sect1_description": "With the rise of widespread government monitoring programs, Tox is an easy to use application that allows you to connect with friends and loved ones without anyone else listening in.",
-    "sect1_learnmore": "Learn more",
+    "sect1_slogan": "Messaggistica sicura per tutti,presto in arrivo",
+    "sect1_description": "Col crescente aumentare dei programmi di monitoraggio da parte del governo, Tox è un'applicazione facile da usare che ti permette di connetterti con gli amici e chi ami senza nessun altro che vi stia ad spiare.",
+    "sect1_learnmore": "Di più",
     "sect1_download": "Download",
-    "sect1_notavail": "Tox isn't ready yet, downloads will be available soon!",
+    "sect1_notavail": "Tox non è ancora pronto, il download sarà presto disponibile!",
 
 
-    "sect2_abouttox": "About Tox",
+    "sect2_abouttox": "Su Tox",
 
-    "sect2_aboutbody": "Tox is built with the idea that you can keep up with friends and family without having your privacy violated.\n While other big-name services require you to pay to unlock features, Tox is free in both price, and in liberty.\n That is, you’re free to do whatever you wish with Tox.",
+    "sect2_aboutbody": "Tox è nato con l'idea che puoi restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Mentre altri servizi molto più conosciuti ti chiedono di pagare per sbloccare alcune funzioni, Tox è gratuito in entrambe le cose nella privacy e nella libertà.\n Ecco tutto,sei libero di fare tutto ciò che desideri con Tox.",
 
 
-    "sect3_coolfeatures": "Some cool features",
+    "sect3_coolfeatures": "Alcune fantastiche caratteristiche",
 
-    "sect3_messages": "Messages",
-    "sect3_messages_blurb": "At your fingertips.\n You're always in the loop with instant encrypted messaging.",
+    "sect3_messages": "Messaggi",
+    "sect3_messages_blurb": "A portata di dita.\n Sei sempre aggiornato con i messaggi istantanei criptati.",
 
-    "sect3_voice": "Calls",
-    "sect3_voice_blurb": "Stay in touch.\n Make free and secure Tox to Tox calls.",
+    "sect3_voice": "Chiamate",
+    "sect3_voice_blurb": "Resta in contatto.\n Fai chiamate da Tox a Tox gratuite e sicure .",
 
     "sect3_video": "Video",
-    "sect3_video_blurb": "Seeing is believing.\n Catch up face to face with a secure video call.",
+    "sect3_video_blurb": "Guardare per credere.\n Parla faccia a faccia con le video chiamate sicure.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "Instant messaging, video conferencing, and more",
+    "sect4_principles": "Messaggi istantanei, video conferenze, ed altro",
 
-    "sect4_security": "Security",
-    "sect4_security_blurb": "Tox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.",
+    "sect4_security": "Sicurezza",
+    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione da prima della classe</span>, puoi essere certo che le uniche persone che leggono i tuoi messaggi sono quelle a cui li hai mandati.",
 
-    "sect4_easy": "Ease of Use",
-    "sect4_easy_blurb": "Unlike other secure messaging solutions, Tox does not require you to be a computer programmer to use it. Tox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.",
+    "sect4_easy": "Semplice da utilizare",
+    "sect4_easy_blurb": "A differenza delle altri di messaggistica sicure,non c'è bisogno di essere un programmatore di computer per usare Tox. Tox ha già una <span class=\"text bold\">amichevole</span> interfaccia che ti permette di concentrarti sulla tua conversazione.",
 
-    "sect4_freedom": "Freedom",
-    "sect4_freedom_blurb": "Tox is both free for you to use, and free for you to change. You are completely free to both use and modify Tox. Furthermore, <span class=\"text bold\">Tox will never harass you with ads, or require you to pay for features.</span>",
+    "sect4_freedom": "Libertà",
+    "sect4_freedom_blurb": "Tox è gratuito sia da usare,sia da modificare. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà con annunci, o ti chiederà di pagare per funzioni aggiuntive.</span>",
 
 
-    "sect5_contribute": "Contribute",
+    "sect5_contribute": "Contribuisci",
 
-    "sect5_github": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.\n No coding experience is necessary.",
-    "sect5_sourceongithub": "Source on GitHub",
+    "sect5_github": "Vuoi essere d'aiuto? Ci trovi su<span class=\"text normal color white\">GitHub</span>.\n Nessuna esperienza di programmazione è richiesta.",
+    "sect5_sourceongithub": "Sorgenti su GitHub",
 
-    "sect6_freesoftware": "Free Software",
-    "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
+    "sect6_freesoftware": "Software libero",
+    "sect6_developers": "Siamo brillanti ragazzi from <span class=\"text normal\">in tutto il mondo</span>.",
 
-    "sect6_mailinglist_title": "Keep in the loop",
-    "sect6_mailinglist": "Subscribe to our mailing list for updates about Tox's progress.",
-    "sect6_email": "email address",
+    "sect6_mailinglist_title": "Tieniti aggiornato",
+    "sect6_mailinglist": "Iscriviti alla nostra mailing list per essere aggiornato sugli sviluppi di Tox.",
+    "sect6_email": "indirizzo email",
 
-    "sect6_needhelp": "Need some help?",
-    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_needhelp": "Hai bisogno d'aiuto?",
+    "sect6_githubtoirc": "Inizia un tuo nuovo progetto e chiedi a noi su <span class=\"text normal\">GitHub</span>, o su <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
