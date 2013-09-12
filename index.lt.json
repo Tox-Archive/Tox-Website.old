@@ -1,5 +1,5 @@
 {
-    "_author": "TETYYS",
+    "_author": "TETYYS ir kt.",
     "_language": "Lietuvių",
     "_comment": "",
     "_ind": 0,
@@ -10,38 +10,41 @@
     "nv_about": "Apie",
     "nv_features": "Galimybės",
     "nv_contribute": "Dalyvauti",
+    "nv_wiki": "Wiki",
+    "nv_blog": "Blogas",
     
     "sect1_slogan": "Saugus susirašinėjimas mums visiems.",
-    "sect1_description": "Su žinia, kad vyriausybė mus stebi, Tox yra lengvai naudojama programa, kuri leidžia tau susisiekti su draugais ir mylimaisiais privačiai.",
+    "sect1_description": "Su žinia, kad vyriausybė mus stebi, Tox yra lengvai naudojama programa, kuri leidžia Tau susisiekti su draugais ir mylimaisiais privačiai.",
     "sect1_learnmore": "Sužinok daugiau",
     "sect1_download": "Atsisiųsti",
+    "sect1_notavail": "Tox dar nebaigtas, bet jau greitai bus galima parisiųsti!",
     
     
     "sect2_abouttox": "Apie Tox",
     
-    "sect2_aboutbody": "Tox tikslas: padėti Tau susisiekti su draugais ir šeima taip kad Jūsų privatumas būtų išsaugotas.\n Kol kitos populiarios paslaugos reikalauja mokėti už papildomas galimybes, Tox yra nemokamas kainoje ir laisvėje.\n Tai reiškia, kad tu gali daryti bet ką su Tox.",
+    "sect2_aboutbody": "Tox siekis - padėti Tau susisiekti su draugais ir šeima taip, kad Jūsų privatumas būtų išsaugotas.\n Kol kitos populiarios paslaugos reikalauja mokėti už papildomas paslaugas, Tox yra nemokamas kainoje ir laisvėje.\n Tai reiškia, kad tu gali daryti bet ką su Tox.",
     
     
-    "sect3_coolfeatures": "Kelios geros galimybės",
+    "sect3_coolfeatures": "Kelios šaunios savybės",
     
     "sect3_messages": "Pranešimai",
     "sect3_messages_blurb": "Ant tavo pirštų galiukių.\n Tu visą laiką esi užkoduotų žinucių cikle.",
     
     "sect3_voice": "Pokalbiai",
-    "sect3_voice_blurb": "Palaikykite ryšį.\n Tox į Tox pokalbiai yra saugūs ir tuo pačiu nemokami.",
+    "sect3_voice_blurb": "Būk pasiekiamas.\n Naudokis saugiais ir nemokamais Tox į Tox pokalbiais.",
     
     "sect3_video": "Vaizdo pokalbiai",
-    "sect3_video_blurb": "Pamatyk tai dabar.\n Su Tox akis į akį pokalbiai yra saugūs.",
+    "sect3_video_blurb": "Matymas tai tikėjimas.\n Bendrauk akis į akį per saugius vaizdo skambučius.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
     "sect4_principles": "Susirašinėjimai, video konferencijos ir daugiau",
     
     "sect4_security": "Apsauga",
-    "sect4_security_blurb": "Tox į Jūsų privatumą žvelgia rimtai.<br/>Su <span class=\"text bold\">aukščiausios klasės šifravimu</span>, tu gali atsipalaiduoti žinodamas, kad tavo pranešimus skaito tie, kuriems juos siunčiate.",
+    "sect4_security_blurb": "Tox į Jūsų privatumą žvelgia rimtai.<br/>Su <span class=\"text bold\">aukščiausios klasės šifravimu</span>, tu gali atsipalaiduoti žinodamas, kad tavo pranešimus skaito tik tie, kuriems juos siunčiate.",
     
     "sect4_easy": "Paprastumas",
-    "sect4_easy_blurb": "Priešingai nei kiti saugaus susirašinėjimo sprendimai, Tox nereikalauja būti kompiuterių programuotoju, kad gelėtumėte naudotis Tox. Tox ateina kartu su <span class=\"text bold\">lengvai naudojama</span> vartotojo sąsaja, kuri leidžia tau susitelkti ties bendravimu.",
+    "sect4_easy_blurb": "Priešingai nei kiti saugaus susirašinėjimo sprendimai, Tox nereikalauja būti kompiuterių programuotoju, kad gelėtumėte naudotis. Tox pateikiamas kartu su <span class=\"text bold\">lengvai naudojama</span> vartotojo sąsaja, kuri leidžia tau susitelkti ties bendravimu.",
     
     "sect4_freedom": "Laisvė",
     "sect4_freedom_blurb": "Tox yra nemokama naudojimui, ir laisva pakeitimams. Tu gali bet kada nautotis ir modifikuoti Tox. Taip pat, <span class=\"text bold\">Tox niekada nebandys rodyti įkyrių reklamų, ar reikalaus pinigų už papildomas galimybes.</span>",
@@ -49,14 +52,15 @@
     
     "sect5_contribute": "Dalyvauti",
     
-    "sect5_github": "Nori dalyvauti kurime? Mes jau esame <span class=\"text normal color white\">GitHub</span> tinklapyje.\n Programavimo patirtis yra nebūtina.",
-    "sect5_sourceongithub": "Programos kodas GitHub tinklapyje",
+    "sect5_github": "Nori dalyvauti kūrime? Mes jau esame <span class=\"text normal color white\">GitHub</span> tinklapyje.\n Programavimo patirtis nebūtina.",
+    "sect5_sourceongithub": "Išeities kodas GitHub tinklapyje",
     
     "sect6_freesoftware": "Laisva programinė įranga",
     "sect6_developers": "Mes esame patyrę žmonės iš <span class=\"text normal\">viso pasaulio</span>.",
     
-    "sect6_jointheteam": "Prisijunk prie komandos",
-    "sect6_joinongithub": "Padėk kurti Tox <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a> tinklapyje.",
+    "sect6_mailinglist_title": "Būk informuotas",
+    "sect6_mailinglist": "Prisijunk prie mūsų laiškų konferencijos ir sužinok apie tolimesnius Tox atnaujinimus ir progresą.",
+    "sect6_email": "el. pašto adresas",
     
     "sect6_needhelp": "Reikia pagalbos?",
     "sect6_githubtoirc": "Pradėk savo nuosavą projektą ir klausk mūsų <span class=\"text normal\">GitHub</span> tinklapyje, arba <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a> kanale!"
