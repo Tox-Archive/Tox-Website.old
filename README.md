@@ -32,12 +32,12 @@ What we have so far
 ===================
 
 **Verified**:
+- English
 
 (A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
 
 **Needing verification (from someone who isn't the original translator)**:
 
-- English
 - German
 - Russian
 - Italian
