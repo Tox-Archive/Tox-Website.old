@@ -1,5 +1,5 @@
 {
-    "_author": "Fivesheep",
+    "_author": "Fivesheep xatier",
     "_language": "繁體中文",
     "_comment": "",
     "_ind": 0,
@@ -10,9 +10,11 @@
     "nv_about": "關於",
     "nv_features": "特性",
     "nv_contribute": "貢獻",
+    "nv_wiki": "Wiki",
+    "nv_blog": "Blog",
 
     "sect1_slogan": "屬於每個人的安全通信",
-    "sect1_description": "Tox是一個易於使用的軟件, 當你與親人和朋友在網絡上進行信息交流的時候, 它能幫助你有效地避免日益加劇的來自各國政府的網絡監控程序的偷窺",
+    "sect1_description": "Tox 是一個易於使用的軟件, 當你與親人和朋友在網絡上進行信息交流的時候, 它能幫助你有效地避免日益加劇的來自各國政府的網絡監控程序的偷窺",
     "sect1_learnmore": "瞭解更多",
     "sect1_download": "下載",
     "sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
@@ -20,19 +22,19 @@
 
     "sect2_abouttox": "關於Tox",
 
-    "sect2_aboutbody": "Tox的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯. 市面上也有一些提供類似功能的軟件, 但基本上都是需要付費才能獲得比較完整的體驗. \n而Tox則是分文不取, 而且對用戶也沒有任何限制. 你想用Tox做什麼都是你的自由.",
+    "sect2_aboutbody": "Tox的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯.\n 市面上也有一些提供類似功能的軟件, 但基本上都是需要付費才能獲得比較完整的體驗. \n而Tox則是分文不取, 而且對用戶也沒有任何限制. 你想用Tox做什麼都是你的自由.",
 
 
     "sect3_coolfeatures": "一些很酷的特性",
 
     "sect3_messages": "文本通信",
-    "sect3_messages_blurb": "在你的指尖之上. 你的消息將被完全加密.",
+    "sect3_messages_blurb": "在你的指尖之上.\n 你的消息將被完全加密.",
 
     "sect3_voice": "通話",
-    "sect3_voice_blurb": "保持聯繫. 使用Tox進行免費的加密語音通話.",
+    "sect3_voice_blurb": "保持聯繫.\n 使用Tox進行免費的加密語音通話.",
 
     "sect3_video": "視頻",
-    "sect3_video_blurb":  "眼見為實, 現在就來體驗面對面加密視頻電話.",
+    "sect3_video_blurb":  "眼見為實.\n 現在就來體驗面對面加密視頻電話.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
