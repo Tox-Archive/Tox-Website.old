@@ -22,7 +22,7 @@
 
     "sect2_abouttox": "Su Tox",
 
-    "sect2_aboutbody": "Tox è nato con l'idea che puoi restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Mentre altri servizi molto più conosciuti ti chiedono di pagare per sbloccare alcune funzioni, Tox è gratuito in entrambe le cose nella privacy e nella libertà.\n Ecco tutto,sei libero di fare tutto ciò che desideri con Tox.",
+    "sect2_aboutbody": "Tox è nato con l'idea che puoi restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Mentre altri servizi molto più conosciuti ti chiedono di pagare per sbloccare alcune funzioni, Tox è gratuito in entrambe le cose, nella privacy e nella libertà.\n Ecco tutto,sei libero di fare tutto ciò che desideri con Tox.",
 
 
     "sect3_coolfeatures": "Alcune fantastiche caratteristiche",
@@ -41,10 +41,10 @@
     "sect4_principles": "Messaggi istantanei, video conferenze, ed altro",
 
     "sect4_security": "Sicurezza",
-    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione da prima della classe</span>, puoi essere certo che le uniche persone che leggono i tuoi messaggi sono quelle a cui li hai mandati.",
+    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione da primo della classe</span>, puoi essere certo che le uniche persone che leggono i tuoi messaggi sono quelle a cui li hai mandati.",
 
-    "sect4_easy": "Semplice da utilizare",
-    "sect4_easy_blurb": "A differenza delle altri di messaggistica sicure,non c'è bisogno di essere un programmatore di computer per usare Tox. Tox ha già una <span class=\"text bold\">amichevole</span> interfaccia che ti permette di concentrarti sulla tua conversazione.",
+    "sect4_easy": "Semplice da utilizzare",
+    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure,non c'è bisogno di essere un programmatore di computer per usare Tox. Tox ha già una <span class=\"text bold\">amichevole</span> interfaccia che ti permette di concentrarti sulla tua conversazione.",
 
     "sect4_freedom": "Libertà",
     "sect4_freedom_blurb": "Tox è gratuito sia da usare,sia da modificare. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà con annunci, o ti chiederà di pagare per funzioni aggiuntive.</span>",
