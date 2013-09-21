@@ -33,6 +33,7 @@ What we have so far
 
 **Verified**:
 - English
+- French
 
 (A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
 
@@ -48,7 +49,6 @@ What we have so far
 - Swedish
 - Turkish
 - Spanish
-- French
 - Arabic
 - Norwegian
 - Chinese
