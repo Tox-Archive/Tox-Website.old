@@ -1,5 +1,5 @@
 {
-    "_author": "zukivi and Pietro La Porta",
+    "_author": "zukivi, Pietro La Porta and Zorua.",
     "_language": "Italiano",
     "_comment": "",
     "_ind": 0,
@@ -13,8 +13,9 @@
     "nv_wiki": "Wiki",
     "nv_blog": "Blog",
 
-    "sect1_slogan": "Messaggistica sicura per tutti,presto in arrivo",
-    "sect1_description": "Col crescente aumentare dei programmi di monitoraggio da parte del governo, Tox è un'applicazione facile da usare che ti permette di connetterti con gli amici e chi ami senza nessun altro che vi stia ad spiare.",
+    "sect1_slogan": "Messaggistica sicura per tutti, presto in arrivo",
+    "sect1_description": "Con l'aumentare dei programmi di monitoraggio da parte del governo, Tox è un'applicazione facile da usare che ti permette di connetterti con gli amici e la gente amata senza nessuno che a spiarvi.",
+
     "sect1_learnmore": "Di più",
     "sect1_download": "Download",
     "sect1_notavail": "Tox non è ancora pronto, il download sarà presto disponibile!",
@@ -22,7 +23,7 @@
 
     "sect2_abouttox": "Su Tox",
 
-    "sect2_aboutbody": "Tox è nato con l'idea che puoi restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Mentre altri servizi molto più conosciuti ti chiedono di pagare per sbloccare alcune funzioni, Tox è gratuito in entrambe le cose, nella privacy e nella libertà.\n Ecco tutto,sei libero di fare tutto ciò che desideri con Tox.",
+    "sect2_aboutbody": "Tox è nato con l'idea di poter restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Servizi molto più conosciuti chiedono di pagare per lo sbloccaggio di alcune funzioni, Tox invece ti rende libero sia da costi aggiuntivi, che da occhi indiscreti.\n Ecco tutto, sentiti libero di fare tutto ciò che desidere con Tox.",
 
 
     "sect3_coolfeatures": "Alcune fantastiche caratteristiche",
@@ -31,23 +32,23 @@
     "sect3_messages_blurb": "A portata di dita.\n Sei sempre aggiornato con i messaggi istantanei criptati.",
 
     "sect3_voice": "Chiamate",
-    "sect3_voice_blurb": "Resta in contatto.\n Fai chiamate da Tox a Tox gratuite e sicure .",
+    "sect3_voice_blurb": "Resta in contatto.\n Effettua chiamate gratuite e sicure da Tox a Tox.",
 
     "sect3_video": "Video",
-    "sect3_video_blurb": "Guardare per credere.\n Parla faccia a faccia con le video chiamate sicure.",
+    "sect3_video_blurb": "Guardare per credere.\n Parla faccia a faccia con le videochiamate sicure.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "sect4_principles": "Messaggi istantanei, video conferenze, ed altro",
 
     "sect4_security": "Sicurezza",
-    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione da primo della classe</span>, puoi essere certo che le uniche persone che leggono i tuoi messaggi sono quelle a cui li hai mandati.",
+    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione di prima classe</span>, puoi essere certo che le uniche persone a leggere i tuoi messaggi sono quelle a cui li hai mandati.",
 
     "sect4_easy": "Semplice da utilizzare",
-    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure,non c'è bisogno di essere un programmatore di computer per usare Tox. Tox ha già una <span class=\"text bold\">amichevole</span> interfaccia che ti permette di concentrarti sulla tua conversazione.",
+    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure, non c'è bisogno di essere un programmatore per usare Tox. Tox ti offre un'interfaccia <span class=\"text bold\">facile da usare</span> interfaccia che ti permette di concentrarti sulle tue conversazioni.",
 
     "sect4_freedom": "Libertà",
-    "sect4_freedom_blurb": "Tox è gratuito sia da usare,sia da modificare. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà con annunci, o ti chiederà di pagare per funzioni aggiuntive.</span>",
+    "sect4_freedom_blurb": "Tox è libero sia di esser usato, che modificato. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà mai con annunci, o ti chiederà di pagare per funzioni aggiuntive</span>.",
 
 
     "sect5_contribute": "Contribuisci",
@@ -56,10 +57,10 @@
     "sect5_sourceongithub": "Sorgenti su GitHub",
 
     "sect6_freesoftware": "Software libero",
-    "sect6_developers": "Siamo brillanti ragazzi from <span class=\"text normal\">in tutto il mondo</span>.",
+    "sect6_developers": "Siamo ragazzi in gamba provenienti da <span class=\"text normal\">tutto il mondo</span>.",
 
     "sect6_mailinglist_title": "Tieniti aggiornato",
-    "sect6_mailinglist": "Iscriviti alla nostra mailing list per essere aggiornato sugli sviluppi di Tox.",
+    "sect6_mailinglist": "Iscriviti alla nostra mailing list per riceve aggiornamenti sullo sviluppo di Tox.",
     "sect6_email": "indirizzo email",
 
     "sect6_needhelp": "Hai bisogno d'aiuto?",
