@@ -10,6 +10,14 @@ Building the site requires Python 2 or Python 3 and the pystache library.
 In the main directory, run ``python buildsite2.py`` for python 2 and run ``python3 buildsite.py`` for python 3.  
 The site will be in the new ``site/`` directory.
 
+To make the folder layout do the following:  
+Move in to the site folder ``cd site``  
+Make a list of all the languages ``ls | tr ' ' '\n' | grep html | tr '.' '\n' | grep -v 'html' > list``.  
+Make a folder for every language ``cat list | xargs mkdir``.  
+Move a language in to a folder ``cat list | xargs -I % mv %.html %/index.html``.  
+Make an index page ``ln -s en/index.html .`` Change en to a default language  
+Remove the list file ``rm list``  
+
 Translations
 ============
 
