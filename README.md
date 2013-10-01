@@ -34,12 +34,12 @@ What we have so far
 **Verified**:
 - English
 - French
+- German
 
 (A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
 
 **Needing verification (from someone who isn't the original translator)**:
 
-- German
 - Russian
 - Italian
 - Dutch
