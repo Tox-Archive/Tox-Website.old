@@ -6,8 +6,8 @@ Source code for the Tox.im website
 Building the site
 =================
 
-Building the site requires Python 3 and the pystache library.  
-In the main directory, run ``python3 buildsite.py``.  
+Building the site requires Python 2 or Python 3 and the pystache library.  
+In the main directory, run ``python buildsite2.py`` for python 2 and run ``python3 buildsite.py`` for python 3.  
 The site will be in the new ``site/`` directory.
 
 Translations
@@ -35,12 +35,12 @@ What we have so far
 - English
 - French
 - German
+- Russian
 
 (A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
 
 **Needing verification (from someone who isn't the original translator)**:
 
-- Russian
 - Italian
 - Dutch
 - Polish
