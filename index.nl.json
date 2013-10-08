@@ -13,18 +13,18 @@
     "nv_wiki": "Wiki",
     "nv_blog": "Blog",
     
-    "sect1_slogan": "Veilig chatten voor iedereen",    
-    "sect1_description": "Ondanks continue surveillance door de overheid, is het mogelijk met Tox te chatten met iedereen zonder dat anderen het kunnen lezen",
+    "sect1_slogan": "Veilig chatten komt binnnenkort voor iedereen",    
+    "sect1_description": "Ondanks constante surveillantie door de overheid, is het mogelijk met Tox te chatten met iedereen zonder dat anderen het kunnen lezen",
     "sect1_learnmore": "Lees Meer",
     "sect1_download": "Download",
-    
+    "sect1_notavail": "Tox is nog niet af, downloads zullen binnenkort beschikbaar zijn!",
     
     "sect2_abouttox": "Over Tox",
     
     "sect2_aboutbody": "Tox is gemaakt met het doel u met uw vrienden en familie te laten chatten zonder dat uw privacy wordt\n geschonden. Terwijl andere bekende diensten geld vragen voor bepaalde functies van het programma, is\n Tox gratis en compleet veilig. Dat betekent dat u vrij bent om Tox naar verlangen aan te passen.",
     
     
-    "sect3_coolfeatures": "Andere eigenschappen",
+    "sect3_coolfeatures": "Coole mogelijkheden",
     
     "sect3_messages": "Berichten",
     "sect3_messages_blurb": "In de palm van uw hand.\n U kunt altijd chatten met een versleutelde verbinding.",
@@ -51,7 +51,7 @@
     
     "sect5_contribute": "Help mee",
     
-    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeringservaring is nodig om een contributie te leveren .",
+    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Programmeringservaring is niet nodig om een contributie te leveren .",
     "sect5_sourceongithub": "Source op GitHub",
     
     "sect6_freesoftware": "Gratis software",
