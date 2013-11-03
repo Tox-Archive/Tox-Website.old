@@ -35,8 +35,8 @@ The JSON files used by buildsite.py have some special names which are used by th
 ``_language``: The (native) name of your language. Example: *Français*  
 ``_ind``: Leave this as it is.  
 ``_comment``: A comment about the language file. Optional.  
-``_author``: The creator(s) of the file.
-``_direction`` ``rtl`` or ``ltr`` only. Specifies the text direction of the language. If you leave this key out, it will be left-to-right.
+``_author``: The creator(s) of the file.  
+``_direction``: ``rtl`` or ``ltr`` only. Specifies the text direction of the language. If you leave this key out, it will be left-to-right.
 
 What we have so far
 ===================
