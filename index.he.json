@@ -3,6 +3,7 @@
     "_language": "עברית",
     "_comment": "Needs RTL support to really work!",
     "_ind": 0,
+    "_direction": "rtl",
 
     "lf_title": "Tox",
     
@@ -12,7 +13,7 @@
     "nv_contribute": "עזרו לנו",
     
     "sect1_slogan": "תקשורת מאובטחת לכולם, בקרוב.",
-    "sect1_description": "עם העליה בהיקף הניטור הממשלתי, Tox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ואהוביכם, בלי מאזינים בלתי רצויים.",
+    "sect1_description": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, Tox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ואהוביכם, בלי מאזינים בלתי רצויים.",
     "sect1_learnmore": "מידע נוסף",
     "sect1_download": "הורדה",
     "sect1_notavail": "Tox עדיין אינה מוכנה, הורדות יתאפשרו בקרוב!",
@@ -20,7 +21,7 @@
     
     "sect2_abouttox": "אודות Tox",
     
-    "sect2_aboutbody": "Tox נבנתה באמונה שאתם יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, Tox הינה חופשית גם במחיר, וגם בחירותכם לעשות איתה ככל העולה על רוחכם.",
+    "sect2_aboutbody": "Tox נבנתה מתוך אמונה כי אתם יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, Tox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם Tox ככל העולה על רוחכם.",
     
     
     "sect3_coolfeatures": "תכונות מגניבות",
@@ -39,7 +40,7 @@
     "sect4_principles": "הודעות מידיות, שיחות וידאו, ועוד",
     
     "sect4_security": "אבטחה",
-    "sect4_security_blurb": "Tox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים שההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
+    "sect4_security_blurb": "Tox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים כי ההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
     
     "sect4_easy": "קלות שימוש",
     "sect4_easy_blurb": "בניגוד לפתרונות תקשורת מאובטחים אחרים, Tox אינה דורשת מכם להיות מתכנתי מחשבים. Tox מגיעה עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
@@ -50,16 +51,16 @@
     
     "sect5_contribute": "עזרו לנו",
     
-    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב¯<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
-    "sect5_sourceongithub": "קוד מקור ב¯GitHub",
+    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב־<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
+    "sect5_sourceongithub": "קוד מקור ב־GitHub",
     
     "sect6_freesoftware": "תוכנה חופשית",
-    "sect6_developers": "אנחנו חבר'ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
+    "sect6_developers": "אנחנו חבר׳ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
     
     "sect6_mailinglist_title": "הישארו בעניינים",
     "sect6_mailinglist": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של Tox.",
-    "sect6_email": "כתובת דוא\"ל",
+    "sect6_email": "כתובת דוא״ל",
     
     "sect6_needhelp": "צריכים עזרה?",
-    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב¯<span class=\"text normal\">GitHub</span>, או ב¯<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
