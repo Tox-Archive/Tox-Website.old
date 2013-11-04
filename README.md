@@ -43,25 +43,13 @@ What we have so far
 
 **Verified**:
 - English
-- French
-- German
-- Russian
+- French (@irungentoo)
+- German (@sudden6)
+- Russian (@stqism)
+- Hebrew (@GreenLunar)
 
-(A strong and trustworthy method for verification is in the process of formulation. As of yet, no translation is 100% approved.)
+*Note: You can still submit pull requests for verified languages.*
 
 **Needing verification (from someone who isn't the original translator)**:
 
-- Italian
-- Dutch
-- Polish
-- Brazilian Portuguese
-- Portuguese Portuguese
-- Swedish
-- Turkish
-- Spanish
-- Arabic
-- Norwegian
-- Chinese
-- Lithuanian
-- Croatian
-- Finnish
+*everything else not listed above*
