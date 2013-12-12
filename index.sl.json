@@ -1,0 +1,67 @@
+{
+    "_author": "Matija Krkač",
+    "_language": "Slovenski",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+
+    "nv_home": "Domov",
+    "nv_about": "O Toxu",
+    "nv_features": "Zmožnosti",
+    "nv_contribute": "Prispevajte",
+    "nv_wiki": "Wiki",
+    "nv_blog": "Blog",
+
+    "sect1_slogan": "Varno sporočanje za vsakogar, kmalu na voljo",
+    "sect1_description": "Ob globalnem porastu vladnih nadzorov komunikacij vam Tox, enostaven program za rabo, omogoča varno komuniciranje z vašimi prijatelji in najbližjimi, tako da vam nihče ne more prisluškovati.",  
+    "sect1_learnmore": "Izvedite več",
+    "sect1_download": "Prenesite Tox",
+    "sect1_notavail": "Tox še ni nared, kmalu ga bo moč prenesti!",
+
+
+    "sect2_abouttox": "O Toxu",
+
+    "sect2_aboutbody": "Tox je bil ustvarjen ob zamisli, da bi lahko bili povezani z vašimi prijatelji in pri tem uživali neokrnjeno zasebnost. \n Medtem ko drugi veliki ponudniki zahtevajo plačilo za podobne zmožnosti, je Tox povsem brezplačen in prost za rabo. \n Z njim lahko počnete kar želite.",
+
+
+    "sect3_coolfeatures": "Zanimive zmožnosti",
+
+    "sect3_messages": "Sporočila",
+    "sect3_messages_blurb": "Na dosegu vaših prstov.\n Hipno sporočanje poteka vseskozi šifrirano.",
+
+    "sect3_voice": "Klici",
+    "sect3_voice_blurb": "Ostanite v stiku.\n Brezplačno in varno kličite druge Tox uporabnike.",
+
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Videti pomeni verjeti.\n Pogovarjajte se iz oči v oči prek varnega videoklica.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_principles": "Hipno sporočanje, videokonference in še veliko več",
+
+    "sect4_security": "Varnost",
+    "sect4_security_blurb": "Tox jemlje vašo zasebnost skrajno resno.<br/>Z <span class=\"text bold\">vrhunskim šifriranjem/span> ste lahko brez skrbi, saj je vsebina pogovorov dostopna le vam in tistemu, s komer komunicirate.",
+
+    "sect4_easy": "Enostavna raba",
+    "sect4_easy_blurb": "Za razliko od drugih varnih rešitev hipnega sporočanja, Tox ne terja posbnih znanj za rabo. Tox ima <span class=\"text bold\">preprost</span> uporabniški vmesnik, ki vam omogoča, da se osredotočite na komuniciranje.",
+
+    "sect4_freedom": "Svoboda",
+    "sect4_freedom_blurb": "Tox je brezplačen za rabo in odprt za spremembe. Tako ste svobodni, da ga uporabljate in poljubno spreminjate. Celo več, <span class=\"text bold\">Tox vas ne bo nikoli nadlegoval z oglasi ali pozival k plačilu.</span>.",
+
+
+    "sect5_contribute": "Prispevajte",
+
+    "sect5_github": "Želite pomagati? Gostujemo na <span class=\"text normal color white\">GitHubu</span>.\n Programerska znanja niso potrebna.",
+    "sect5_sourceongithub": "Izvorna koda na GitHubu",
+
+    "sect6_freesoftware": "Brezplačno programje",
+    "sect6_developers": "Mi smo zanimivi ljudje s <span class=\"text normal\">celega sveta</span>.",
+
+    "sect6_mailinglist_title": "Ostanite obveščeni",
+    "sect6_mailinglist": "Vpišite se na naš dopisni seznam za obveščanje o napredkih.",
+    "sect6_email": "vaš naslov e-pošte",
+
+    "sect6_needhelp": "Potrebujete pomoč?",
+    "sect6_githubtoirc": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC omrežju</a>!"
+}
