@@ -1,6 +1,6 @@
 {
     "_author": "Matija Krkač",
-    "_language": "Slovenski",
+    "_language": "Slovenščina",
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
@@ -41,10 +41,10 @@
     "sect4_principles": "Hipno sporočanje, videokonference in še veliko več",
 
     "sect4_security": "Varnost",
-    "sect4_security_blurb": "Tox jemlje vašo zasebnost skrajno resno.<br/>Z <span class=\"text bold\">vrhunskim šifriranjem/span> ste lahko brez skrbi, saj je vsebina pogovorov dostopna le vam in tistemu, s komer komunicirate.",
+    "sect4_security_blurb": "Tox jemlje vašo zasebnost skrajno resno.<br/>Z <span class=\"text bold\">vrhunskim šifriranjem</span> ste lahko brez skrbi, saj je vsebina pogovorov dostopna le vam in tistemu, s komer komunicirate.",
 
     "sect4_easy": "Enostavna raba",
-    "sect4_easy_blurb": "Za razliko od drugih varnih rešitev hipnega sporočanja, Tox ne terja posbnih znanj za rabo. Tox ima <span class=\"text bold\">preprost</span> uporabniški vmesnik, ki vam omogoča, da se osredotočite na komuniciranje.",
+    "sect4_easy_blurb": "Za razliko od drugih varnih rešitev hipnega sporočanja, Tox ne terja posebnih znanj za rabo. Tox ima <span class=\"text bold\">preprost</span> uporabniški vmesnik, ki vam omogoča, da se osredotočite na komuniciranje.",
 
     "sect4_freedom": "Svoboda",
     "sect4_freedom_blurb": "Tox je brezplačen za rabo in odprt za spremembe. Tako ste svobodni, da ga uporabljate in poljubno spreminjate. Celo več, <span class=\"text bold\">Tox vas ne bo nikoli nadlegoval z oglasi ali pozival k plačilu.</span>.",
@@ -55,7 +55,7 @@
     "sect5_github": "Želite pomagati? Gostujemo na <span class=\"text normal color white\">GitHubu</span>.\n Programerska znanja niso potrebna.",
     "sect5_sourceongithub": "Izvorna koda na GitHubu",
 
-    "sect6_freesoftware": "Brezplačno programje",
+    "sect6_freesoftware": "Prosta programska oprema",
     "sect6_developers": "Mi smo zanimivi ljudje s <span class=\"text normal\">celega sveta</span>.",
 
     "sect6_mailinglist_title": "Ostanite obveščeni",
@@ -63,5 +63,5 @@
     "sect6_email": "vaš naslov e-pošte",
 
     "sect6_needhelp": "Potrebujete pomoč?",
-    "sect6_githubtoirc": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC omrežju</a>!"
+    "sect6_githubtoirc": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">omrežju IRC</a>!"
 }
