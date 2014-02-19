@@ -21,7 +21,7 @@
     
     "sect2_abouttox": "Om Tox",
     
-    "sect2_aboutbody": "Tox er bygget om konceptet at du skal kunne holde kontakt til dine venner, og familie, uden at dit privatliv bliver krænket.\n Hvor du skal betale for funktionalitet i andre løsninger, så er Tox både gratis og respekterer din frihed.\n Det betyder at; du kan gøre lige hvad du vil med Tox.",
+    "sect2_aboutbody": "Tox er baseret på konceptet at du skal kunne holde kontakt til dine venner, og familie, uden at dit privatliv bliver krænket.\n Hvor du skal betale for funktionalitet i andre løsninger, så er Tox både gratis og respekterer din frihed.\n Det betyder at; du kan gøre lige hvad du vil med Tox.",
     
     
     "sect3_coolfeatures": "Nogle fede funktioner",
@@ -33,7 +33,7 @@
     "sect3_voice_blurb": "Hold kontakten.\n Foretag gratis og sikkert Tox til Tox opkald.",
     
     "sect3_video": "Video",
-    "sect3_video_blurb": "Ansigt til ansigt.\n Se personen du taler med i et sikkert videoopkald.",
+    "sect3_video_blurb": "Ansigt til ansigt.\n Se personen du taler med, i et sikkert videoopkald.",
     
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
@@ -55,7 +55,7 @@
     "sect5_sourceongithub": "Kildekoden på GitHub",
     
     "sect6_freesoftware": "Frit Software",
-    "sect6_developers": "Vi er nogle cool fyre fra <span class=\"text normal\">hele verden</span>.",
+    "sect6_developers": "Vi er ansvarsfulde folk fra <span class=\"text normal\">hele verden</span>.",
   
     "sect6_mailinglist_title": "Hold dig opdateret",
     "sect6_mailinglist": "Tilmeld dig vores nyhedsbrev for løbende opdateringer.",
