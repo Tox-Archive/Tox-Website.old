@@ -1,6 +1,6 @@
 {
     "_author": "Fivesheep xatier",
-    "_language": "繁體中文",
+    "_language": "繁體中文(香港)",
     "_comment": "",
     "_ind": 0,
 
@@ -13,16 +13,18 @@
     "nv_wiki": "Wiki",
     "nv_blog": "Blog",
 
-    "sect1_slogan": "即將推出！屬於每個人的安全通信！",
+    "sect1_slogan": "屬於所有人的安全通信！",
     "sect1_description": "Tox 是個易於使用的軟件, 來自政府日益加劇的網路監控計畫下，他能幫助你朋友和親人在網絡上進行信息交流時避免任何人的偷窺",
     "sect1_learnmore": "瞭解更多",
     "sect1_download": "下載",
-    "sect1_notavail": "Tox 目前還沒完全準備好，不過下載連結將於近日完成！",
-
+    "sect1_nightly": "您可以下載 Tox nightlies 版本; 不過請小心，這些版本可能含有 bug！",
+    "download_nightly": "Nightlies",
+    "download_warning": "Nightlies 版本不是給心臟無力者使用，您可能會遇到 bug, crashes 和與很大的挫折。 您已經被警告過了！",
+    "download_distro": "請選擇您要的發行版本",
 
     "sect2_abouttox": "關於 Tox",
 
-    "sect2_aboutbody": "Tox 的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯.\n 市面上也有一些提供類似功能的軟件, 但基本上都是需要付費才能獲得比較完整的體驗. \n而Tox則是分文不取, 而且對用戶也沒有任何限制. 你想用Tox做什麼都是你的自由.",
+    "sect2_aboutbody": "Tox 的理念是防止你的個人隱私在你與親人和朋友進行交流的時候受到侵犯.\n 市面上有些知名軟件提供類似功能, 但都是需要付費才能獲得比較完整的功能. 然而Tox則是分文不取, 而且對用戶也沒有任何限制. \n你想用Tox做什麼都是你的自由.",
 
 
     "sect3_coolfeatures": "一些很酷的特性",
@@ -31,14 +33,14 @@
     "sect3_messages_blurb": "你指尖敲出的信息將立即被完全加密.",
 
     "sect3_voice": "通話",
-    "sect3_voice_blurb": "保持聯繫.\n 使用 Tox 進行免費並安全的加密語音通話.",
+    "sect3_voice_blurb": "保持聯繫\n 使用 Tox 進行免費並安全的加密語音通話.",
 
     "sect3_video": "視頻",
     "sect3_video_blurb":  "眼見為實.\n 現在就來體驗面對面加密視頻電話.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "持續的消息, 視頻會議以及更多",
+    "sect4_principles": "即時通信, 視頻會議以及更多",
 
     "sect4_security": "安全",
     "sect4_security_blurb": "Tox 為你嚴守隱私.<br/> 有了<span class=\"text bold\">頂尖加密程序</span>, 除了你要聯繫的人. 沒有別人都窺探到你半點隱私.",
@@ -47,7 +49,7 @@
     "sect4_easy_blurb": "不像別的加密聊天程序，你並不需要成為電腦技客才能使用他. Tox <span class=\"text bold\">易於使用</span>, 任何人都能輕鬆上手. 這樣你能把精力都集中在聊天之上.",
 
     "sect4_freedom": "自由",
-    "sect4_freedom_blurb": "Tox 不但讓你完全免費使用, 你可以任意修改和分發 Tox. <span class=\"text bold\">Tox 永遠不會發廣告騷擾你, 也不會讓你為了一些附加特性付錢.</span>",
+    "sect4_freedom_blurb": "Tox 不但讓你完全免費使用, 你可以任意修改和分發 Tox. <span class=\"text bold\">Tox 永遠不會發廣告騷擾你, 也不會讓你為了一些附加特性付錢</span>.",
 
 
     "sect5_contribute": "貢獻",
