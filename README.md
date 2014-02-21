@@ -47,6 +47,7 @@ What we have so far
 - German (@sudden6)
 - Russian (@stqism)
 - Hebrew (@GreenLunar)
+- Arabic (@Tanjoodo)
 
 *Note: You can still submit pull requests for verified languages.*
 
