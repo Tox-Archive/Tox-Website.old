@@ -17,7 +17,7 @@
     "sect1_description": "Ante el auge de programas de vigilancia gubernamentales generalizados, Tox es una aplicación fácil de usar que te permite conectarte con amigos y seres queridos sin que nadie más escuche.",
     "sect1_learnmore": "Más información",
     "sect1_download": "Descarga",
-    "sect1_notavail": "Tox no está listo aún, las descargas estarán listas pronto!",
+    "sect1_notavail": "Tox no está listo aún, ¡pero pronto podrás descargarlo!",
 
 
     "sect2_abouttox": "Acerca de Tox",
@@ -28,7 +28,7 @@
     "sect3_coolfeatures": "Algunas características interesantes",
 
     "sect3_messages": "Mensajes",
-    "sect3_messages_blurb": "A alcance de tus dedos.\n Estarás siempre al tanto con mensajería instantánea encriptada.",
+    "sect3_messages_blurb": "A alcance de tus dedos.\n Estarás siempre al tanto con mensajería instantánea cifrada.",
 
     "sect3_voice": "Llamadas",
     "sect3_voice_blurb": "Manténte en contacto.\n Haz llamadas gratuitas y seguras de Tox a Tox.",
@@ -52,16 +52,16 @@
 
     "sect5_contribute": "Contribuye",
 
-    "sect5_github": "Quieres ayudar? Nos encontramos en <span class=\"text normal color white\">GitHub</span>. No se requiere experiencia en programación.",
+    "sect5_github": "¿Quieres ayudar? Nos encontramos en <span class=\"text normal color white\">GitHub</span>. No se requiere experiencia en programación.",
     "sect5_sourceongithub": "Código fuente en GitHub",
 
     "sect6_freesoftware": "Software libre",
-    "sect6_developers": "Somos buenos muchachos <span class=\"text normal\">de alrededor de todo el mundo</span>.",
+    "sect6_developers": "Somos buenos muchachos <span class=\"text normal\">de alrededor del mundo</span>.",
 
     "sect6_mailinglist_title": "Manténte al tanto",
     "sect6_mailinglist": "Suscríbete a nuestra lista de correo electrónico para recibir noticias sobre el progreso de Tox.",
     "sect6_email": "dirección de correo electrónico",
 
-    "sect6_needhelp": "Necesitas ayuda?",
+    "sect6_needhelp": "¿Necesitas ayuda?",
     "sect6_githubtoirc": "Comienza tu propio proyecto y contáctanos en <span class=\"text normal\">GitHub</span>, o en <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
 }
