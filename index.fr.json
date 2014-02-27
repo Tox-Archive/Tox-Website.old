@@ -61,5 +61,10 @@
     
     
     "sect6_needhelp": "Besoin d'aide?",
-    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Lancez votre propre projet, et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    
+    "dev_links": "Liens pour développeurs",
+    "dev_blog": "Blog des développeurs",
+    "dev_docs": "Documentation"
 }
