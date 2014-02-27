@@ -63,5 +63,9 @@
     "sect6_email": "E-Mail-Adresse",
     
     "sect6_needhelp": "Du brauchst Hilfe?",
-    "sect6_githubtoirc": "Starte Dein eigenes Projekt und frag' uns auf <span class=\"text normal\">GitHub</span> oder in unserem <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a> (Englisch)!"
+    "sect6_githubtoirc": "Starte Dein eigenes Projekt und frag' uns auf <span class=\"text normal\">GitHub</span> oder in unserem <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a> (Englisch)!",
+    
+    "dev_links": "Dokumentation",
+    "dev_blog": "Entwicklerblog",
+    "dev_docs": "Entwicklerlinks"
 }
