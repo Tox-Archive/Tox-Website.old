@@ -58,9 +58,9 @@
     "sect6_email": "email address",
 
     "sect6_needhelp": "Need some help?",
-    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
     
     "dev_links": "Developer Links",
     "dev_blog": "Development blog",
-    "dev_docs": "Documentation",
+    "dev_docs": "Documentation"
 }
