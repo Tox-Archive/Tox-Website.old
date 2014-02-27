@@ -11,7 +11,6 @@
     "nv_features": "Features",
     "nv_contribute": "Contribute",
     "nv_wiki": "Wiki",
-    "nv_blog": "Blog",
 
     "sect1_slogan": "Secure messaging for everyone",
     "sect1_description": "With the rise of widespread government monitoring programs, Tox is an easy to use application that allows you to connect with friends and loved ones without anyone else listening in.",
@@ -51,12 +50,6 @@
     "sect4_freedom": "Freedom",
     "sect4_freedom_blurb": "Tox is both free for you to use, and free for you to change. You are completely free to both use and modify Tox. Furthermore, <span class=\"text bold\">Tox will never harass you with ads, or require you to pay for features</span>.",
 
-
-    "sect5_contribute": "Contribute",
-
-    "sect5_github": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.\n No coding experience is necessary.",
-    "sect5_sourceongithub": "Source on GitHub",
-
     "sect6_freesoftware": "Free Software",
     "sect6_developers": "We're cool folks from <span class=\"text normal\">all around the world</span>.",
 
@@ -66,4 +59,8 @@
 
     "sect6_needhelp": "Need some help?",
     "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    
+    "dev_links": "Developer Links",
+    "dev_blog": "Development blog",
+    "dev_docs": "Documentation",
 }
