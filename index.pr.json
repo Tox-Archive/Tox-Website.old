@@ -13,8 +13,9 @@
     
     "sect1_slogan": "Secret messagin' bottles for the crew.",
     "sect1_description": "Now that the King be eyein' us all, Tox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
-    "sect1_learnmore": "Get yerself educated",
+    "sect1_learnmore": "Get edumacated",
     "sect1_download": "Try 'er out",
+    "sect1_nightly": "Watch yerself, there may be holes in these ships",
     
     
     "sect2_abouttox": "Idears o' Tox",
@@ -60,5 +61,9 @@
     "sect6_email": "message@bottle.in",
     
     "sect6_needhelp": "Needin' some assistance?",
-    "sect6_githubtoirc": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "dev_links": "Portal fer' creators",
+    "dev_blog": "Captain's log",
+    "dev_docs": "Ship instructions"
 }
