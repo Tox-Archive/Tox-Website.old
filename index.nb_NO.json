@@ -57,6 +57,8 @@
     "sect6_mailinglist": "Meld deg på epostlisten for oppdateringer om Tox's fremgang.",
     "sect6_email": "epostadresse",
    
+    "sect6_jointheteam": "Bli med på laget",
+    "sect6_joinongithub": "Hjelp til med å bygge Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     "sect6_needhelp": "Trenger du hjelp?",
     "sect6_githubtoirc": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
