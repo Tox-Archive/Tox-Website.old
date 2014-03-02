@@ -4,25 +4,29 @@
     "_comment": "Prekladaj len z anglickej verzie! Nie z iných!",
     "_ind": 0,
 
-    "lf_title": "Tox (Pred-alfa)",
+    "lf_title": "Tox",
     
     "nv_home": "Domov",
     "nv_about": "O projekte",
     "nv_features": "Vlastnosti",
     "nv_contribute": "Prispej",
+    "nv_wiki": "Wiki",
     
-    "sect1_slogan": "Bezpečná komunikácia pre každého, už čoskoro.",
-    "sect1_description": "So vzostupom rozšírenia vládnych sledovacích programov, vznikol Tox. Jednoduchá aplikácia, ktorá Ti umožňuje spojenie s priateľmi a milovanými bez kohokoľvek kto by mohol načúvať.",
+    "sect1_slogan": "Bezpečná komunikácia pre každého",
+    "sect1_description": "So vzostupom rozšírenia vládnych sledovacích programov, vznikol Tox. Jednoduchá aplikácia, ktorá Ti umožňuje spojenie s priateľmi a milovanými bez kohokoľvek, kto by načúval.",
     "sect1_learnmore": "Zistiť viac",
     "sect1_download": "Stiahnuť",
-    
+    "sect1_nightly": "Môžeš stiahnuť Tox nočné verzie; pozor, môžu byť chybné!",
+    "download_nightly": "Nočné verzie",
+    "download_warning": "Nočné verzie nie sú pre slabé srdcia, môžeš naraziť na chyby, pády a veľké dávky frustrácie. Bol si varovaný!",
+    "download_distro": "Prosím vyber svoju distribúciu",
     
     "sect2_abouttox": "O projekte Tox",
     
     "sect2_aboutbody": "Tox je postavený na myšlienke spojenia s priatelmi a rodinou bez narušenia súkromia.\n Kym iné zvučné služby vyžadujú pre odomknutie funkcií peniaze, Tox je zadarmo a je slobodný.\n To znamená, že možeš narábať s Toxom ako potrebuješ.",
     
     
-    "sect3_coolfeatures": "Niektoré fasa vychytávky",
+    "sect3_coolfeatures": "Niektoré úžasné funkcie",
     
     "sect3_messages": "Správy",
     "sect3_messages_blurb": "Na dosah ruky.\n Si stále v kruhu okamžitých kryptovaných správ.",
@@ -41,23 +45,22 @@
     "sect4_security_blurb": "Tox berie tvoje súkromie vážne.<br/>Len s <span class=\"text bold\">pokročilým šifrovaním</span>, môžeš spokojne spávať s vedomím, že jediní, ktorí čítajú tvoje správy su tí, ktorým ich posielaš.",
     
     "sect4_easy": "Jednoduchosť používania",
-    "sect4_easy_blurb": "Na rozdiel od ostatných zabezpečených riešení pre posielanie správ, s Toxom nepotrebuješ byť počítačový programátor aby si ho mohol používať. Tox prináša <span class=\"text bold\">jednoduché</span> používateľské rozhranie s ktorým sa možeš sústrediť len na konverzáciu.",
+    "sect4_easy_blurb": "Na rozdiel od ostatných zabezpečených riešení pre posielanie správ, s Toxom nepotrebuješ byť počítačový programátor aby si ho mohol používať. Tox prináša <span class=\"text bold\">jednoduché</span> používateľské rozhranie, s ktorým sa možeš sústrediť len na konverzáciu.",
     
     "sect4_freedom": "Sloboda",
-    "sect4_freedom_blurb": "Tox môžeš nielen používať zadarmo, možeš  ho aj slobodne upravovať. Navyše, <span class=\"text bold\">Tox ťa nikdy nebude obtažovať reklamami alebo ziadať platenie za funkcie.</span>",
-    
-    
-    "sect5_contribute": "Prispej",
-    
-    "sect5_github": "Chceš pomôcť? Sme na <span class=\"text normal color white\">GitHube</span>.\n Aj ked nevieš programovať. Príď.",
-    "sect5_sourceongithub": "Zdrojové kódy na GitHube",
+    "sect4_freedom_blurb": "Tox môžeš nielen používať zadarmo, možeš ho aj slobodne upravovať. Navyše, <span class=\"text bold\">Tox ťa nikdy nebude obtažovať reklamami alebo žiadať platby za funkcie.</span>",
     
     "sect6_freesoftware": "Slobodný softvér",
     "sect6_developers": "My sme fasa ľudia z <span class=\"text normal\">celého sveta</span>.",
     
-    "sect6_jointheteam": "Poď do týmu",
-    "sect6_joinongithub": "Pomôž s budovaním TOXu na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHube</a>.",
-    
+    "sect6_mailinglist_title": "Buď aktuálny",
+    "sect6_mailinglist": "Odoberaj náš mailing list o novinkách vývoja Toxu.",
+    "sect6_email": "emailová adresa",
+  
     "sect6_needhelp": "Potrebuješ pomoc?",
     "sect6_githubtoirc": "Začni svoj vlastný projekt a opýtaj sa nás na <span class=\"text normal\">GitHube</span>, alebo na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    
+    "dev_links": "Odkazy pre vývojárov",
+    "dev_blog": "Vývojársky blog",
+    "dev_docs": "Dokumentácia"
 }
