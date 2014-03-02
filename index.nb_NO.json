@@ -58,7 +58,7 @@
     "sect6_email": "epostadresse",
    
     "sect6_needhelp": "Trenger du hjelp?",
-    "sect6_githubtoirc": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "dev_links": "Utviklerlenker",
     "dev_blog": "Utviklerblog",
