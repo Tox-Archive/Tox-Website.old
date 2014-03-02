@@ -58,7 +58,7 @@
     "sect6_email": "emailová adresa",
   
     "sect6_needhelp": "Potrebuješ pomoc?",
-    "sect6_githubtoirc": "Začni svoj vlastný projekt a opýtaj sa nás na <span class=\"text normal\">GitHube</span>, alebo na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Začni svoj vlastný projekt a opýtaj sa nás na <span class=\"text normal\">GitHube</span>, alebo na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
     
     "dev_links": "Odkazy pre vývojárov",
     "dev_blog": "Vývojársky blog",
