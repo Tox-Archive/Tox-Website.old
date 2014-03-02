@@ -1,6 +1,7 @@
 {
     "_author": "MaxSvett, chinatsun, martinhath",
     "_language": "Norsk Bokmål",
+
     "_ind": 0,
  
     "lf_title": "Tox",
@@ -15,8 +16,6 @@
     "sect1_description": "Med fremveksten av omfattende statlige overvåkningsprogrammer er Tox et brukervennlig program som lar deg kommunisere med kjente og kjære uten at andre lytter i samtalene",
     "sect1_learnmore": "Lær mer",
     "sect1_download": "Last ned",
-    "sect1_notavail": "Tox er ikke klar for utgivelse ennå, nedlasting blir tilgjengelig snart!",
-
     "sect1_nightly": "Du kan laste ned nattlig; v�r advart, den kan v�re ustabil!",
     "download_nightly": "Nattlig",
     "download_warning": "Nattlig er ikke for de med svakt hjerte, du kan m�te p� feil, kr�sj, og mye frustrasjon. Du er blitt advart!",
@@ -26,6 +25,7 @@
    
     "sect2_aboutbody": "Tox er bygget rundt idéen om at du kan holde deg oppdatert med kjente og familie uten å ha ditt privatliv krenket. Mens andre store aktører krever at du betaler for å få funksjoner er Tox både gratis og frihetsrespekterende. Det vil si at du er fri til å gjøre hva du vil med Tox.",
    
+
     "sect3_coolfeatures": "Noen stilige funksjoner",
    
     "sect3_messages": "Meldinger",
@@ -50,20 +50,12 @@
     "sect4_freedom": "Frihet",
     "sect4_freedom_blurb": "Tox er både gratis for deg å bruke og gratis for deg å endre. Du står helt fritt til å både bruke og modifisere Tox. Dessuten <span class=\"text bold\">vil Tox aldri plage deg med annonser, eller kreve betaling for funksjoner.</span>",
    
-    "sect5_contribute": "Bidra",
-   
-    "sect5_github": "Ønsker du å bidra? Vi er på <span class=\"text normal color white\">GitHub</span>.\n Ingen programmeringserfaring er nødvendig.",
-    "sect5_sourceongithub": "Kildekoden er på GitHub",
-   
     "sect6_freesoftware": "Fri programvare",
     "sect6_developers": "Vi er kule folk fra <span class=\"text normal\">hele verden.</span>.",
     
     "sect6_mailinglist_title": "Hold deg oppdatert",
     "sect6_mailinglist": "Meld deg på epostlisten for oppdateringer om Tox's fremgang.",
     "sect6_email": "epostadresse",
-   
-    "sect6_jointheteam": "Bli med på laget",
-    "sect6_joinongithub": "Hjelp til med å bygge Tox på <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
    
     "sect6_needhelp": "Trenger du hjelp?",
     "sect6_githubtoirc": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
