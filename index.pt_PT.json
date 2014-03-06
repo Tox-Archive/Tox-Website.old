@@ -10,17 +10,20 @@
     "nv_about": "Acerca",
     "nv_features": "Funcionalidades",
     "nv_contribute": "Contribuir",
+    "nv_wiki": "Wiki",
     
     "sect1_slogan": "Mensagens seguras para todos, em breve.",
     "sect1_description": "Com o crescimento de programas de vigilância governamental, Tox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado.",
     "sect1_learnmore": "Saber mais",
     "sect1_download": "Download",
     "sect1_nightly": "Você pode fazer download dos nightlies Tox; seja avisado, eles podem ter erros!",
-    
+    "download_nightly": "Nightlies";
+    "download_warning": "Os nightlies não são para os de coração fraco, pode encontrar erros e grandes doses de frustração. Você foi avisado!",
+    "download_distro": "Por favor escolha a sua distribuição",
     
     "sect2_abouttox": "Sobre o Tox",
     
-    "sect2_aboutbody": "Tox é construído com base na ideia de manter contacto com amigos e família sem que a sua privacidade seja violada.\n Enquanto que outros serviços exigem um pagamento para desbloquear funcionalidades, Tox é livre e gratuito.\n O que significa que o utilizador é livre para fazer o que desejar com o software.",
+    "sect2_aboutbody": "Hoje em dia todos os governos parecem estar interessados no que fazemos online. Tox é construído com base na ideia de manter contacto com amigos e família sem que a sua privacidade seja violada.\n Enquanto que outros serviços exigem um pagamento para desbloquear funcionalidades, Tox é livre e gratuito.\n O que significa que o utilizador é livre para fazer o que desejar com o software.",
     
     
     "sect3_coolfeatures": "Algumas funcionalidades interessantes",
