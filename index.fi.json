@@ -1,66 +1,66 @@
 {
-    "_author": "nahka",
+    "_author": "nahka, Sami-Perkele",
     "_language": "Suomi",
     "_comment": "This is a fairly rough and raw translation. Feel free to edit",
     "_ind": 6,
- 
+
     "lf_title": "Tox",
-   
+
     "nv_home": "Koti",
     "nv_about": "Tietoa",
     "nv_features": "Ominaisuudet",
     "nv_contribute": "Osallistu",
-   
-    "sect1_slogan": "Turvallista viestittelyä meille muille, tulossa pian.",
-    "sect1_description": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää Tox. Tox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta.",
+    "nv_wiki": "Wiki",
+
+    "sect1_slogan": "Turvallista viestittelyä kaikille",
+    "sect1_description": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää Tox. Tox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta. Muut nimekkäät palvelut laskuttavat palveluistaan. Tox on täysin ilmainen ja vapaa mainoksista.",
     "sect1_learnmore": "Lisätietoja",
     "sect1_download": "Lataa",
-   
-   
+    "sect1_nightly": "Voit ladata Toxin nightly-versioita. Varoitus: ne voivat olla bugisia!",
+    "download_nightly": "Nightlyt",
+    "download_warning": "Nightlyt eivät ole heikkosydämisille, voit kohdata bugeja, kaatumisia ja suurta turhautumista. Sinua on varoitettu!",
+    "download_distro": "Valitse jakelusi",
+
     "sect2_abouttox": "Tietoa Toxista",
-   
-    "sect2_aboutbody": "Tox kehitettiin jotta voisit pitää yhteyttä ystäviesi ja perheesi kanssa, ilman että yksityisyyttäsi loukataan.\n Monet isomman luokan palvelut vaativat maksua ominaisuuksien avaamiseen, kun taas Tox on ilmainen, niin kuin myös vapaa filosofialtaan. Olet siis vapaa tekemään mitä ikinä haluatkaan Toxilla.",
-   
-   
+
+    "sect2_aboutbody": "Nykyään jokaista hallitusta tuntuu kiinnostavan, mitä me sanomme netissä. Toxille yksityisyys on tärkeintä, emmekä tee kompromisseja. Asetamme turvallisuutesi tärkeimmäksi tavoitteeksemme, eikä mikään asia maailmassa voi muuttaa tätä.", 
+
+
     "sect3_coolfeatures": "Joitakin hienoja ominaisuuksia",
-   
+
     "sect3_messages": "Viestit",
     "sect3_messages_blurb": "Lähettyvilläsi.\n Olet aina ajan tasalla salatulla pikaviestinnällä.",
-   
+
     "sect3_voice": "Puhelut",
-    "sect3_voice_blurb": "Ole yhteydessä.\n Soita ilmaisia ja turvallisia Tox -puheluita.",
-   
+    "sect3_voice_blurb": "Ole yhteydessä.\n Soita ilmaisia ja turvallisia Tox-puheluita.",
+
     "sect3_video": "Video",
     "sect3_video_blurb": "Näkeminen on uskomista.\n Tavoita kasvotusten suojatulla videopuhelulla.",
-   
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-   
+
     "sect4_principles": "Pikaviestintää, videokokouksia, ja enemmän",
-   
+
     "sect4_security": "Turvallisuus",
     "sect4_security_blurb": "Tox ottaa yksityisyytesi erittäin vakavasti.\nVoit olla varma siitä, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. Tox hyödyntää <span class=\"text bold\">luokassaan parhainta salausta</span>.",
+
     "sect4_easy": "Helppokäyttöisyys",
     "sect4_easy_blurb": "Toisin kuin muut viestintäohjelmat, Tox ei vaadi sinun olevan tietokone-ekspertti. Tox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
-   
+
     "sect4_freedom": "Vapaus",
     "sect4_freedom_blurb": "Tox on ilmainen ohjelma sekä vapaa filosofialtaan. Sinulla on täysi vapaus käyttää ja muokata Toxia miten haluat. Tämän lisäksi <span class=\"text bold\">Tox ei tule koskaan häiritsemään sinua mainoksilla tai vaatimaan maksua ominaisuuksista.</span>",
-   
-   
-    "sect5_contribute": "Osallistu",
-   
-    "sect5_github": "Haluatko auttaa? Löydät meidät <span class=\"text normal color white\">GitHubista</span>.\n Ohjelmointiosaamista ei vaadita.",
-    "sect5_sourceongithub": "Lähdekoodi GitHubissa",
-   
+
     "sect6_freesoftware": "Vapaa ohjelmisto",
     "sect6_developers": "Me olemme siistejä tyyppejä <span class=\"text normal\">joka puolelta maailmaa</span>.",
-   
-    "sect6_jointheteam": "Liity joukkoon",
-    "sect6_joinongithub": "Auta kehittämään Toxia <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub:ssa</a>.",
-   
+
     "sect6_mailinglist_title": "Pysy mukana",
     "sect6_mailinglist": "Ilmoittaudu postituslistalle saadaksesi tietää Toxin edistymisestä.",
     "sect6_email": "sähköpostisi",
-   
+
     "sect6_needhelp": "Tarvitsetko apua?",
-    "sect6_githubtoirc": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC:ssä</a>!"
+    "sect6_githubtoirc": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC:ssä</a>!",
+
+    "dev_links": "Kehittäjien linkit",
+    "dev_blog": "Kehitys-blogi",
+    "dev_docs": "Dokumentaatio"
 }
