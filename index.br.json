@@ -1,0 +1,75 @@
+{
+    "_author": "tornoz",
+    "_language": "Brezhoneg",
+    "_comment": "First version of Breton translation",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Degemer",
+    "nv_about": "A zivout",
+    "nv_features": "Arc'hweladurioù",
+    "nv_contribute": "Kemer perzh",
+     "nv_wiki": "Wiki",    
+
+    "sect1_slogan": "Surentez en eskemmoù evit an holl.",
+    "sect1_description": "P'emañ ar raktresoù evezhiañ gouarnamantel o ledañ o levezon, Tox a zo ur poellad aes da implijout a servij da bellgomz d'ho mignoned hep ne vefe den ebet all o selaou. Kement-se digoust, frank hag hep bruderezh.",
+    "sect1_learnmore": "Gouzout muioc'h",
+    "sect1_download": "Pellgargañ",
+    "sect1_nightly": "Tu zo deoc'h pellgargañ nightlies Tox; diwallit memestra rak bugoù a zo !",
+    "download_nightly": "Nightlies",
+    "download_warning": "An nightlies n'int ket evit an dud gwan a galon, tu vo deoc'h kavout bugoù ha traoù spontus all. Kelaouet oc'h bet !",
+    "download_distro": "Dibabit ho dasparzh mar-plij",
+    
+    
+    "sect2_abouttox": "Diwar-benn Tox",
+    
+    "sect2_aboutbody": "Tox a zo savet gant ar mennozh e vefe tu deoc'h daremprediñ gant ho mignoned pe ho familh hep risklañ ho buhez prevez.\n Pa vez anvioù bras an eskemm war-eeun o lakaat ac'hanoc'h da baeañ evit ouzhpennañ arc'hweladurioù, Tox a chom frank ha digoust. \n Evel-se ez eus tu deoc'h ober ar pezh ho peus c'hoant gant Tox.",
+    
+    
+    "sect3_coolfeatures": "Arc'hweladurioù dreist",
+    
+    "sect3_messages": "Kemenadennoù",
+    "sect3_messages_blurb": "Aes da implij.\n Liammet vefec'h bepred gant an eskemm war-eeun sifret.",
+    
+    "sect3_voice": "Pellgomz",
+    "sect3_voice_blurb": "Chomit e darempred.\n Tu 'zo deoc'h pellgomz en un doare digoust etre implijerien Tox.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Ret eo sellet evit krediñ.\n Eskemmit penn ouzh penn gant pellgomzadennoù video.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Eskemm war-eeun, video, ha c'hoazh muioc'h",
+    
+    "sect4_security": "Surentezh",
+    "sect4_security_blurb": "Tox a soñj eo ar prevezded un afer sirius.<br/> Gant ur <span class=\"text bold\">sifradur kreñv</span>, sur oc'h ne vo nemet ar re a fell deoc'h o kemer perzh en eskemm.",
+    
+    "sect4_easy": "Aes da implijout",
+    "sect4_easy_blurb": "Er c'hontrol da poelladoù all evit eskemm war-eeun en un doare sifret, Tox ne c'hortoz ket e vefec'h ur programour. Tox a ginnig deoc'h un etreas <span class=\"text bold\">aes da implijout</span> dre ziouer hag a laosk arc'hanoc'h da soñjal en eskemmoù hepken.",
+    
+    "sect4_freedom": "Frankiz",
+    "sect4_freedom_blurb": "Tox a zo frank ha digoust. Dieub oc'h penn-da-benn da implij ha kemmañ Tox. Ouzhpenn da-se, <span class=\"text bold\">Tox ne vo morse o hegasiñ arc'hanoc'h gant bruderezh, ha ne vo morse o lakaat arc'hanoc'h da baeañ evit arc'hwleadurioù ouzhpenn.</span>",
+    
+    
+    "sect5_contribute": "Kemer perzh",
+    
+    "sect5_github": "C'hoant ho 'peus sikour ? War <span class=\"text normal color white\">GitHub</span> emaomp.\n N'ho 'peus ket ezhomm kaout skiant-prenet war ar programmiñ.",
+    "sect5_sourceongithub": "Mamenn war GitHub",
+    
+    "sect6_freesoftware": "Poellad frank",
+    "sect6_developers": "Ur skipailh sympa omp, gant izili e <span class=\"text normal\">pep lec'h er bed</span>.",
+    
+    "sect6_mailinglist_title": "Chomit liammet",
+    "sect6_mailinglist": "Tu 'zo deoc'h koumanantiñ dre postel evit heuliañ an araokadennoù",
+    "sect6_email": "chomlec'h postel",
+    
+    
+    "sect6_needhelp": "Ezhomm sikour ?",
+    "sect6_githubtoirc": "Lañsit ho raktres, ha savit goulennoù ouzhomp war <span class=\"text normal\">GitHub</span>, pe war hor <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    
+    "dev_links": "Liammoù evit an diorroerien",
+    "dev_blog": "Blog an diorroerien",
+    "dev_docs": "Teulioù"
+}
