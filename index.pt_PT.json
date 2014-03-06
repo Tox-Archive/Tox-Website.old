@@ -15,7 +15,7 @@
     "sect1_description": "Com o crescimento de programas de vigilância governamental, Tox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado.",
     "sect1_learnmore": "Saber mais",
     "sect1_download": "Download",
-    "sect1_notavail": "O Tox ainda não está concluído, poderá fazer download da aplicação brevemente!",
+    "sect1_nightly": "Você pode fazer download dos nightlies Tox; seja avisado, eles podem ter erros!",
     
     
     "sect2_abouttox": "Sobre o Tox",
@@ -46,12 +46,6 @@
     
     "sect4_freedom": "Liberdade",
     "sect4_freedom_blurb": "Tox é gratuito para usar e livre para modificar. O utilizador é completamente livre para usar e modificar o software. Além disto, <span class=\"text bold\">Tox nunca o irá perturbar com anúncios ou exigir pagamento por funcionalidades.</span>",
-    
-    
-    "sect5_contribute": "Contribuir",
-    
-    "sect5_github": "Quer ajudar? Nós estamos no <span class=\"text normal color white\">GitHub</span>.\n Experiência em programação não é necessária",
-    "sect5_sourceongithub": "Código-fonte no GitHub",
     
     "sect6_freesoftware": "Software livre",
     "sect6_developers": "Somos boas pessoas do <span class=\"text normal\">mundo inteiro</span>.",
