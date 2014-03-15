@@ -1,11 +1,15 @@
 #!/usr/bin/env python
 from __future__ import print_function
-import simplejson
 import os
 import pystache
 import re
 import shutil
 import sys
+
+try:
+    import simplejson
+except ImportError:
+    import json as simplejson
 
 def do_format_template(name, template):
     basename = ".".join(name.split(".")[:-1])
