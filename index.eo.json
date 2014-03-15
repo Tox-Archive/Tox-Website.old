@@ -1,0 +1,66 @@
+{
+    "_author": "staplemac",
+    "_language": "Esperanto",
+    "_comment": "Initial Translation",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+
+    "nv_home": "Ĉefpago",
+    "nv_about": "Pri",
+    "nv_features": "Funkcioj",
+    "nv_contribute": "Kontributi",
+    "nv_wiki": "Viki",
+
+    "sect1_slogan": "Sekura babilo por ĉiuj",
+    "sect1_description": "Per la kresko de ŝtataj kaŝeaŭskultoj, Tox provizas tre facilan aplikaĵon ke allasas babili kun amikoj kaj la familio sen aliaj aŭskultas. Dum aliaj popularaj servoj postulas monon por funkcioj, Tox estas plene senkosta sen reklamado.",
+    "sect1_learnmore": "Scii pli",
+    "sect1_download": "Elŝuti",
+    "sect1_nightly": "Vi povas elŝuti noktajn elŝutojn; sed ĝi estas cima kelkfoje!",
+    "download_nightly": "Nokta elŝuto",
+    "download_warning": "Nokta elŝutoj ne estas por la malforta, vi eble vidos cimojn, kraŝojn, kaj koleron. Vin avertas!",
+    "download_distro": "Bonvole, elektu vian distribuon.",
+
+    "sect2_abouttox": "Pri Tox",
+
+    "sect2_aboutbody": "Nuntempe, ĉiu registaro ŝajnas interesita pri nian vortojn je la interreto. Tox ekzistas laŭ \"privateco estas unua\" afero, kaj ni ne faras kompromison. Via sekuro estas nia plej celo. Neniu en la mondo ŝanĝos ĝin.",
+
+
+    "sect3_coolfeatures": "Kelkaj imponaj funkcioj",
+
+    "sect3_messages": "Mesaĝo",
+    "sect3_messages_blurb": "Je via direkto.\n Vi ĉiam konscias la komunumon kun rapida sekura mesaĝado.",
+
+    "sect3_voice": "Voko",
+    "sect3_voice_blurb": "Daŭre konas.\n Vokoj estas senkosta kaj sekura kun aliaj Tox uzantoj.",
+
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Kion vi vidas estas vera.\n Renkonti kun sekura videokonversacio.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_principles": "Tujmesaĝado, retbabilado kun video, kaj similaj",
+
+    "sect4_security": "Sekureco",
+    "sect4_security_blurb": "Tox estas serioza pri via privateco. <br/>Kun <span class=\"text bold\">supra-kvalita ĉifrado</span>, vi povas dormi trankvile. Nur la ricevantoj povas legi vian mesaĝojn.",
+
+    "sect4_easy": "Facileco",
+    "sect4_easy_blurb": "Malsimilas aliajn sekurajn mesaĝejojn, Tox ne bezonas programistojn por uzi. Tox komencas kun <span class=\"text bold\">facile-por-uzi</span> fasadon ke helpas vin je viaj babiladoj.",
+
+    "sect4_freedom": "Libereco",
+    "sect4_freedom_blurb": "Tox estas senkosta por uzi, kaj senkosta por modifi. Ankaŭ, <span class=\"text bold\">Tox neniam atakados per anoncoj, aŭ bezonos monojn por funkcioj.</span>",
+
+    "sect6_freesoftware": "Libera programaro",
+    "sect6_developers": "Ni estas imponaj popoloj el <span class=\"text normal\">la tuta mondo</span>.",
+
+    "sect6_mailinglist_title": "Ada sciu",
+    "sect6_mailinglist": "Abonu al mian dissendoliston por ĝisdatigoj pri Tox.",
+    "sect6_email": "Retpoŝtadreso",
+
+    "sect6_needhelp": "Ĉu vi volas helpon?",
+    "sect6_githubtoirc": "Komenci vian projekto kaj demandi ĉe <span class=\"text normal\">GitHub</span>, aŭ ĉe <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "dev_links": "Programista ejoj",
+    "dev_blog": "Programada blogo",
+    "dev_docs": "Dokumentado"
+}
