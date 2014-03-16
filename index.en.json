@@ -63,4 +63,8 @@
     "dev_links": "Developer Links",
     "dev_blog": "Development blog",
     "dev_docs": "Documentation"
+   
+    "donate_header": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donations</a> wiki article. Thank you!"
+
 }
