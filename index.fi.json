@@ -62,5 +62,8 @@
 
     "dev_links": "Kehittäjien linkit",
     "dev_blog": "Kehitys-blogi",
-    "dev_docs": "Dokumentaatio"
+    "dev_docs": "Dokumentaatio",
+    
+    "donate_header": "Lahjoita",
+    "donate_about": "Nähdäksesi miten voit auttaa lahjoituksillasi, vieraile <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">lahjoituksista</a> kertovassa wiki-artikkelissamme. Kiitos!"
 }
