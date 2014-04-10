@@ -16,7 +16,7 @@
     "sect1_description": "Tox 是個易於使用的軟體，來自政府日益加據的網路監控計畫下，他能幫助您與朋友和親人在網路上進行資訊交流時避免任何人的監聽。",
     "sect1_learnmore": "瞭解更多",
     "sect1_download": "下載",
-    "sect1_nightly": "您可以下載 Tox 未來版本；不過請小心，這些版本可能含有 bug！",
+    "sect1_nightly": "您可以下載 Tox 開發版；不過請小心，這些版本可能含有 bug！",
     "download_nightly": "Nightlies",
     "download_warning": "Nightlies 版本不是給心臟無力者使用，您可能會遇到 bug, crashes 和與很大的挫折。 您已經被警告過了！",
     "download_distro": "請選擇您要的發行版本",
@@ -58,7 +58,7 @@
     "sect6_email": "email 地址",
 
     "sect6_needhelp": "需要協助？",
-    "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立您自己的項目並且讓我們加入，或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道！"
+    "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立您自己的項目並且讓我們加入，或者加入這個<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\"> IRC </a>頻道！",
 
     "dev_links": "開發者連結",
     "dev_blog": "開發部落格",
