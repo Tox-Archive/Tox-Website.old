@@ -7,8 +7,7 @@ Building the site
 =================
 
 Building the site requires Python 2 or Python 3 and the pystache library.  
-In the main directory, run ``python buildsite2.py`` for python 2 and run ``python3 buildsite.py`` for python 3.  
-The site will be in the new ``site/`` directory.
+In the main directory run ``python buildsite.py``
 
 To make the folder layout do the following:  
 Move in to the site folder ``cd site``  
