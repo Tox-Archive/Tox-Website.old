@@ -1,5 +1,5 @@
 {
-    "_author": "zukivi, Pietro La Porta and Zorua.",
+    "_author": "zukivi, Pietro La Porta, Zorua and trapped.",
     "_language": "Italiano",
     "_comment": "",
     "_ind": 0,
@@ -42,10 +42,10 @@
     "sect4_principles": "Messaggi istantanei, video conferenze, ed altro",
 
     "sect4_security": "Sicurezza",
-    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una criptazione di prima classe</span>, puoi essere certo che le uniche persone a leggere i tuoi messaggi sono quelle a cui li hai mandati.",
+    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una crittografia di prima classe</span>, puoi essere certo che le uniche persone a leggere i tuoi messaggi sono quelle a cui li hai mandati.",
 
     "sect4_easy": "Semplice da utilizzare",
-    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure, non c'è bisogno di essere un programmatore per usare Tox. Tox ti offre un'interfaccia <span class=\"text bold\">facile da usare</span> interfaccia che ti permette di concentrarti sulle tue conversazioni.",
+    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure, non c'è bisogno di essere un programmatore per usare Tox. Tox ti offre un'interfaccia <span class=\"text bold\">facile da usare</span> che ti permette di concentrarti sulle tue conversazioni.",
 
     "sect4_freedom": "Libertà",
     "sect4_freedom_blurb": "Tox è libero sia di esser usato, che modificato. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà mai con annunci, o ti chiederà di pagare per funzioni aggiuntive</span>.",
@@ -64,5 +64,12 @@
     "sect6_email": "indirizzo email",
 
     "sect6_needhelp": "Hai bisogno d'aiuto?",
-    "sect6_githubtoirc": "Inizia un tuo nuovo progetto e chiedi a noi su <span class=\"text normal\">GitHub</span>, o su <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Inizia un tuo nuovo progetto e chiedi a noi su <span class=\"text normal\">GitHub</span>, o su <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "dev_links": "Link per sviluppatori",
+    "dev_blog": "Blog di sviluppo",
+    "dev_docs": "Documentazione",
+    
+    "donate_header": "Fai una donazione",
+    "donate_about": "Per scoprire come puoi aiutare tramite le donazioni, visita il nostro articolo sulle <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donazioni</a> sul wiki. Grazie!"
 }
