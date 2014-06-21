@@ -12,11 +12,14 @@
     "nv_contribute": "Panusta",
     "nv_wiki": "Wiki",
    
-    "sect1_slogan": "Turvaline sõnumite saatmine kõigile.",
+    "sect1_slogan": "Uutmoodi Kiirsõnumid",
     "sect1_description": "Laiaulatusliku valitsuste nuhkimistega on Tox kergesti kasutatav programm, millega saad sõprade ja tuttavatega suhelda ilma, et keegi pealt kuulaks. ",
     "sect1_learnmore": "Loe veel",
     "sect1_download": "Laadi alla",
-        "sect1_notavail": "Tox ei ole veel valmis. Allalaadimised on varsti saadaval!",
+    "sect1_nightly": "Sa võid allalaadida Toxi nightly;  ole hoiatatud, see võib olla vigadega",
+    "download_nightly": "Nightly-d",
+    "download_warning": "Nightly-d pole nõrganärvilistele, sest selles võivad olla vead, crash-id ja suures koguses frustratsiooni. Teid on hoiatatud!",
+    "download_distro": "Palun valige oma distributsioon",
    
     "sect2_abouttox": "Toxist",
    
@@ -47,19 +50,21 @@
     "sect4_freedom": "Vabadus",
     "sect4_freedom_blurb": "Tox on tasuta ja sul on vabadus seda muuta. <span class=\"text bold\">Tox ei hakka sind kunagi reklaamiga ahistama ega nõua sult raha funktsioonide kasutamiseks.</span>",
    
-   
-    "sect5_contribute": "Panusta",
-   
-    "sect5_github": "Tahad aidata? Me oleme <span class=\"text normal color white\">GitHubis</span>.\n Kodeerimise kogemus ei ole vajalik.",
-    "sect5_sourceongithub": "Allikas GitHubis",
-   
     "sect6_freesoftware": "Vaba tarkvara",
-    "sect6_developers": "Me oleme lahedad kutid <span class=\"text normal\">kogu maailmast</span>.",
-   
+    "sect6_developers": "Me oleme lahedad inimesed <span class=\"text normal\">tervest maailmast</span>.",   
+
     "sect6_mailinglist_title": "Käi uudistega kaasas",
     "sect6_mailinglist": "Ühine meie meililistiga ja saad endale uudiseid Toxi progressist.",
     "sect6_email": "meiliaadress",
     
     "sect6_needhelp": "Vajad abi?",
     "sect6_githubtoirc": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRCis</a>!"
+
+    "dev_links": "Arendaja lingid",
+    "dev_blog": "Arendamise blogi",
+    "dev_docs": "Dokumentatsioon",
+
+    "donate_header": "Anneta",
+    "donate_about": "Et näha, kuidas sa saad annetades aidata, palun külasta meie <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">annetuste</a> wiki artiklit. Aitäh!"
+
 }
