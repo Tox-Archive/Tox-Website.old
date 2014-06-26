@@ -1,0 +1,68 @@
+{
+    "_author": "5685C4A059D5",
+    "_language": "Tiếng Việt",
+    "_comment": "N/A",
+    "_ind": 0,
+
+    "lf_title": "Tox: Một kiểu nhắn tin nhanh mới",
+
+    "nv_home": "Trang chủ",
+    "nv_about": "Giới thiệu",
+    "nv_features": "Tính năng",
+    "nv_contribute": "Đóng góp",
+    "nv_wiki": "Wiki",
+
+    "sect1_slogan": "Một kiểu nhắn tin nhanh mới",
+    "sect1_description": "Với sự gia tăng của các chương trình giám sát từ chính phủ, Tox cung cấp một ứng dụng dễ dùng cho phép bạn kết nối với bạn và gia đình mà không sợ nghe lén. Trong khi các dịch vụ tên tuổi khác yêu cầu bạn trả tiền, Tox hoàn toàn miễn phí và không có quảng cáo.",
+    "sect1_learnmore": "Tìm hiểu thêm",
+    "sect1_download": "Tải xuống",
+    "sect1_nightly": "Bạn có thể tải các build nightly của Tox; lưu ý, chúng có thể chứa lỗi!",
+    "download_nightly": "Nightlies",
+    "download_warning": "Các bản nightly không dành cho người dùng thông thường, bạn có thể gặp lỗi, bị treo, và bực mình. Bạn đã được cảnh báo rồi đấy!",
+    "download_distro": "Chọn bản phân phối",
+
+    "sect2_abouttox": "Về Tox",
+
+    "sect2_aboutbody": "Ngày nay, mọi chính phủ có vẻ muốn biết chúng ta nói gì trên mạng. Tox được xây dựng trên cơ sở \"sự riêng tư đi trước\" , và chúng tôi không thoả hiệp. Sự an toàn của bạn là ưu tiên hàng đầu, và sẽ không có gì trên thế giới thay đổi được điều đó.",
+
+
+    "sect3_coolfeatures": "Nhắn tin tức thì, hội nghị video, và hơn thế nữa",
+
+    "sect3_messages": "Nhắn tin",
+    "sect3_messages_blurb": "Ngay trên đầu ngón tay.\n Luôn cập nhật với tin nhắn tức thời mã hoá",
+
+    "sect3_voice": "Gọi điện",
+    "sect3_voice_blurb": "Luôn giữ liện lạc.\n Tạo các cuộc gọi miễn phí và bảo mật từ Tox tới Tox.",
+
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Thấy mới tin.\n Gặp gỡ mặt đối mặt với một cuộc gọi video bảo mật.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_security": "An ninh",
+    "sect4_security_blurb": "Tox coi trọng sự riêng tư của bạn.<br/>Với <span class=\"text bold\">bảo mật hàng đầu</span>, bạn có thể yên tâm khi biết rằng những người duy nhất đọc tin nhắn của bạn là những người nhận.",
+
+    "sect4_easy": "Dễ sử dụng",
+    "sect4_easy_blurb": "Không giống những giải pháp nhắn tin bảo mật khác, Tox không yêu cầu bạn phải là lập trình viên để sử dụng nó. Tox đi kèm một giao diện <span class=\"text bold\">dễ sử dụng</span>, cho phép bạn tập trung vào những cuộc nói chuyện.",
+
+    "sect4_freedom": "Tự do",
+    "sect4_freedom_blurb": "Tox cho phép bạn tự do sử dụng và thay đổi. Bạn hoàn toàn được phép cả sử dụng lẫn thay đổi Tox. Thêm nữa, <span class=\"text bold\">Tox sẽ không bao giờ làm phiền bạn với quảng cáo, hoặc yêu cầu bạn trả tiền</span>.",
+
+    "sect6_freesoftware": "Phần mềm tự do",
+    "sect6_developers": "Chúng tôi đến từ <span class=\"text normal\">mọi nơi trên thế giới</span>.",
+
+    "sect6_mailinglist_title": "Luôn được cập nhât",
+    "sect6_mailinglist": "Đăng kí vào danh sách gửi thư để được cập nhật về quá trình phát triển Tox.",
+    "sect6_email": "địa chỉ email",
+
+    "sect6_needhelp": "Cần giúp đỡ?",
+    "sect6_githubtoirc": "Bắt đầu dự án của riêng bạn và hỏi chúng tôi trên <span class=\"text normal\">GitHub</span>, hoặc trên <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">phòng chat IRC</a>!",
+
+    "dev_links": "Dành cho nhà phát triển",
+    "dev_blog": "Blog phát triển",
+    "dev_docs": "Tài liệu",
+
+    "donate_header": "Ủng hộ",
+    "donate_about": "Để xem bạn có thể giúp như thế nào qua việc ủng hộ, xin hãy xem <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donations</a> bài viết trên wiki. Xin cảm ơn!"
+
+}
