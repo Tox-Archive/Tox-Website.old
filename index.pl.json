@@ -56,7 +56,7 @@
     "sect6_email": "Adres e-mail",
     
     "sect6_needhelp": "Potrzebujesz pomocy?",
-    "sect6_githubtoirc": "Zacznij swój projekt i zadaj nam swoje pytania w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>, lub na naszym kanale <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Zacznij swój projekt i zadaj nam swoje pytania w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>, lub na naszym kanale <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "dev_links": "Linki dla deweloperów",
     "dev_blog": "Blog deweloperski",
