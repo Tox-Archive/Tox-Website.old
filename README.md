@@ -15,7 +15,7 @@ Make a list of all the languages ``ls | tr ' ' '\n' | grep html | tr '.' '\n' | 
 Make a folder for every language ``cat list | xargs mkdir``.  
 Move a language in to a folder ``cat list | xargs -I % mv %.html %/index.html``.  
 Make an index page ``ln -s en/index.html .`` Change en to a default language  
-cat list | xargs -I % ln -s assets %
+`cat list | xargs -I % ln -s assets %`.  
 Remove the list file ``rm list``  
 
 Translations
