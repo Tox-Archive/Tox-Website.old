@@ -14,8 +14,10 @@ Move in to the site folder ``cd site``
 Make a list of all the languages ``ls | tr ' ' '\n' | grep html | tr '.' '\n' | grep -v 'html' > list``.  
 Make a folder for every language ``cat list | xargs mkdir``.  
 Move a language in to a folder ``cat list | xargs -I % mv %.html %/index.html``.  
-Make an index page ``ln -s en/index.html .`` Change en to a default language  
-cat list | xargs -I % ln -s assets %
+Make an index page ``ln -s en/index.html``. 
+<br/>
+Change EN to a default language ``cat list | xargs -I % ln -s assets %``.
+<br/>
 Remove the list file ``rm list``  
 
 Translations
