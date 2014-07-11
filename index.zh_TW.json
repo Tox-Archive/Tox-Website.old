@@ -4,7 +4,7 @@
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox：新型即時通訊",
 
     "nv_home": "首頁",
     "nv_about": "關於",
@@ -12,21 +12,21 @@
     "nv_contribute": "貢獻",
     "nv_wiki": "Wiki",
 
-    "sect1_slogan": "屬於所有人的安全通訊！",
-    "sect1_description": "Tox 是個易於使用的軟體，來自政府日益加劇的網路監控計畫下，他能幫助您與朋友和親人在網路上進行資訊交流時避免任何人的監聽。",
+    "sect1_slogan": "新型即時通訊",
+    "sect1_description": "來自政府日益加劇的網路監控計畫下，Tox 提供易於使用的應用，，能幫助您與朋友和親人在網路上進行資訊交流時避免任何人的監聽。當其他知名服務要求您為新功能付款時，Tox 是完全免費並沒有任何廣告的！",
     "sect1_learnmore": "瞭解更多",
     "sect1_download": "下載",
     "sect1_nightly": "您可以下載 Tox 開發版；不過請小心，這些版本可能含有 bug！",
     "download_nightly": "Nightlies",
     "download_warning": "Nightlies 版本不是給心臟無力者使用，您可能會遇到 bug, crashes 和與很大的挫折。 您已經被警告過了！",
-    "download_distro": "請選擇您要的發行版本",
+    "download_distro": "請選擇您的發行版本",
 
     "sect2_abouttox": "關於 Tox",
 
-    "sect2_aboutbody": "Tox 的理念是防止您的個人隱私在您與朋友或家人進行交流時受到侵犯。\n市面上有些知名服務提供類似功能，但都是需要付費才能獲得完整功能。然而 Tox 無論在價格和自由上都是 free 「自由/免費」的。\n您想用 Tox 做什麼都是您的自由。",
+    "sect2_aboutbody": "現今，所有的政府似乎對我們在網路上的言論有興趣。Tox 基於 \"隱私至上\" 的理念，並且我們不會有任何讓步。您的安全是我們的最優先考量，並且不會因世上任何東西而改變。",
 
 
-    "sect3_coolfeatures": "一些很酷的特性",
+    "sect3_coolfeatures": "即時通訊，視訊會議以及更多",
 
     "sect3_messages": "文字通訊",
     "sect3_messages_blurb": "您指尖敲出的信息將立即被完全加密。",
@@ -35,17 +35,16 @@
     "sect3_voice_blurb": "保持聯繫\n使用 Tox 進行免費並安全的語音通話。",
 
     "sect3_video": "視訊通話",
-    "sect3_video_blurb":  "眼見為憑\n安全的以視訊功能面對面交談。",
+    "sect3_video_blurb":  "眼見為憑\n面對面的安全視訊通話。",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "即時通訊，視訊會議以及更多",
 
     "sect4_security": "安全",
     "sect4_security_blurb": "Tox 為您嚴守隱私。<br/>使用<span class=\"text bold\">頂尖的加密技術</span>，您可以愜意地知道，對方是唯一看的到您的訊息的人。",
 
     "sect4_easy": "易於使用",
-    "sect4_easy_blurb": "不像別的加密聊天程式，您並不需要成為電腦高手才能使用它。Tox <span class=\"text bold\">簡單易用</span>，任何人都能輕鬆上手。讓您把精力都集中在聊天之上。",
+    "sect4_easy_blurb": "不像別的安全聊天方案，您並不需要成為程式設計師才能使用它。Tox 打破限制而提供<span class=\"text bold\">簡單易用</span>的介面，讓您把精力都集中在聊天之上。",
 
     "sect4_freedom": "自由",
     "sect4_freedom_blurb": "Tox 不但讓您免費使用，也讓您自由修改。您可以任意的使用和修改 Tox。此外， <span class=\"text bold\">Tox 永遠不會發廣告騷擾您，也不會讓您為了一些附加功能付錢</span>。",
