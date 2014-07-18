@@ -63,4 +63,8 @@
     
     "sect6_needhelp": "Hulp nodig?",
     "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    
+    "missedplatform": "Niet uw besturingssysteem?",
+    "connect": "voor"
+
 }
