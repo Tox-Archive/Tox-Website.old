@@ -63,7 +63,14 @@
     
     "sect6_needhelp": "Hulp nodig?",
     "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
-    
+
+    "dev_links": "Links voor developers",
+    "dev_blog": "Devblog",
+    "dev_docs": "Documentatie",
+
+    "donate_header": "Doneer",
+    "donate_about": "Als u wilt weten hoe u uw steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">Donaties</a>. Bij voorbaat dank!",
+
     "missedplatform": "Niet uw besturingssysteem?",
     "connect": "voor"
 
