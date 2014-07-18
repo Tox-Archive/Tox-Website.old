@@ -5,13 +5,13 @@
     "_ind": 3,
 
     "lf_title": "Tox: nowy sposób komunikacji",
-    
+
     "nv_home": "Główna",
     "nv_about": "O Projekcie",
     "nv_features": "Funkcje",
     "nv_contribute": "Wsparcie",
     "nv_wiki": "Wiki",
-    
+
     "sect1_slogan": "Bezpieczna wymiana wiadomości dla wszystkich.",
     "sect1_description": "Wraz z rosnącym globalnym systemem rządowej inwigilacji, Tox zapewnia prostą w użyciu aplikację, która pozwoli Ci na kontakt i wymianę wiadomości z Twoimi znajomymi oraz bliskimi bez obaw o to, że ktoś Cię podsłuchuje. Podczas gdy inne znane serwisy wymagają opłat, Tox jest całkowicie bezpłatny i pozbawiony reklam.",
     "sect1_learnmore": "Więcej",
@@ -22,39 +22,39 @@
     "download_distro": "Proszę wybierz swoją dystrubucję",
 
     "sect2_abouttox": "O Projekcie",
-    
+
     "sect2_aboutbody": "Obecnie światowe rządy wydają się niezwykle zainsteresowane tym, co mówisz w Internecie. Tox został stworzony z żelazną zasadą \"prywatność przede wszystkim\", a my nie jesteśmy skłonni do kompromisów. Twoje bezpieczeństwo ma dla nas najwyższy priorytet i nie ma na świecie niczego co sprawiłoby, że zmienilibyśmy nasze poglądy.",
-    
+
 
     "sect3_coolfeatures": "Wiadomości, rozmowy wideo i wiele więcej",
-    
+
     "sect3_messages": "Wiadomości",
     "sect3_messages_blurb": "Prywatne, szyfrowane wiadomości dostępne na wyciągnięcie ręki!",
-    
+
     "sect3_voice": "Rozmowy",
     "sect3_voice_blurb": "Bądź w kontakcie.\n Dzwoń do znajomych używając bezpłatnej i bezpiecznej funkcji rozmów.",
-    
+
     "sect3_video": "Rozmowy wideo",
     "sect3_video_blurb": "Zobaczyć znaczy uwierzyć.\n Porozmawiaj twarzą w twarz ze swoimi znajomymi przy użyciu opcji bezpiecznej rozmowy video.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
+
     "sect4_security": "Bezpieczeństwo",
     "sect4_security_blurb": "Tox traktuje Twoją prywatność bardzo poważnie.\n Dzięki <span class=\"text bold\">zaawansowanej technologii szyfrowania</span> masz pewność, że jedynymi osobami które przeczytają Twoją wiadomość będziecie Ty i Twoi odbiorcy.",
-    
+
     "sect4_easy": "Łatwość w obsłudze",
     "sect4_easy_blurb": "W przeciwieństwie do innych aplikacji umożliwiających bezpieczną komunikację, Tox nie wymaga od Ciebie bycia zaawansowanym użytkownikiem komputera. Tox jest gotowy do uruchomienia zaraz po pobraniu, stworzony z myślą o wszystkich użytkownikach i bazuje na prostym interfejsie skupionym na <span class=\"text bold\">łatwości w obsłudze</span>.",
-    
+
     "sect4_freedom": "Wolność",
     "sect4_freedom_blurb": "Masz prawo do zarówno użytkowania, jak i modyfikowania Toxa.\n Ponadto, <span class=\"text bold\">Tox nigdy nie będzie męczyć Cię reklamami, ani wymagać od Ciebie płatności za jakąkolwiek funkcję programu</span>.",
-    
+
     "sect6_freesoftware": "Wolne oprogramowanie",
     "sect6_developers": "Jesteśmy świetną ekipą zebraną z <span class=\"text normal\">całego świata</span>!",
-    
+
     "sect6_mailinglist_title": "Zostań w kontakcie",
     "sect6_mailinglist": "Zapisz się na naszą listę, aby otrzymywać najnowsze informacje o postępie prac.",
     "sect6_email": "Adres e-mail",
-    
+
     "sect6_needhelp": "Potrzebujesz pomocy?",
     "sect6_githubtoirc": "Zacznij swój projekt i zadaj nam swoje pytania w sieci <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>, lub na naszym kanale <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
@@ -63,5 +63,10 @@
     "dev_docs": "Dokumentacja",
 
     "donate_header": "Wspomóż nas",
-    "donate_about": "Aby zobaczyć jak możesz pomóc przekazując dotację, odwiedź <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">artykuł dotyczący donacji</a> w naszej encyklopedii. Dziękujemy!"
+    "donate_about": "Aby zobaczyć jak możesz pomóc przekazując dotację, odwiedź <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">artykuł dotyczący donacji</a> w naszej encyklopedii. Dziękujemy!",
+
+    "connect": "dla",
+    "missedplatform": "Inny system?"
+
+
 }
