@@ -5,60 +5,63 @@
     "_ind": 0,
 
     "lf_title": "Tox",
-    
+
     "nv_home": "ホーム",
     "nv_about": "Toxについて",
     "nv_features": "特長",
     "nv_contribute": "貢献する",
     "nv_wiki": "ウィキ",
-    
+
     "sect1_slogan": "皆のためのセキュアなメッセージング、まもなく登場",
     "sect1_description": "政府からの監視が増加している中、Toxアプリケーションを使用すれば簡単かつ安全に友達や家族とメッセージすることができます。誰もあなたの会話を盗み聞きすることはできません。",
     "sect1_learnmore": "詳細はこちら",
     "sect1_download": "ダウンロード",
     "sect1_notavail": "「Tox」は準備中です。　ダウンロードはすぐに利用できるになります",
-    
+
     "sect2_abouttox": "Toxとは",
-    
+
     "sect2_aboutbody": "Toxはあなたのプライバシーを損なうことなく、お友達やご家族とコミュニケーションできるように作られました。\n他のサービスと違い、Toxは完全に無料です。",
-    
+
     "sect3_coolfeatures": "幾つかのクールな機能",
-    
+
     "sect3_messages": "メッセージ",
     "sect3_messages_blurb": "指先一つで簡単に。\nインスタントメッセージは常に暗号化されています。",
-    
+
     "sect3_voice": "電話",
     "sect3_voice_blurb": "いつも近くに。 \n他のToxユーザーに無料で電話を。",
-    
+
     "sect3_video": "ビデオ",
     "sect3_video_blurb": "百聞は一見にしかず。\n安全なビデオ通話で顔を見ながら話すことができます。",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
+
     "sect4_principles": "インスタントメッセージング、ビデオ会議、そして",
-    
+
     "sect4_security": "セキュリティ",
     "sect4_security_blurb": "Toxにとって重要なのはあなたのプライバシーを守ることです。<br/><span class=\"text bold\">強固な暗号化</span>で、あなたが送った相手以外は誰もあなたのメッセージを読むことができないので安心です。",
-    
+
     "sect4_easy": "使い勝手の良さ",
     "sect4_easy_blurb": "他のセキュアなメッセージングソリューションとは異なり、Toxは、あなたがそれを使用するためにコンピュータープログラマーである必要はありません。Toxの使いやすいインタフェースはインストールしたその瞬間から手に馴染み、すぐに会話に集中することができます。",
-    
+
     "sect4_freedom": "自由",
     "sect4_freedom_blurb": "Toxは使うことも、変更することも自由です。完全に自由です。あなたは、Toxを変更することができます。さらに、<span class=\"text bold\">Toxは広告がありません。Toxには常に無料です。</span>",
-    
-    
+
+
     "sect5_contribute": "貢献する",
-    
+
     "sect5_github": "力を貸してください！私たちは、<span class=\"text color normal white\">GitHub</span>で開発をしています。コーディング経験は必要ありません。",
     "sect5_sourceongithub": "GitHubの上のソース",
-    
+
     "sect6_freesoftware": "フリーソフトウェア",
     "sect6_developers": "私たちは、世界中からクールなメンバーを集っています。",
-    
+
     "sect6_mailinglist_title": "輪に加わってください",
     "sect6_mailinglist": "Toxの最新情報を得るにはメーリングリストに参加してください。",
     "sect6_email": "メールアドレス",
-    
+
     "sect6_needhelp": "助けが必要ですか？",
-    "sect6_githubtoirc": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上で問い合わせてください。もしくは<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>で！"
+    "sect6_githubtoirc": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上で問い合わせてください。もしくは<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>で！",
+
+    "connect": "向け",
+    "missedplatform": "あなたのプラットフォームではない?"
 }

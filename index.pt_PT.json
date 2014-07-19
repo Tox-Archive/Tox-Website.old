@@ -5,13 +5,13 @@
     "_ind": 0,
 
     "lf_title": "Tox",
-    
+
     "nv_home": "Home",
     "nv_about": "Acerca",
     "nv_features": "Funcionalidades",
     "nv_contribute": "Contribuir",
     "nv_wiki": "Wiki",
-    
+
     "sect1_slogan": "Mensagens seguras para todos, em breve.",
     "sect1_description": "Com o crescimento de programas de vigilância governamental, Tox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado.",
     "sect1_learnmore": "Saber mais",
@@ -20,48 +20,51 @@
     "download_nightly": "Nightlies",
     "download_warning": "Os nightlies não são para os de coração fraco, pode encontrar erros e grandes doses de frustração. Você foi avisado!",
     "download_distro": "Por favor escolha a sua distribuição",
-    
+
     "sect2_abouttox": "Sobre o Tox",
-    
+
     "sect2_aboutbody": "Hoje em dia todos os governos parecem estar interessados no que fazemos online. Tox é construído com base na ideia de manter contacto com amigos e família sem que a sua privacidade seja violada.\n Enquanto que outros serviços exigem um pagamento para desbloquear funcionalidades, Tox é livre e gratuito.\n O que significa que o utilizador é livre para fazer o que desejar com o software.",
-    
-    
+
+
     "sect3_coolfeatures": "Algumas funcionalidades interessantes",
-    
+
     "sect3_messages": "Mensagens",
     "sect3_messages_blurb": "Na palma da sua mão.\n Esteja sempre informado, com mensagens instantâneas e encriptadas.",
-    
+
     "sect3_voice": "Chamadas",
     "sect3_voice_blurb": "Mantenha-se em contacto.\n Faça chamadas gratuitas e seguras de Tox para Tox.",
-    
+
     "sect3_video": "Vídeo",
     "sect3_video_blurb": "Ver para crer.\n Encontre-se cara a cara com videochamadas seguras.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
+
     "sect4_principles": "Mensagens instantâneas, videoconferências e mais",
-    
+
     "sect4_security": "Segurança",
     "sect4_security_blurb": "Tox leva a sua privacidade a sério.<br/>Com uma<span class=\"text bold\"> poderosa encriptação </span> pode relaxar sabendo que as suas mensagens são apenas vistas por quem você quer.",
-    
+
     "sect4_easy": "Fácil de usar",
     "sect4_easy_blurb": "Ao contrário de outras soluções de software do género, Tox não necessita que se seja um mestre dos computadores para o utilizar. Tox vem com um interface <span class=\"text bold\">fácil de usar</span> que lhe permite concentrar-se nas suas conversas.",
-    
+
     "sect4_freedom": "Liberdade",
     "sect4_freedom_blurb": "Tox é gratuito para usar e livre para modificar. O utilizador é completamente livre para usar e modificar o software. Além disto, <span class=\"text bold\">Tox nunca o irá perturbar com anúncios ou exigir pagamento por funcionalidades.</span>",
-    
+
     "sect6_freesoftware": "Software livre",
     "sect6_developers": "Somos boas pessoas do <span class=\"text normal\">mundo inteiro</span>.",
-    
+
     "sect6_mailinglist_title": "Mantenha-se em contacto",
     "sect6_mailinglist": "Subscreva à nossa mailing list para ser notificado acerca das actualizações no progresso do Tox.",
     "sect6_email": "endereço de email",
-    
+
     "sect6_needhelp": "Precisa de ajuda?",
     "sect6_githubtoirc": "Comece o seu próprio projecto e contacte-nos no <span class=\"text normal\">GitHub</span> ou no <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "dev_links": "Links para programadores",
     "dev_blog": "Blog de desenvolvimento",
-    "dev_docs": "Documentação"
+    "dev_docs": "Documentação",
+
+    "connect": "para",
+    "missedplatform": "Não é a tua plataforma?"
 
 }
