@@ -72,6 +72,7 @@
       var x = "uTox"
     }
     if (b == "Linux") {
+      var z = "linux"
       var x = "Venom"
     }
     if (b == "Other") {
