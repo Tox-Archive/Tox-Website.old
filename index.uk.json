@@ -1,10 +1,10 @@
 {
-    "_author": "Kona-chan, lysenkobv",
+    "_author": "Kona-chan, lysenkobv, dvor",
     "_language": "Українська",
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox: Новий спосіб обміну повідомленнями",
     
     "nv_home": "Головна",
     "nv_about": "Про Tox",
@@ -56,5 +56,15 @@
     "sect6_joinongithub": "Допоможіть створити TOX на <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Потрібна допомога?",
-    "sect6_githubtoirc": "Розпочніть власний проект та завітайте до нас на <span class=\"text normal\">GitHub</span> або в <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Розпочніть власний проект та завітайте до нас на <span class=\"text normal\">GitHub</span> або в <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "Посилання для розробників",
+    "dev_blog": "Блог розробників",
+    "dev_docs": "Документація",
+
+    "donate_header": "Пожертвувати",
+    "donate_about": "Дізнайтесь більше, як допомогти проекту на нашій вікі-сторінці про <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">пожертвування</a>. Дякуємо!",
+
+    "missedplatform": "Інші платформи",
+    "connect": "для"
 }
