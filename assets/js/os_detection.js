@@ -12,7 +12,7 @@
       if (a.indexOf("Win32") !== -1 || a.indexOf("Win64") !== -1) {
         return "Windows"
       }
-      if (a.indexOf("Linux") !== -1) {
+      if (a.indexOf("Linux") !== -1) || a.indexOf("Linux x86_64") !== -1) {
         return "Linux"
       }
       if (/Mac OS X 10.[0-5]\D/.test(b)) {
@@ -71,6 +71,9 @@
       var x = "uTox"
     }
     if (b == "Linux") {
+      var x = "Venom"
+    }
+    if (b == "Other") {
       var x = "Venom"
     }
     var c = window.site.archType = window.site.getArchType();
