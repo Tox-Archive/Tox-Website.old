@@ -97,5 +97,6 @@
       document.write("<a href=\"https://tox.im/downloads/linux.html\"style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>",download,"</a><br>");
       document.write(x," ",connect," ",b);
       document.write("<br><a href=\"https://tox.im/downloads/\">",missedplatform,"</a>");
+    }
   })()
 })();
