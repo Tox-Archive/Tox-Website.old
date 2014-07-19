@@ -12,7 +12,7 @@
       if (a.indexOf("Win32") !== -1 || a.indexOf("Win64") !== -1) {
         return "Windows"
       }
-      if (a.indexOf("Linux") !== -1) || a.indexOf("Linux x86_64") !== -1) {
+      if (a.indexOf("Linux") !== -1 || a.indexOf("Linux x86_64") !== -1) {
         return "Linux"
       }
       if (/Mac OS X 10.[0-5]\D/.test(b)) {
@@ -62,6 +62,7 @@
     if (b !== "windows") {
       d.className = d.className.replace("windows", b)
     }
+
     if (b == "OS X") {
       var z = "mac"
       var x = "qTox"
@@ -88,12 +89,17 @@
       a = ""
     }
     if ((b == "OS X") || ("Windows")) {
-      document.write("<a href=\"https://tox.im/download/",z,"/",a,"\" style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>Download</a><br>");
+      document.write("<a href=\"https://tox.im/download/",z,"/",a,"\" style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>",download,"</a><br>");
+      document.write(x," ",connect," ",b);
+      document.write("<br><a href=\"https://tox.im/downloads/\">",missedplatform,"</a>");
+    }
+    if (b == "Linux") {
+      document.write("<a href=\"https://tox.im/downloads/linux.html\"style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>",download"</a><br>");
       document.write(x," ",connect," ",b);
       document.write("<br><a href=\"https://tox.im/downloads/\">",missedplatform,"</a>");
     }
     if (b == "Other") {
-      document.write("<a href=\"https://tox.im/downloads/linux.html\"style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>Download</a><br>");
+      document.write("<a href=\"https://tox.im/downloads/\"style=\"background-image:url('./assets/imgs/button-caution.png');\" class=\"button large\"><span class=\"icon download\"></span>",download,"</a><br>");
     }
   })()
 })();
