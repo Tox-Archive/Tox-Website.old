@@ -64,7 +64,7 @@
     }
     if (b == "OS X") {
       var z = "mac"
-      var x = "Poison"
+      var x = "qTox"
     }
     if (b == "Windows") {
       var z = "windows"
