@@ -67,6 +67,9 @@
 
     "dev_links": "Links para programadores",
     "dev_blog": "Blog de desarrollo",
-    "dev_docs": "Documentación"
+    "dev_docs": "Documentación",
+
+    "connect": "para",
+    "missedplatform": "¿No es tu sistema?"
 
 }
