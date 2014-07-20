@@ -4,7 +4,7 @@
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox: Новы спосаб абмену паведамленнямі",
     
     "nv_home": "Хатняя",
     "nv_about": "Пра праект",
@@ -60,5 +60,13 @@
     "sect6_joinongithub": "Дапамагайце рабіць TOX на <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Патрэбная дапамога?",
-    "sect6_githubtoirc": "Пачынайце ўласны праект і зьвяртайцеся да нас на <span class=\"text normal\">GitHub</span> або ў <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Пачынайце ўласны праект і зьвяртайцеся да нас на <span class=\"text normal\">GitHub</span> або ў <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "sect6_mailinglist_title": "Будзем на сувязі",
+    "sect6_mailinglist": "Падпішыцеся на нашу рассылку каб сачыць за навінамі распрацоўкі Tox-а.",
+    "sect6_email": "электронна пошта",    
+    
+    "dev_links": "Спасылкі для распрацоўнікаў",
+    "dev_blog": "Блог распрацоўнікаў",
+    "dev_docs": "Дакументацыя"
 }
