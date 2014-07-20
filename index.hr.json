@@ -4,13 +4,13 @@
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox: Nova vrsta slanja istovremenih poruka",
     
     "nv_home": "Početna",
     "nv_about": "O projektu",
     "nv_features": "Značajke",
     "nv_contribute": "Pridonesi",
-    
+    "nv_wiki": "Wiki", 
     "sect1_slogan": "Sigurna komunikacija za svakoga, dolazi uskoro.",
     "sect1_description": "S usponom rasprostranjenih vladinih špijunirajućih programa, Tox je jednostavna aplikacija koja Vam omogućava sigurnu komunikaciju s prijateljima i voljenima bez prisluškivanja.",
     "sect1_learnmore": "Saznajte više",
@@ -60,5 +60,13 @@
     "sect6_joinongithub": "Pomozite razviti TOX na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Trebate pomoć?",
-    "sect6_githubtoirc": "Započnite Vaš vlastiti projekt i pitajte na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Započnite Vaš vlastiti projekt i pitajte na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "sect6_mailinglist_title": "Ostanimo u kontaktu",
+    "sect6_mailinglist": "Prijavite se na našu mailing listu za obavijesti o tijeku Tox-a",
+    "sect6_email": "e-mail adresa", 
+    
+    "dev_links": "Poveznice za programere",
+    "dev_blog": "Blog začetnika",
+    "dev_docs": "Dokumentacija"
 }
