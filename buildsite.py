@@ -11,6 +11,8 @@ try:
 except ImportError:
     import json as simplejson
 
+AUTHORITATIVE = "en"
+
 def do_format_template(name, template):
     basename = ".".join(name.split(".")[:-1])
     if not basename:
@@ -19,6 +21,11 @@ def do_format_template(name, template):
     language_files = [lf for lf in os.listdir(os.getcwd())
                       if lf.endswith(".json") and lf.startswith(basename + ".")]
     print("{0} found.".format(len(language_files)))
+    print("Using {0}.{1}.json as a base.".format(basename, AUTHORITATIVE))
+
+    with open("{0}.{1}.json".format(basename, AUTHORITATIVE), "r") as af:
+        main_values = simplejson.load(af)
+
     renderer = pystache.renderer.Renderer()
     lang_values = {}
     lang_list = []
@@ -38,7 +45,10 @@ def do_format_template(name, template):
         lang_list.append({"lang_name": values["_language"],
                           "lang_shortcode": language,
                           "ind": values["_ind"]})
-        lang_values[language] = values
+
+        temp = main_values.copy()
+        temp.update(values)
+        lang_values[language] = temp
     lang_list.sort(key=lambda x: x["lang_shortcode"])
     lang_list[-1]["last"] = 1
     for language in language_files:
@@ -48,7 +58,8 @@ def do_format_template(name, template):
                 outfile.write(renderer.render(template, lang_values[language],
                               languages=lang_list).encode("utf-8"))
             else:
-                outfile.write(renderer.render(template, lang_values[language], languages=lang_list))
+                outfile.write(renderer.render(template, lang_values[language],
+                              languages=lang_list))
 
 def main():
     if not os.path.isdir(os.path.join(os.getcwd(), "site")):
