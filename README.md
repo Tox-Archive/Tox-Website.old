@@ -39,20 +39,6 @@ The JSON files used by buildsite.py have some special names which are used by th
 ``_author``: The creator(s) of the file.  
 ``_direction``: ``rtl`` or ``ltr`` only. Specifies the text direction of the language. If you leave this key out, it will be left-to-right.
 
-What we have so far
-===================
-
-**Verified**:
-- English
-- French (@irungentoo)
-- German (@sudden6)
-- Russian (@stqism)
-- Hebrew (@GreenLunar)
-- Arabic (@Tanjoodo)
-- Italian (@trapped)
-
-*Note: You can still submit pull requests for verified languages.*
-
-**Needing verification (from someone who isn't the original translator)**:
-
-*everything else not listed above*
+Language Maintainers
+====================
+Please visit the [Translations](https://wiki.tox.im/Translations) page on the Tox Wiki. If you want to volunteer to maintain a language (keep it up to date), please get in contact with [Proplex](https://wiki.tox.im/User:Proplex).
