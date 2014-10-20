@@ -1,72 +1,28 @@
 {
-    "_author": "Youremom '8ax'",
-    "_language": "Hrvatski",
-    "_comment": "Only translate from this file, not the others!",
-    "_ind": 0,
-
-    "lf_title": "Tox: Nova vrsta slanja istovremenih poruka",
-    
-    "nv_home": "Početna",
-    "nv_about": "O projektu",
-    "nv_features": "Značajke",
-    "nv_contribute": "Pridonesi",
-    "nv_wiki": "Wiki", 
-    "sect1_slogan": "Sigurna komunikacija za svakoga, dolazi uskoro.",
-    "sect1_description": "S usponom rasprostranjenih vladinih špijunirajućih programa, Tox je jednostavna aplikacija koja Vam omogućava sigurnu komunikaciju s prijateljima i voljenima bez prisluškivanja.",
-    "sect1_learnmore": "Saznajte više",
-    "sect1_download": "Preuzmite",
-    "sect1_notavail": "Tox još nije završen, preuzimanja će biti dostupna uskoro!",
-    
-    
-    "sect2_abouttox": "O projektu Tox",
-    
-    "sect2_aboutbody": "Tox je stvoren s idejom mogućnosti komunikacije s prijateljima i obitelji bez povrede Vaše privatnosti.\n Dok ostali poznati servisi zahtijevaju plaćanje da bi se otključale značajke, Tox je besplatan i slobodan.\n To znači da s Tox-om možete raditi što god poželite.",
-    
-    
-    "sect3_coolfeatures": "Neke zanimljive značajke",
-    
-    "sect3_messages": "Poruke",
-    "sect3_messages_blurb": "Na vršcima Vaših prstiju.\n Uvijek ste u toku s instantim enkriptiranim porukama.",
-    
-    "sect3_voice": "Pozivi",
-    "sect3_voice_blurb": "Ostanite u dodiru.\n Zovite Tox-na-Tox besplatno i sigurno.",
-    
-    "sect3_video": "Video",
-    "sect3_video_blurb": "Slika vrijedi tisuću riječi.\n Pričajte lice u lice sa sigurnim videopozivom.",
-    
-    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Trenutačne poruke, video konferencije i više",
-    
-    "sect4_security": "Sigurnost",
-    "sect4_security_blurb": "Tox smatra Vašu privatnost ozbiljnom.<br/>S <span class=\"text bold\">vodećom enkripcijom</span>, odahnite znajući da su jedini ljudi koji čitaju Vaše poruke oni kojima ih šaljete.",
-    
-    "sect4_easy": "Lakoća korištenja",
-    "sect4_easy_blurb": "Za razliku od drugih sigurnih IM solucija, Tox ne zahtijeva znanje programskih jezika da ga koristite. Tox dolazi s <span class=\"text bold\">jednostavnim</span> sučeljem koje Vam omogućava da se koncentrirate na Vaše razgovore.",
-    
-    "sect4_freedom": "Sloboda",
-    "sect4_freedom_blurb": "Tox je besplatan za korištenje i otvoren za modificiranje. Potpuno ste slobodni u korištenju i modificiranju Tox-a. Štoviše, <span class=\"text bold\">Tox Vas nikada neće zamarati s oglasima ili plaćanjem za otključavanje značajki.</span>",
-    
-    
-    "sect5_contribute": "Pridonesi",
-    
-    "sect5_github": "Želite pomoći? Mi koristimo <span class=\"text normal color white\">GitHub</span>.\n Iskustvo s programiranjem nije potrebno.",
-    "sect5_sourceongithub": "Izvorni kod na GitHubu",
-    
-    "sect6_freesoftware": "Slobodni softver",
-    "sect6_developers": "Mi smo zanimljivi ljudi <span class=\"text normal\">s cijelog svijeta</span>.",
-    
-    "sect6_jointheteam": "Učlanite se u tim",
-    "sect6_joinongithub": "Pomozite razviti TOX na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-    
-    "sect6_needhelp": "Trebate pomoć?",
-    "sect6_githubtoirc": "Započnite Vaš vlastiti projekt i pitajte na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
-    
-    "sect6_mailinglist_title": "Ostanimo u kontaktu",
-    "sect6_mailinglist": "Prijavite se na našu mailing listu za obavijesti o tijeku Tox-a",
-    "sect6_email": "e-mail adresa", 
-    
-    "dev_links": "Poveznice za programere",
-    "dev_blog": "Blog začetnika",
-    "dev_docs": "Dokumentacija"
+    "_author": "Youremom '8ax', tomosombolac",
+    "lf_title": "Tox: Nova vrsta slanja poruka",
+    "nv_home": "Početak",
+    "nv_contribute": "Doprinesite",
+    "sect1_slogan": "Nova vrsta slanja poruka",
+    "sect1_description": "Zbog porasta špijuniranja i nadzora, Tox donosi jednostavnu aplikaciju koja vam omogućuje sigurnu komunikaciju s prijateljima i obitelji bez prisluškivanja. I dok druge tvrtke zahtijevaju da platite otključavanje značajki, Tox je potpuno besplatan i bez reklama.",
+    "sect2_aboutbody": "Tox je stvoren s idejom komunikacije s prijateljima i obitelji bez povrede Vaše privatnosti.\n Dok ostali poznati servisi zahtijevaju plaćanje da bi se otključale značajke, Tox je besplatan i slobodan.\n To znači da s Toxom možete raditi što god poželite.",
+    "sect3_messages_blurb": "Na dohvat ruke.\n Budite uvijek u toku trenutačnim šifriranim porukama.",
+    "sect3_voice_blurb": "Ostanite u dodiru.\n Zovite s-Toxa-na-Tox besplatno i sigurno.",
+    "sect3_video_blurb": "Slika vrijedi tisuću riječi.\n Razgovarajte licem u lice sigurnim videopozivom.",
+    "sect4_security_blurb": "Tox ozbiljno shvaća Vašu privatnost.<br/>Zahvaljujući <span class=\"text bold\">vrhunskom šifriranju</span> možete odahnuti znajući da su jedini ljudi koji mogu čitati Vaše poruke oni kojima ih šaljete.",
+    "sect4_easy_blurb": "Za razliku od drugih sigurnih IM rješenja, Tox ne zahtijeva znanje programiranja da biste ga koristili. Tox dolazi s <span class=\"text bold\">jednostavnim</span> sučeljem koje Vam omogućuje da se koncentrirate na razgovor.",
+    "sect4_freedom_blurb": "Tox je besplatan za korištenje i otvoren za prilagodbu. Potpuno ste slobodni u korištenju i modificiranju Toxa. Štoviše, <span class=\"text bold\">Tox Vas neće zamarati s oglasima ili plaćanjem za otključavanje značajki.</span>",
+    "sect5_contribute": "Doprinesite",
+    "sect5_github": "Želite pomoći? Mi koristimo <span class=\"text normal color white\">GitHub</span>.\n Iskustvo u programiranju nije potrebno.",
+    "sect5_sourceongithub": "Izvorni kôd na GitHubu",
+    "sect6_freesoftware": "Slobodan softver",
+    "sect6_developers": "Mi smo zanimljivi ljudi <span class=\"text normal\">iz cijeloga svijeta</span>.",
+    "sect6_jointheteam": "Učlanite se",
+    "sect6_joinongithub": "Pomozite u razvoju Toxa na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubu</a>.",
+    "sect6_githubtoirc": "Započnite svoj vlastiti projekt i pitajte nas na <span class=\"text normal\">GitHubu</span> ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC-u</a>!",
+    "sect6_mailinglist": "Prijavite se na našu mailing listu za obavijesti o tijeku razvoja Toxa",
+    "dev_blog": "Blog programerâ",
+    "dev_docs": "Dokumentacija",
+    "donate_header": "Donirajte",
+    "donate_about": "Posjetite stranicu <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donations</a> na kojoj možete saznati kako pomoći donacijom. Hvala!"
 }
