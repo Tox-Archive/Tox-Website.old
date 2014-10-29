@@ -16,6 +16,8 @@
 	@import url('./assets/css/tuktuk.min.css');
 	@import url('./assets/css/tuktuk.theme.min.css');
 	@import url('./assets/css/tuktuk.icons.min.css');
+	@import url('./assets/css/font-awesome.css');
+	@import url('./assets/css/font-awesome.min.css');
 	</style>
 	<script>
 	var connect = "{{{connect}}}";
@@ -36,8 +38,8 @@
 				<a href="#features">{{{nv_features}}}</a>
 				<a href="https://wiki.tox.im">{{{nv_wiki}}}</a>
 				<a id="help" href="http://support.libtoxcore.so">{{{nv_support}}}</a>
-				<a href="https://www.facebook.com/toxproject"><span class="icon facebook" style="font-size: 15pt; float:right; margin-left:20px;"></span></a>
-				<a href="https://twitter.com/ProjectTox"><span class="icon twitter" style="font-size: 15pt; float:right; margin-left:20px;"></span></a>
+				<a href="https://www.facebook.com/toxproject"><span class="fa fa-facebook" style="font-size: 15pt; float:right; margin-left:20px;"></span></a>
+				<a href="https://twitter.com/ProjectTox"><span class="fa fa-twitter" style="font-size: 15pt; float:right; margin-left:20px;"></span></a>
 			</nav>
 		</div>
 	</header>
@@ -52,10 +54,10 @@
 		</div>
 		<div class="row text center">
 			<div class="column_3 offset_3">
-				<a href="https://wiki.tox.im/FAQ" class="button large secondary"><span class="icon info-sign"></span>{{{sect1_learnmore}}}</a>
+				<a href="https://wiki.tox.im/FAQ" class="button large secondary"><span class="fa fa-info-circle">&nbsp;</span>{{{sect1_learnmore}}}</a>
 			</div>
 			<div class="column_3">
-				<a href="/downloads" style="background-image:url('./assets/imgs/button-caution.png');" class="button large"><span class="icon download"></span>{{{sect1_download}}}</a><br>
+				<a href="/downloads" style="background-image:url('./assets/imgs/button-caution.png');" class="button large"><span class="fa fa-download">&nbsp;</span>{{{sect1_download}}}</a><br>
 				{{{sect1_nightly}}}
 			</div>
 		</div>
@@ -81,17 +83,17 @@
 			<img src="./assets/ss.png" alt="Screenshot" id="screenshot" class="full windows">
 		</div>
 		<div class="column_4 margin-bottom feature1">
-			<span class="icon comment" style="font-size: 45pt;"></span>
+			<span class="fa fa-comment" style="font-size: 45pt;"></span>
 			<h3 class="text bold">{{{sect3_messages}}}</h3>
 			<p>{{{sect3_messages_blurb}}}</p>
 		</div>
 		<div class="column_4 margin-bottom">
-			<span class="icon phone" style="font-size: 45pt;"></span>
+			<span class="fa fa-phone" style="font-size: 45pt;"></span>
 			<h3 class="text bold">{{{sect3_voice}}}</h3>
 			<p>{{{sect3_voice_blurb}}}</p>
 		</div>
 		<div class="column_4 margin-bottom">
-			<span class="icon group" style="font-size: 45pt;"></span>
+			<span class="fa fa-users" style="font-size: 45pt;"></span>
 			<h3 class="text bold">{{{sect3_video}}}</h3>
 			<p>{{{sect3_video_blurb}}}</p>
 		</div>
@@ -101,17 +103,17 @@
 <section class="bck theme padding">
 	<div class="row text center book">
 		<div class="column_4">
-			<span class="icon eye-close" style="font-size: 100pt;"></span>
+			<span class="fa fa-eye-slash" style="font-size: 100pt;"></span>
 			<h3 class="text bold">{{{sect4_security}}}</h3>
 			<p>{{{sect4_security_blurb}}}</p>
 		</div>
 		<div class="column_4">
-			<span class="icon comments" style="font-size: 100pt;"></span>
+			<span class="fa fa-weixin" style="font-size: 100pt;"></span>
 			<h3 class="text bold">{{{sect4_easy}}}</h3>
 			<p>{{{sect4_easy_blurb}}}</p>
 		</div>
 		<div class="column_4">
-			<span class="icon github-alt" style="font-size: 100pt;"></span>
+			<span class="fa fa-github-alt" style="font-size: 100pt;"></span>
 			<h3 class="text bold">{{{sect4_freedom}}}</h3>
 			<p>{{{sect4_freedom_blurb}}}</p>
 		</div>
@@ -127,18 +129,7 @@
 				&middot; <a href="https://libtoxcore.so/">{{{dev_docs}}}</a><br>
 				&middot; <a href="//blog.libtoxcore.so/">{{{dev_blog}}}</a><br>
 			</div>
-			<div class="column_4 offset_1">
-				<p class="text bold big">{{{sect6_mailinglist_title}}}</p>
-				{{{sect6_mailinglist}}}
-				<form action="//tox.us7.list-manage.com/subscribe/post?u=127f0bc6d65fa4f980565d751&amp;id=0cb34cab55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-					<div id="clear">
-						<input type="email" value="" style="border-radius: 5px 0px 0px 5px !important;" name="EMAIL" class="mce-email" id="mce-EMAIL" placeholder="{{{sect6_email}}}" required>
-					</div>
-					<div id="clear1">
-						<button type="submit" style="margin-top: 3px; margin-left:-2px; border-radius: 0px 5px 5px 0px !important;" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button icon envelope"></button>
-					</div>
-				</form>
-			</div>
+
 			<div class="column_3 offset_1">
 				<p class="text bold big">{{{sect6_needhelp}}}</p>
 				{{{sect6_githubtoirc}}}
