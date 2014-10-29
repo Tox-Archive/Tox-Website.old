@@ -153,19 +153,19 @@
 		</div>
 	</section>
 </footer>
+<!-- Piwik Code. Tox respects all DNT headers and uses self-hosted analytics. We anonymize the IPs and store the remaining data (Country, Browser, OS) for a month before it's purged. There are no server logs kept at all.-->
 <script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["trackPageView"]);
-_paq.push(["enableLinkTracking"]);
-
-(function() {
-	_paq.push(['setTrackerUrl', 'https://tox.im/piwik/piwik.php']);
-	_paq.push(["setSiteId", "1"]);
-	var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-	g.defer=true; g.async=true; g.src="https:./piwik/piwik.js"; s.parentNode.insertBefore(g,s);
-})();
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.tox.im/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
-
-<noscript><p><img src="//tox.im/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//piwik.tox.im/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 </body>
 </html>
