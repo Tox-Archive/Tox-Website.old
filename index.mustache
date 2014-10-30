@@ -27,7 +27,9 @@
 </head>
 
 <body {{#_direction}}dir="{{_direction}}"{{/_direction}}>
-
+        <!--[if lt IE 8]>
+            {{ie}}
+        <![endif]-->
 	<header class="bck light padding">
 		<div class="row">
 			<div class="column_2">
@@ -38,8 +40,8 @@
 				<a href="#features">{{{nv_features}}}</a>
 				<a href="https://wiki.tox.im">{{{nv_wiki}}}</a>
 				<a id="help" href="http://support.libtoxcore.so">{{{nv_support}}}</a>
-				<a href="https://www.facebook.com/toxproject"><span class="fa fa-facebook" style="font-size: 16.5pt; float:right; margin-left:20px;"></span></a>
-				<a href="https://twitter.com/ProjectTox"><span class="fa fa-twitter" style="font-size: 16.5pt; float:right; margin-left:20px;"></span></a>
+				<a href="https://www.facebook.com/toxproject"><span class="fa fa-facebook" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
+				<a href="https://twitter.com/ProjectTox"><span class="fa fa-twitter" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
 			</nav>
 		</div>
 	</header>
@@ -137,7 +139,7 @@
 							<input type="email" value="" style="border-radius: 5px 0px 0px 5px !important;" name="EMAIL" class="mce-email" id="mce-EMAIL" placeholder="{{{sect6_email}}}" required>
 						</div>
 						<div id="clear1">
-							<button type="submit" style="margin-top: 3px; margin-left:-2px; border-radius: 0px 5px 5px 0px !important;" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="fa fa-envelope-o"></button>
+							<button type="submit" style="width: 40px; line-height: 2.3em; margin-top: 3px; margin-left:-2px; border-radius: 0px 5px 5px 0px !important;" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="fa fa-envelope-o"></button>
 						</div>
 					</form>
 				</div>
