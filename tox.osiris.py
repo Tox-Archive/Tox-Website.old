@@ -1,24 +1,38 @@
-"""
-This is the OSIRIS model currently powering tox.im.
-How to use: move me to app/tox.py
-git clone this
-mv this to app/tox
-run buildsite.py like normal
-add mod = tox to a domain and restart
-"""
+def runonce():
+    return {}
+
 
 def reply(msg):
+    print msg['header']
+    try:
+        lang = msg['header']['Accept-Language'].split(',')[0].split('-')[0]
+    except:
+        lang = 'en'
 
-	try:
-		lang = msg['header']['Accept-Language'].split(',')[0].split('-')[0]
-	except:
-		lang = 'en'
-		
-	if msg['header']['PATH'] != '/assets':
-		if msg['header']['PATH'] != '/':
-			lang = msg['header']['PATH'].split('/',1)[1]
+    ip = msg['ip']
+    try:
+        msg['runonce'][ip] += 1
+    except:
+        msg['runonce'][ip] = 1
 
-	if msg['header']['PATH'].startswith('/assets'):
-		return { "code": 200, "file": msg['header']['PATH'].split('/',1)[1] }
-	else:
-		return { "code": 200, "file": "site/" + lang + ".html" }
+    if msg['header']['PATH'] == '/ip_stats':
+        dat = "<p>"
+        for ip in msg['runonce']:
+            dat = dat + \
+                '%s has visited this page %s times<br>' % (
+                    ip, msg['runonce'][ip])
+        dat += "</p><br>" + str(msg['runonce'])
+        print msg['runonce']
+        return {"code": 200, "msg": dat}
+
+    if msg['header']['PATH'] == '/downloads':
+        return {"code": 301, "msg": "wiki", "header": {"Location": "https://wiki.tox.im/Binaries"}}
+
+    if msg['header']['PATH'] != '/assets':
+        if msg['header']['PATH'] != '/':
+            lang = msg['header']['PATH'].split('/', 1)[1]
+
+    if msg['header']['PATH'].startswith('/assets'):
+        return {"code": 200, "file": msg['header']['PATH'].split('/', 1)[1]}
+    else:
+        return {"code": 200, "file": "site/" + lang + ".html", "header": {"Content-Type": 'text/html', "X-Powered-By": 'OSIRIS Mach/4'}}
