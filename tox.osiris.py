@@ -1,3 +1,6 @@
+from geoip import geolite2
+
+
 def runonce():
     return {}
 
@@ -8,6 +11,11 @@ def reply(msg):
         lang = msg['header']['Accept-Language'].split(',')[0].split('-')[0]
     except:
         lang = 'en'
+
+    if geolite2.lookup(msg['ip']).continent == 'EU':
+        xopt = 1
+    else:
+        xopt = 0
 
     ip = msg['ip']
     try:
@@ -21,7 +29,9 @@ def reply(msg):
             dat = dat + \
                 '%s has visited this page %s times<br>' % (
                     ip, msg['runonce'][ip])
-        dat += "</p><br>" + str(msg['runonce'])
+        dat += "</p><br>" + \
+            str(msg['runonce']) + "<br>You are in: " + \
+            geolite2.lookup(msg['ip']).continent
         print msg['runonce']
         return {"code": 200, "msg": dat}
 
@@ -35,4 +45,4 @@ def reply(msg):
     if msg['header']['PATH'].startswith('/assets'):
         return {"code": 200, "file": msg['header']['PATH'].split('/', 1)[1]}
     else:
-        return {"code": 200, "file": "site/" + lang + ".html", "header": {"Content-Type": 'text/html', "X-Powered-By": 'OSIRIS Mach/4'}}
+        return {"code": 200, "file": "site/" + lang + ".html", "header": {"Content-Type": 'text/html', "X-Powered-By": 'OSIRIS Mach/4'}, "xopt": xopt}
