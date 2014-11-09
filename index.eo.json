@@ -62,9 +62,9 @@
     
     "dev_links": "Programista ejoj",
     "dev_blog": "Programada blogo",
-    "dev_docs": "Dokumentado"
+    "dev_docs": "Dokumentado",
     "donate_header": "Donaci",
-	"donate_about": "Vidi kiel vi povas helpi ekstere de donacanta, bonvolu viziti nian <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donacan</a> vikian artikolon. Dankonas Vi!",
-	"missedplatform": "Ne via platformo?",
-	"connect": "por"
+    "donate_about": "Vidi kiel vi povas helpi ekstere de donacanta, bonvolu viziti nian <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donacan</a> vikian artikolon. Dankonas Vi!",
+    "missedplatform": "Ne via platformo?",
+    "connect": "por"
 }
