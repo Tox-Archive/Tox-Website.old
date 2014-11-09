@@ -4,14 +4,14 @@
     "_comment": "Initial Translation",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox: Nova Tipo de Tuja Mesaĝo",
 
     "nv_home": "Ĉefpago",
     "nv_about": "Pri",
     "nv_features": "Funkcioj",
     "nv_contribute": "Kontributi",
     "nv_wiki": "Viki",
-
+    "nv_support": "Bontenado",
     "sect1_slogan": "Sekura babilo por ĉiuj",
     "sect1_description": "Per la kresko de ŝtataj kaŝeaŭskultoj, Tox provizas tre facilan aplikaĵon ke allasas babili kun amikoj kaj la familio sen aliaj aŭskultas. Dum aliaj popularaj servoj postulas monon por funkcioj, Tox estas plene senkosta sen reklamado.",
     "sect1_learnmore": "Scii pli",
@@ -28,7 +28,7 @@
 
     "sect3_coolfeatures": "Kelkaj imponaj funkcioj",
 
-    "sect3_messages": "Mesaĝo",
+    "sect3_messages": "Mesaĝoj",
     "sect3_messages_blurb": "Je via direkto.\n Vi ĉiam konscias la komunumon kun rapida sekura mesaĝado.",
 
     "sect3_voice": "Voko",
@@ -53,7 +53,7 @@
     "sect6_freesoftware": "Libera programaro",
     "sect6_developers": "Ni estas imponaj popoloj el <span class=\"text normal\">la tuta mondo</span>.",
 
-    "sect6_mailinglist_title": "Ada sciu",
+    "sect6_mailinglist_title": "Subteni informita",
     "sect6_mailinglist": "Abonu al mian dissendoliston por ĝisdatigoj pri Tox.",
     "sect6_email": "Retpoŝtadreso",
 
@@ -63,4 +63,8 @@
     "dev_links": "Programista ejoj",
     "dev_blog": "Programada blogo",
     "dev_docs": "Dokumentado"
+    "donate_header": "Donaci",
+	"donate_about": "Vidi kiel vi povas helpi ekstere de donacanta, bonvolu viziti nian <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donacan</a> vikian artikolon. Dankonas Vi!",
+	"missedplatform": "Ne via platformo?",
+	"connect": "por"
 }
