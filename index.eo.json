@@ -12,6 +12,7 @@
     "nv_contribute": "Kontributi",
     "nv_wiki": "Viki",
     "nv_support": "Bontenado",
+    
     "sect1_slogan": "Sekura babilo por ĉiuj",
     "sect1_description": "Per la kresko de ŝtataj kaŝeaŭskultoj, Tox provizas tre facilan aplikaĵon ke allasas babili kun amikoj kaj la familio sen aliaj aŭskultas. Dum aliaj popularaj servoj postulas monon por funkcioj, Tox estas plene senkosta sen reklamado.",
     "sect1_learnmore": "Scii pli",
@@ -31,15 +32,13 @@
     "sect3_messages": "Mesaĝoj",
     "sect3_messages_blurb": "Je via direkto.\n Vi ĉiam konscias la komunumon kun rapida sekura mesaĝado.",
 
-    "sect3_voice": "Voko",
+    "sect3_voice": "Vokoj",
     "sect3_voice_blurb": "Daŭre konas.\n Vokoj estas senkosta kaj sekura kun aliaj Tox uzantoj.",
 
     "sect3_video": "Video",
     "sect3_video_blurb": "Kion vi vidas estas vera.\n Renkonti kun sekura videokonversacio.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
-    "sect4_principles": "Tujmesaĝado, retbabilado kun video, kaj similaj",
 
     "sect4_security": "Sekureco",
     "sect4_security_blurb": "Tox estas serioza pri via privateco. <br/>Kun <span class=\"text bold\">supra-kvalita ĉifrado</span>, vi povas dormi trankvile. Nur la ricevantoj povas legi vian mesaĝojn.",
@@ -63,8 +62,10 @@
     "dev_links": "Programista ejoj",
     "dev_blog": "Programada blogo",
     "dev_docs": "Dokumentado",
+    
     "donate_header": "Donaci",
     "donate_about": "Vidi kiel vi povas helpi ekstere de donacanta, bonvolu viziti nian <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donacan</a> vikian artikolon. Dankonas Vi!",
+    
     "missedplatform": "Ne via platformo?",
     "connect": "por"
 }
