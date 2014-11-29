@@ -59,5 +59,13 @@
     "sect6_joinongithub": "Pomozite nam da izgradimo TOX na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHubu</a>.",
     
     "sect6_needhelp": "Treba Vam pomoć?",
-    "sect6_githubtoirc": "Pokrenite Vaš sopstveni projekat i pitajte nas na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRCu</a>!"
+    "sect6_githubtoirc": "Pokrenite Vaš sopstveni projekat i pitajte nas na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRCu</a>!",
+    
+    "sect6_mailinglist_title": "Ostanimo u kontaktu",
+    "sect6_mailinglist": "Prijavite se na našu mailing listu za novostima o napretku Tox.",
+    "sect6_email": "email adresa", 
+    
+    "dev_links": "Poveznice za programere",
+    "dev_blog": "Blog začetnika",
+    "dev_docs": "Dokumentacija"
 }
