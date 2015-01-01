@@ -25,7 +25,7 @@ def reply(msg):
     if msg['header']['PATH'] == '/tox.pdf':
         return {"code": 302, "msg": "Jenkins forward", "header": {"Location": "https://jenkins.libtoxcore.so/job/Technical_Report/lastSuccessfulBuild/artifact/tox.pdf/"}}
 
-    if msg['header']['PATH'].startswith('/request301/'):
+    if msg['header']['PATH'].startswith('/f/'):
         loc = msg['header']['PATH'].split('/', 2)[2]
         return {"code": 200, "msg": "About to view a site off Tox.im, are you sure you'd like to <a href='/forward/" + loc + "'>continue?</a>", "header": {"Content-Type": 'text/html'}}
 
