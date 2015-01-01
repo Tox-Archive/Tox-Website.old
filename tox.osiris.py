@@ -20,10 +20,10 @@ def reply(msg):
         return {"code": 200, "msg": dat}
 
     if msg['header']['PATH'] == '/downloads':
-        return {"code": 301, "msg": "wiki", "header": {"Location": "https://wiki.tox.im/Binaries"}}
+        return {"code": 302, "msg": "wiki", "header": {"Location": "https://wiki.tox.im/Binaries"}}
 
     if msg['header']['PATH'] == '/tox.pdf':
-        return {"code": 301, "msg": "Jenkins forward", "header": {"Location": "https://jenkins.libtoxcore.so/job/Technical_Report/lastSuccessfulBuild/artifact/tox.pdf/"}}
+        return {"code": 302, "msg": "Jenkins forward", "header": {"Location": "https://jenkins.libtoxcore.so/job/Technical_Report/lastSuccessfulBuild/artifact/tox.pdf/"}}
 
     if msg['header']['PATH'].startswith('/request301/'):
         loc = msg['header']['PATH'].split('/', 2)[2]
@@ -31,7 +31,7 @@ def reply(msg):
 
     if msg['header']['PATH'].startswith('/forward/'):
         loc = msg['header']['PATH'].split('/', 2)[2]
-        return {"code": 301, "msg": "wiki", "header": {"Location": loc}}
+        return {"code": 302, "msg": "wiki", "header": {"Location": loc}}
 
     if msg['header']['PATH'] != '/assets':
         if msg['header']['PATH'] != '/':
