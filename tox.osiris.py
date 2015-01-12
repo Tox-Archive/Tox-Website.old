@@ -1,6 +1,4 @@
-def runonce():
-    return {}
-
+import os.path
 
 def reply(msg):
 
@@ -9,15 +7,6 @@ def reply(msg):
     except:
         lang = 'en'
 
-    if msg['header']['PATH'] == '/ip_stats':
-        dat = "<p>"
-        for ip in msg['runonce']:
-            dat = dat + \
-                '%s has visited this page %s times<br>' % (
-                    ip, msg['runonce'][ip])
-        dat += "</p><br>" + \
-            str(msg['runonce'])
-        return {"code": 200, "msg": dat}
 
     if msg['header']['PATH'] == '/downloads':
         return {"code": 302, "msg": "wiki", "header": {"Location": "https://wiki.tox.im/Binaries"}}
@@ -27,7 +16,7 @@ def reply(msg):
 
     if msg['header']['PATH'].startswith('/f/'):
         loc = msg['header']['PATH'].split('/', 2)[2]
-        return {"code": 200, "msg": "About to view a site off Tox.im, are you sure you'd like to <a href='/forward/" + loc + "'>continue?</a>", "header": {"Content-Type": 'text/html'}}
+        return {"code": 200, "msg": "About to view a site off Tox.im, are you sure you'd like to <a href='/forward/" + loc + "'>continue?</a>"}
 
     if msg['header']['PATH'].startswith('/forward/'):
         loc = msg['header']['PATH'].split('/', 2)[2]
@@ -36,8 +25,10 @@ def reply(msg):
     if msg['header']['PATH'] != '/assets':
         if msg['header']['PATH'] != '/':
             lang = msg['header']['PATH'].split('/', 1)[1]
+            if os.path.isfile("/etc/osiris/app/tox/site/" + lang + ".html") == False:
+                lang = "en"
 
     if msg['header']['PATH'].startswith('/assets'):
         return {"code": 200, "file": msg['header']['PATH'].split('/', 1)[1]}
     else:
-        return {"code": 200, "file": "site/" + lang + ".html", "header": {"Content-Type": 'text/html', "X-Powered-By": 'OSIRIS Mach/4'}}
+        return {"code": 200, "file": "site/" + lang + ".html", "header": {"X-Powered-By": 'OSIRIS Mach/4'}}
