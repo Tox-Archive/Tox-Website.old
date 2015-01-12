@@ -5,8 +5,10 @@ def reply(msg):
     try:
         lang = msg['header']['Accept-Language'].split(',')[0].split('-')[0]
     except:
-        lang = 'en'
-
+        try:
+            lang = msg['header']['accept-language'].split(',')[0].split('-')[0]
+        except:
+            lang = 'en'
 
     if msg['header']['PATH'] == '/downloads':
         return {"code": 302, "msg": "wiki", "header": {"Location": "https://wiki.tox.im/Binaries"}}
