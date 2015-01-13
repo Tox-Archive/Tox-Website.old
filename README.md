@@ -1,3 +1,5 @@
+**Current build status:** 
+[![Build Status](https://travis-ci.org/Tox/Tox-Website.svg)](https://travis-ci.org/Tox/Tox-Website)
 Tox.im
 ==================
 
