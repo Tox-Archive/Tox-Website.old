@@ -24,6 +24,12 @@
         <!--[if lte IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+	<section class="bck dark" id="langqsection" style="padding: 10px 0px 10px 0px; display: none;">
+        <div class="row text center">
+            <p id="langqtext">Hey there! Did you get Tox.im in the right language? <a href="#" id="langcorrect">Yes</a> <a href="#" id="langwrong">No</a></p>
+        </div>
+    </section>
+
 	<header class="bck light padding">
 		<div class="row">
 			<div class="column_2">
@@ -135,5 +141,28 @@
 			</div>
 		</section>
 	</footer>
+
+    <!-- Simple script to ask people if their language is correct.
+         This JavaScript is put into the public domain under CC0 -->
+    <script>
+        function showThanks() {
+            document.getElementById("langqtext").textContent = "Thanks!";
+            setTimeout(function () {
+                document.getElementById("langqsection").style.display = "none";
+            }, 2500);
+        };
+
+        document.getElementById("langqsection").style.display = "block";
+        document.getElementById("langcorrect").onclick = function() { showThanks(); };
+        document.getElementById("langwrong").onclick = function() {
+            // Show thanks
+            showThanks();
+
+            // Report this language as incorrect
+            var request = new XMLHttpRequest();
+            request.open("GET", "https://osiris.tox.im/langfeedback/" + Math.random() * 10000000000, true);
+            request.send(null);
+        };
+    </script>
 </body>
 </html>
