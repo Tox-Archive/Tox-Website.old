@@ -1,66 +1,79 @@
 {
     "_author": "Josh Liberty",
     "_language": "עברית",
-    "_comment": "Needs RTL support to really work!",
+    "_comment": "",
     "_ind": 0,
     "_direction": "rtl",
 
-    "lf_title": "Tox",
-    
+    "lf_title": "Tox: סוג חדש של מסרים מידיים",
+
     "nv_home": "ראשי",
     "nv_about": "אודות",
     "nv_features": "תכונות",
     "nv_contribute": "עזרו לנו",
-    
-    "sect1_slogan": "תקשורת מאובטחת לכולם, בקרוב.",
-    "sect1_description": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, Tox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ואהוביכם, בלי מאזינים בלתי רצויים.",
+    "nv_wiki": "ויקי",
+    "nv_support": "תמיכה",
+    "nv_donate": "תרמו לנו",
+    "nv_source_code": "מקור",
+
+    "sect1_slogan": "סוג חדש של מסרים מידיים",
+    "sect1_description": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, Tox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ויקיריכם, בלי מאזינים בלתי רצויים.",
     "sect1_learnmore": "מידע נוסף",
     "sect1_download": "הורדה",
-    "sect1_notavail": "Tox עדיין אינה מוכנה, הורדות יתאפשרו בקרוב!",
-    
-    
+    "sect1_nightly": "אתם יכולים להוריד את Tox nightlies; היזהרו, אלו עשויות להיות בעיתיות!",
+    "download_nightly": "Nightlies",
+    "download_warning": "Nightlies אינן עבור בעלי לב חלש, אתם עלולים לחוות תקלות, קריסות, ומינון גדול של תסכול. ראו הוזהרתם!",
+    "download_distro": "אנא בחרו את ההפצה שלכם",
+
     "sect2_abouttox": "אודות Tox",
-    
-    "sect2_aboutbody": "Tox נבנתה מתוך אמונה כי אתם יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, Tox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם Tox ככל העולה על רוחכם.",
-    
-    
+
+    "sect2_aboutbody": "Tox נבנתה מתוך אמונה כי אתם כן יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, Tox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם Tox ככל העולה על רוחכם.",
+
+
     "sect3_coolfeatures": "תכונות מגניבות",
-    
+
     "sect3_messages": "הודעות",
-    "sect3_messages_blurb": "בקצות אצבעותיך.\n אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
-    
+    "sect3_messages_blurb": "בקצות אצבעותיכם.\n אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
+
     "sect3_voice": "שיחות",
     "sect3_voice_blurb": "הישארו בקשר.\n שוחחו בחינם ובבטחה עם משתמשי Tox נוספים.",
-    
+
     "sect3_video": "וידאו",
     "sect3_video_blurb": "לראות זה להאמין.\n התעדכנו פנים אל פנים בשיחת וידאו מאובטחת.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "הודעות מידיות, שיחות וידאו, ועוד",
-    
+
     "sect4_security": "אבטחה",
     "sect4_security_blurb": "Tox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים כי ההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
-    
+
     "sect4_easy": "קלות שימוש",
     "sect4_easy_blurb": "בניגוד לפתרונות תקשורת מאובטחים אחרים, Tox אינה דורשת מכם להיות מתכנתי מחשבים. Tox מגיעה עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
-    
+
+
     "sect4_freedom": "חופש",
     "sect4_freedom_blurb": "Tox הינה גם חופשית לשימוש, וגם חופשית לשינוי. אתם חופשיים לחלוטין להשתמש ולשנות את Tox. מעבר לכך, <span class=\"text bold\">Tox לעולם לא תציק לכם עם פרסומות, או תדרוש מכם לשלם עבור תכונות.</span>",
-    
-    
-    "sect5_contribute": "עזרו לנו",
-    
-    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב־<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
-    "sect5_sourceongithub": "קוד מקור ב־GitHub",
-    
-    "sect6_freesoftware": "תוכנה חופשית",
+
+
+    "sect6_freesoftware": "תכנה חופשית",
     "sect6_developers": "אנחנו חבר׳ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
-    
+
     "sect6_mailinglist_title": "הישארו בעניינים",
     "sect6_mailinglist": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של Tox.",
     "sect6_email": "כתובת דוא״ל",
-    
+
     "sect6_needhelp": "צריכים עזרה?",
-    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "קישורי פיתוח",
+    "dev_blog": "בלוג פיתוח",
+    "dev_docs": "תיעוד",
+
+    "donate_header": "תרמו",
+    "donate_about": "כדי לראות כיצד אתם יכולים לעזור באמצעות תרומה, אנא בקרו במאמר ויקי <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">תרומות</a>. תודה לכם!",
+
+    "missedplatform": "לא הפלטפורמה שלכם?",
+    "connect": "עבור"
+
+
+
 }
