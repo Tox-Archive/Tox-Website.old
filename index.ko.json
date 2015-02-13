@@ -1,0 +1,76 @@
+{
+    "_author": "noraesae",
+    "_language": "한국어",
+    "_comment": "Translation in Korean. Some modification may be needed later.",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+
+    "nv_home": "홈",
+    "nv_about": "Tox란",
+    "nv_features": "특징",
+    "nv_contribute": "기여하기",
+    "nv_wiki": "위키",
+    "nv_support": "고객센터",
+    "nv_donate": "기부하기",
+    "nv_source_code": "소스코드",
+
+    "sect1_slogan": "완전히 새로운 방식의 인스턴트 메세지",
+    "sect1_description": "국가 기관들의 메세지 앱 감시가 심해지는 가운데, Tox는 그 누구의 감시도 받지 않고 친구나 가족과 연락할 수 있는 쉬운 방법을 제시합니다. 다른 큰 회사들의 메세지 서비스가 여러 기능들을 유료로 제공하고 있지만, Tox는 완전히 무료입니다! 광고도 물론 없죠.",
+    "sect1_learnmore": "더 알아보기",
+    "sect1_download": "다운로드",
+    "sect1_nightly": "Tox의 개발중인 버전들도 다운받을 수 있지만, 버그가 있을 수 있어요!",
+    "download_nightly": "개발 버전",
+    "download_warning": "개발 버전들은 버그나 크래시가 발생 할 수 있기 때문에, 사용중에 크게 실망하실 수도 있습니다. 경고했어요!",
+    "download_distro": "다운받고 싶은 버전을 선택해주세요.",
+
+    "sect2_abouttox": "Tox에 대해",
+
+    "sect2_aboutbody": "최근엔 모든 국가 기관들이 우리가 온라인에서 무엇을 하는지에 대해 관심이 있습니다. Tox는 \"개인 정보가 우선이다\"라는 원칙 아래에 어떤 타협도 하지 않습니다.\n 당신의 안전이 우리의 가장 높은 우선순위이며, 그 무엇도 그 우선순위를 바꿀 순 없을 것입니다.",
+
+
+    "sect3_coolfeatures": "문자 메세지, 화상 채팅, 원하는 모든 것",
+
+    "sect3_messages": "메세지",
+    "sect3_messages_blurb": "언제나 처럼 간단하게.\n 하지만 완벽한 암호화와 함께합니다.",
+
+    "sect3_voice": "통화",
+    "sect3_voice_blurb": "마음껏 연락하세요.\n 다른 Tox 유저들과 안전한 무료 통화를 즐기세요.",
+
+    "sect3_video": "화상 통화",
+    "sect3_video_blurb": "보지 않으면 멀어진다고들 하죠.\n 안전한 화상통화로 친구들과의 거리를 더 좁혀보세요.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_security": "보안",
+    "sect4_security_blurb": "Tox는 당신의 보안을 중요하게 생각합니다.<br/><span class=\"text bold\">강력한 보안</span>을 통해 보낸 메세지는 언제나 받는 사람들만 확인이 가능합니다.",
+
+    "sect4_easy": "손쉬운 사용",
+    "sect4_easy_blurb": "다른 보안화된 메세징 솔루션과는 다르게, Tox는 전문화된 지식을 요구하지 않습니다. Tox는 <span class=\"text bold\">손쉬운 사용</span>을 가장 중요하게 생각한 인터페이스를 제공하기 때문에, 사용자가 대화에만 집중할 수 있도록 해줍니다.",
+
+    "sect4_freedom": "자유",
+    "sect4_freedom_blurb": "Tox는 무료일 뿐 아니라, 당신이 원하는 대로 수정할 수 있습니다. 당신은 Tox를 사용하고, 변경할 자유가 있습니다. <span class=\"text bold\">Tox는 영원히 무료일 것이며, 영원히 광고없이 사용이 가능할 것입니다</span>.",
+
+    "sect6_freesoftware": "자유 소프트웨어",
+    "sect6_developers": "우리는 <span class=\"text normal\">전 세계에서 모인</span> 멋진 사람들입니다.",
+
+    "sect6_mailinglist_title": "최신 소식을 확인하세요!",
+    "sect6_mailinglist": "Tox의 업데이트 등을 확인하시려면 메일링 리스트를 구독해보세요.",
+    "sect6_email": "이메일 주소",
+
+    "sect6_needhelp": "도움이 필요하신가요?",
+    "sect6_githubtoirc": "Tox의 사용이나 개발에 궁금한 점이 있으시면 <span class=\"text normal\">GitHub</span> 혹은 <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>에서 문의해주세요!",
+
+    "dev_links": "개발자 링크",
+    "dev_blog": "개발자 블로그",
+    "dev_docs": "문서",
+
+    "donate_header": "기부하기",
+    "donate_about": "당신의 기부가 어떻게 우리를 도울 수 있는지 확인하시려면 <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">기부</a> 위키 문서를 참고해주세요. 고맙습니다!",
+
+    "missedplatform": "당신의 플랫폼이 아닌가요?",
+    "connect": "용"
+
+
+
+}
