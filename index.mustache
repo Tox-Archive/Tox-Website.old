@@ -135,29 +135,19 @@
 				{{/languages}}
 			</div>
 		</section>
-	</footer>
-
-    <!-- Simple script to ask people if their language is correct.
-         This JavaScript is put into the public domain under CC0 -->
-    <script>
-        function showThanks() {
-            document.getElementById("langqtext").textContent = "Thanks!";
-            setTimeout(function () {
-                document.getElementById("langqsection").style.display = "none";
-            }, 2500);
-        };
-
-        document.getElementById("langqsection").style.display = "block";
-        document.getElementById("langcorrect").onclick = function() { showThanks(); };
-        document.getElementById("langwrong").onclick = function() {
-            // Show thanks
-            showThanks();
-
-            // Report this language as incorrect
-            var request = new XMLHttpRequest();
-            request.open("GET", "/langfeedback/" + Math.random() * 10000000000, true);
-            request.send(null);
-        };
-    </script>
+	</footer><dnt>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.tox.im/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 3]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script></dnt>
+<noscript><p><img src="//piwik.tox.im/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
 </body>
 </html>
