@@ -23,7 +23,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 mixpanel.init("4f7fec832a354dc9484bd5c60d1b68b4");</script>
 </head>
 
-<body {{#_direction}}dir="{{_direction}}"{{/_direction}}>
+<body {{#_direction}}dir="{{_direction}}"{{/_direction}} onload=mixpanel.track("old_load");>
         <!--[if lte IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
