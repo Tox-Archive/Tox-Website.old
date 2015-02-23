@@ -18,6 +18,9 @@
 	@import url('./assets/css/tuktuk.icons.min.css');
 	@import url('./assets/css/font-awesome.css');
 	</style>
+	<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4f7fec832a354dc9484bd5c60d1b68b4");</script>
 </head>
 
 <body {{#_direction}}dir="{{_direction}}"{{/_direction}}>
@@ -33,13 +36,13 @@
 			<nav class="column_10 text right bold">
 				<a href="#about">{{{nv_about}}}</a>
 				<a href="#features">{{{nv_features}}}</a>
-				<a href="https://wiki.tox.im">{{{nv_wiki}}}</a>
-				<a id="help" href="http://support.libtoxcore.so">{{{nv_support}}}</a>
-				<a href="https://github.com/irungentoo/toxcore">{{{nv_source_code}}}</a>
-				<a id="donate" href="https://donate.tox.im">{{{nv_donate}}}</a>
-				<a href="https://www.reddit.com/r/projecttox"><span class="fa fa-reddit-square" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
-				<a href="https://www.facebook.com/toxproject"><span class="fa fa-facebook" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
-				<a href="https://twitter.com/ProjectTox"><span class="fa fa-twitter" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>			</nav>
+				<a onclick=mixpanel.track("old_wiki"); href="https://wiki.tox.im">{{{nv_wiki}}}</a>
+				<a id="help" onclick=mixpanel.track("old_support"); href="http://support.libtoxcore.so">{{{nv_support}}}</a>
+				<a onclick=mixpanel.track("old_toxcore"); href="https://github.com/irungentoo/toxcore">{{{nv_source_code}}}</a>
+				<a id="donate" onclick=mixpanel.track("old_donate"); href="https://donate.tox.im">{{{nv_donate}}}</a>
+				<a onclick=mixpanel.track("old_reddit"); href="https://www.reddit.com/r/projecttox"><span class="fa fa-reddit-square" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
+				<a onclick=mixpanel.track("old_facebook"); href="https://www.facebook.com/toxproject"><span class="fa fa-facebook" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
+				<a onclick=mixpanel.track("old_twitter"); href="https://twitter.com/ProjectTox"><span class="fa fa-twitter" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>			</nav>
 		</div>
 	</header>
 
@@ -51,10 +54,10 @@
 		</div>
 		<div class="row text center">
 			<div class="column_3 offset_3">
-				<a href="https://wiki.tox.im/FAQ" class="button large secondary"><span class="fa fa-info-circle">&nbsp;</span>{{{sect1_learnmore}}}</a>
+				<a href="https://wiki.tox.im/FAQ" onclick=mixpanel.track("old_learnmore"); class="button large secondary"><span class="fa fa-info-circle">&nbsp;</span>{{{sect1_learnmore}}}</a>
 			</div>
 			<div class="column_3">
-				<a href="/downloads" style="background-image:url('//dist-build.tox.im/assets/imgs/button-caution.png');" class="button large"><span class="fa fa-download">&nbsp;</span>{{{sect1_download}}}</a><br>
+				<a href="/downloads" onclick=mixpanel.track("old_download"); style="background-image:url('//dist-build.tox.im/assets/imgs/button-caution.png');" class="button large"><span class="fa fa-download">&nbsp;</span>{{{sect1_download}}}</a><br>
 				{{{sect1_nightly}}}
 			</div>
 		</div>
@@ -117,10 +120,9 @@
 			<div class="row margin-top margin-bottom">
 				<div class="column_3">
 					<p class="text bold big">{{{dev_links}}}</p>
-					&middot; <a href="https://github.com/irungentoo/toxcore">GitHub</a><br>
-					&middot; <a href="https://jenkins.libtoxcore.so/">Jenkins</a><br>
-					&middot; <a href="https://libtoxcore.so/">{{{dev_docs}}}</a><br>
-					&middot; <a href="//blog.tox.im/">{{{dev_blog}}}</a><br>
+					&middot; <a onclick=mixpanel.track("old_jenkins"); href="https://jenkins.libtoxcore.so/">Jenkins</a><br>
+					&middot; <a onclick=mixpanel.track("old_docs"); href="https://libtoxcore.so/">{{{dev_docs}}}</a><br>
+					&middot; <a onclick=mixpanel.track("old_blog"); href="//blog.tox.im/">{{{dev_blog}}}</a><br>
 				</div>
 				<div class="column_3 offset_5">
 					<p class="text bold big">{{{sect6_needhelp}}}</p>
@@ -131,23 +133,10 @@
 		<section class="bck light padding text small">
 			<div class="row margin-top margin-bottom">
 				{{#languages}}
-				<a href="{{{lang_shortcode}}}">{{{lang_name}}}</a>{{^last}}&nbsp; &middot; &nbsp;{{/last}}
+				<a onclick=mixpanel.track("old_lang_{{{lang_shortcode}}}"); href="{{{lang_shortcode}}}">{{{lang_name}}}</a>{{^last}}&nbsp; &middot; &nbsp;{{/last}}
 				{{/languages}}
 			</div>
 		</section>
-	</footer><tracker>
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.tox.im/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 3]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script></tracker>
-<noscript><p><img src="//piwik.tox.im/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+	</footer>
 </body>
 </html>
