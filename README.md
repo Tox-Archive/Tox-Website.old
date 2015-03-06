@@ -1,3 +1,5 @@
+**NOTICE: Eventually, this website will be deprecated in favor of the [new site](https://github.com/pwnsdx/Tox-Website) (preview available at [beta.tox.im](https://beta.tox.im)). If you are wanting to submit translations or other contributions, we _strongly_ recommend that you submit them to the [new site](https://github.com/pwnsdx/Tox-Website) instead, as they will be put to better use.**
+
 **Current build status:** 
 [![Build Status](https://travis-ci.org/Tox/Tox-Website.svg)](https://travis-ci.org/Tox/Tox-Website)
 Tox.im
