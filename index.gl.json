@@ -1,0 +1,78 @@
+{
+    "_author": "Diego Blanco",
+    "_language": "Galego",
+    "_comment": "",
+    "_ind": 0,
+
+    "lf_title": "Tox: Un Novo Xeito de Mensaxería Instantánea",
+
+    "nv_home": "Lar",
+    "nv_about": "Sobre",
+    "nv_features": "Características",
+    "nv_contribute": "Contribúe",
+    "nv_wiki": "Wiki",
+    "nv_support": "Soporte",
+    "nv_donate": "Doa",
+    "nv_source_code": "Fontes",
+
+    "sect1_slogan": "Un Novo Xeito de Mensaxería Instantánea",
+    "sect1_description": "Co incremento de porgramas de monitorización dos gobernos, Tox ofrece un aplicativo doado de usar que che permite conectar cos teus amigos e familiares sen ninguén á espreita. Nametres outros servizos de renome requiren pagos por funcionalidades, Tox é absolutamente de balde e sen publicidade.",
+    "sect1_learnmore": "Aprender máis",
+    "sect1_download": "Descarregar",
+    "sect1_nightly": "You can download Tox nightlies; be forewarned, they may be buggy!",
+    "sect1_nightly": "Podes descarregares as 'nightlies' de Tox; ollo, poden ter fallas!",
+    "download_nightly": "Nightlies",
+    "download_warning": "As 'nightlies' non son para doentes do corazón! Poderás topar fallas, peches inesperados e grandes doses de frustración. Estás avisado!",
+    "download_distro": "Por favor, escolle a túa distribución",
+
+    "sect2_abouttox": "Sobre Tox",
+
+    "sect2_aboutbody": "Nowadays, every government seems to be interested in what we're saying online. Tox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.",
+    "sect2_aboutbody": "A día de hoxe, todo goberno semella interesado no que estamos a dicir en internet. Tox está baseado en \"primeiro a privacidade\" e non nos vendemos. A túa seguridade é a nosa prioridade principal e non hai nada no mundo que mude iso.",
+
+
+    "sect3_coolfeatures": "Mensaxería instantánea, videoconferencia e máis",
+
+    "sect3_messages": "Mensaxes",
+    "sect3_messages_blurb": "Na punta dos teus dedos.\n Está sempre informado, con mensaxes instantáneas encriptadas.",
+
+    "sect3_voice": "Chamadas",
+    "sect3_voice_blurb": "Mantente en contacto.\n Fai chamadas de Tox a Tox seguras e de balde.",
+
+    "sect3_video": "Vídeo",
+    "sect3_video_blurb": "Ver para crer.\n Fala cara a cara con videochamadas seguras.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_security": "Seguranza",
+    "sect4_security_blurb": "Tox tómase a túa privacidade en serio.<br/>Cunha <span class=\"text bold\">encriptación de primeira</span>, pódeste relaxar sabendo que a única xente lendo as túas mensaxes son só os seus destinatarios.",
+
+    "sect4_easy": "Doado de usar",
+    "sect4_easy_blurb": "Ao contrario que outras solucións de mensaxería segura, Tox non precisa que sexas un programador informático para usalo. Tox vén cunha interface de usuario <span class=\"text bold\">doada-de-usar</span> que che permite centráreste nas túas conversas.",
+
+    "sect4_freedom": "Liberdade",
+    "sect4_freedom_blurb": "Tox é á vez libre para ti o usares para ti o modificares. Alén diso, <span class=\"text bold\">Tox endexamais te molestará con publicidade ou che pedirá que pagues por funcionalidades</span>.",
+
+    "sect6_freesoftware": "Software Libre",
+    "sect6_developers": "Somos xentiña de <span class=\"text normal\">todo o mundo</span>.",
+
+    "sect6_mailinglist_title": "Fica informado",
+    "sect6_mailinglist": "Suscribete á nosa lista de correo para informareste sobre o progreso de Tox.",
+    "sect6_email": "enderezo de correo",
+
+    "sect6_needhelp": "Precisas axuda?",
+    "sect6_githubtoirc": "Comeza o teu propio proxecto e preguntanos no <span class=\"text normal\">GitHub</span> ou no <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "Ligazóns para desenvolvedores",
+    "dev_blog": "Blogue de desenvolvemento",
+    "dev_docs": "Documentación",
+
+    "donate_header": "Doa",
+    "donate_about": "Para veres como podes axudar doando, por favor visita o noso artigo de <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">doazóns</a> no wiki. Moitas grazas!",
+
+    "missedplatform": "Non é a túa plataforma?",
+    "connect": "para"
+
+
+
+}
