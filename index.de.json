@@ -11,16 +11,18 @@
     "nv_features": "Features",
     "nv_contribute": "Mitmachen",
     "nv_wiki": "Wiki",
+    "nv_support": "Hilfe",
     "nv_donate": "Spenden",
     "nv_source_code": "Quelltext",
-    "nv_blog": "Blog",
 
     "sect1_slogan": "Sichere Kommunikation für jedermann.",
     "sect1_description": "Vor dem Hintergrund sich ausweitender, großflächiger Überwachungsprogramme durch einige Regierungen ist Tox eine leicht zu bedienende Anwendung, die es Dir gestattet, Dich mit Freunden und Nahestehenden zu unterhalten, ohne dass jemand zuhört.",
     "sect1_learnmore": "Mehr erfahren",
     "sect1_download": "Download",
-    "sect1_nightly": "Hier kannst du aktuelle Versionen von Tox herunterladen. VORSICHT: Diese Versionen können fehlerhaft sein.",
-
+    "sect1_nightly": "Hier kannst du aktuelle Entwicklungsversionen von Tox herunterladen. VORSICHT: Diese Versionen können fehlerhaft sein.",
+    "download_nightly": "Entwicklungsversionen",
+    "download_warning": "Entwicklungsversionen enthalten Fehler, können abstürzen und extrem entmutigen. Deshalb wird nur erfahrenen Personen empfohlen sie zu verwenden.",
+    "download_distro": "Bitte wähle deine Distribution",
 
     "sect2_abouttox": "Über Tox",
 
@@ -40,8 +42,6 @@
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "Sofortnachrichten, Videokonferenzen und mehr",
-
     "sect4_security": "Sicherheit",
     "sect4_security_blurb": "Tox nimmt Deine Privatsphäre ernst.\n Mit <span class=\"text bold\">modernster Verschlüsselungstechnik</span> kannst Du sicher sein, dass nur die Personen Deine Nachrichten lesen können, an die Du sie geschickt hast.",
 
@@ -50,12 +50,6 @@
 
     "sect4_freedom": "Freiheit",
     "sect4_freedom_blurb": "Tox ist nicht nur kostenlos, Du kannst Tox auch uneingeschränkt nutzen und modifizieren. Weiterhin wird Dich <span class=\"text bold\">Tox niemals mit Werbung belästigen oder Dich für Funktionen bezahlen lassen.</span>",
-
-
-    "sect5_contribute": "Mitmachen",
-
-    "sect5_github": "Du möchtest mithelfen? Wir sind auf <span class=\"text normal color white\">GitHub</span>.\n Keine Programmierkenntnisse erforderlich!",
-    "sect5_sourceongithub": "Quelltext auf GitHub",
 
     "sect6_freesoftware": "Freie Software",
     "sect6_developers": "Wir sind coole Leute <span class=\"text normal\">aus der ganzen Welt</span>.",
@@ -71,6 +65,9 @@
     "dev_blog": "Entwicklerblog",
     "dev_docs": "Entwicklerlinks",
 
-    "connect": "für",
-    "missedplatform": "Nicht dein Betriebssystem?"
+    "donate_header": "Spenden",
+    "donate_about": "Wenn du mehr erfahren willst, wie du mit Spenden helfen kannst, besuche den <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">Spenden</a>-Artikel in unserem Wiki. Danke!",
+
+    "missedplatform": "Nicht dein Betriebssystem?",
+    "connect": "für"
 }
