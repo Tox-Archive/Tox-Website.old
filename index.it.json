@@ -4,22 +4,25 @@
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "Tox: Un Nuovo Tipo di Messaggistica Istantanea",
 
     "nv_home": "Home",
     "nv_about": "Chi siamo",
     "nv_features": "Caratteristiche",
     "nv_contribute": "Contribuisci",
     "nv_wiki": "Wiki",
-    "nv_blog": "Blog",
+    "nv_support": "Supporto",
+    "nv_donate": "Fai una donazione",
+    "nv_source_code": "Codice sorgente",
 
     "sect1_slogan": "Messaggistica sicura per tutti, presto in arrivo",
     "sect1_description": "Con l'aumentare dei programmi di monitoraggio da parte del governo, Tox è un'applicazione facile da usare che ti permette di connetterti con gli amici e le persone amate senza nessuno che stia a spiarvi.",
-
     "sect1_learnmore": "Di più",
     "sect1_download": "Download",
-    "sect1_notavail": "Tox non è ancora pronto, il download sarà presto disponibile!",
-
+    "sect1_nightly": "Puoi scaricare le nightlies di Tox; sei avvisato, potrebbero esserci dei bug!",
+    "download_nightly": "Nightlies",
+    "download_warning": "Le nightlies non sono per i deboli di cuore, potresti incontrare bug, crash, e grandi dosi di frustrazione. Sei stato avvisato!",
+    "download_distro": "Scegli la tua distribuzione",
 
     "sect2_abouttox": "Su Tox",
 
@@ -50,11 +53,6 @@
     "sect4_freedom": "Libertà",
     "sect4_freedom_blurb": "Tox è libero sia di esser usato, che modificato. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà mai con annunci, nè ti chiederà di pagare per funzioni aggiuntive</span>.",
 
-
-    "sect5_contribute": "Contribuisci",
-
-    "sect5_github": "Vuoi essere d'aiuto? Ci trovi su <span class=\"text normal color white\">GitHub</span>.\n Nessuna esperienza di programmazione è richiesta.",
-    "sect5_sourceongithub": "Sorgenti su GitHub",
 
     "sect6_freesoftware": "Software libero",
     "sect6_developers": "Siamo ragazzi in gamba provenienti da <span class=\"text normal\">tutto il mondo</span>.",
