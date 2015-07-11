@@ -33,4 +33,4 @@ def reply(msg):
     if msg['header']['PATH'].startswith('/assets'):
         return {"code": 200, "file": msg['header']['PATH'].split('/', 1)[1]}
     else:
-        return {"code": 200, "file": "site/" + lang + ".html", "header": {"X-Powered-By": 'OSIRIS Mach/4'}}
+        return {"code": 301, "msg": "We moved to new address", "header": {"Location": "https://tox.chat/"}}
